@@ -1,5 +1,369 @@
 [
   {
+    "objectID": "projects/nba-prospect-boosting/index.html",
+    "href": "projects/nba-prospect-boosting/index.html",
+    "title": "NBA Prospect Boosting",
+    "section": "",
+    "text": "By Adam Koplik & Will Swartz\n\n\nThis project was built for a Methods in Machine Learning course assignment where we applied several boosting algorithms to predict the future peak performance of NBA draft prospects based on their college basketball stats.\nWe compared the performance of multiple boosting techniques — AdaBoost, Gradient Boosting, and XGBoost — alongside a baseline Random Forest model to evaluate which approach handled this kind of unpredictable sports prediction problem best.\n\n\n\n\nBuild a predictive model using college basketball statistics (from 2009–2023) to forecast a prospect’s future “peak” NBA season.\nPeak was measured using FiveThirtyEight’s RAPTOR metric:\n\nTop 10% → All-Star\n\nTop 30% → Starter\n\nTop 70% → Role Player\n\nBottom 30% → Bench Warmer\n\n\nTraining data included only the final college season for each player. The 2024 draft class served as our test set.\n\n\n\n\n\nSingle Random Forest\n\nAdaBoost Classifier\n\nGradient Boosting\n\nXGBoost Classifier\n\nEach model was hyperparameter tuned, and we evaluated their classification performance and predictive confidence for notable players.\n\n\n\n\nXGBoost performed the best overall but still struggled with accuracy due to the highly variable nature of NBA outcomes.\nAdaBoost and Gradient Boosting improved on Random Forest in most cases but still reflected the limitations of predicting long-term player outcomes from college stats alone.\nExample predictions:\n\nZion Williamson — Predicted: All-Star (36.2% probability)\nZach Edey — Predicted: Role Player (48.8% probability)\nBronny James — Predicted: Bench Warmer (48.0% probability)\n\n\n\n\n\nEven with advanced boosting algorithms and hyperparameter tuning, predicting NBA careers from college stats remains a tough problem. Athleticism metrics, combine data, and workout stats would likely improve model accuracy. The project was a good demonstration of boosting algorithm mechanics and the limitations of modeling outcomes in complex, unpredictable domains like professional sports.\n\n\n\n\nPython\n\nscikit-learn\n\nXGBoost\n\npandas, NumPy\n\nMatplotlib, Seaborn\n\n\n\n\n\n\n\n    \n\n\n\n📥 Download the full presentation PDF here\n\n\n\n\nFiveThirtyEight RAPTOR player metrics\n\nBarttorvik.com college basketball stats\n\nFreund & Schapire, Intro to Boosting\n\nChen & Guestrin, XGBoost: A Scalable Tree Boosting System"
+  },
+  {
+    "objectID": "projects/nba-prospect-boosting/index.html#overview",
+    "href": "projects/nba-prospect-boosting/index.html#overview",
+    "title": "NBA Prospect Boosting",
+    "section": "",
+    "text": "This project was built for a Methods in Machine Learning course assignment where we applied several boosting algorithms to predict the future peak performance of NBA draft prospects based on their college basketball stats.\nWe compared the performance of multiple boosting techniques — AdaBoost, Gradient Boosting, and XGBoost — alongside a baseline Random Forest model to evaluate which approach handled this kind of unpredictable sports prediction problem best."
+  },
+  {
+    "objectID": "projects/nba-prospect-boosting/index.html#task",
+    "href": "projects/nba-prospect-boosting/index.html#task",
+    "title": "NBA Prospect Boosting",
+    "section": "",
+    "text": "Build a predictive model using college basketball statistics (from 2009–2023) to forecast a prospect’s future “peak” NBA season.\nPeak was measured using FiveThirtyEight’s RAPTOR metric:\n\nTop 10% → All-Star\n\nTop 30% → Starter\n\nTop 70% → Role Player\n\nBottom 30% → Bench Warmer\n\n\nTraining data included only the final college season for each player. The 2024 draft class served as our test set."
+  },
+  {
+    "objectID": "projects/nba-prospect-boosting/index.html#models-built",
+    "href": "projects/nba-prospect-boosting/index.html#models-built",
+    "title": "NBA Prospect Boosting",
+    "section": "",
+    "text": "Single Random Forest\n\nAdaBoost Classifier\n\nGradient Boosting\n\nXGBoost Classifier\n\nEach model was hyperparameter tuned, and we evaluated their classification performance and predictive confidence for notable players."
+  },
+  {
+    "objectID": "projects/nba-prospect-boosting/index.html#key-results",
+    "href": "projects/nba-prospect-boosting/index.html#key-results",
+    "title": "NBA Prospect Boosting",
+    "section": "",
+    "text": "XGBoost performed the best overall but still struggled with accuracy due to the highly variable nature of NBA outcomes.\nAdaBoost and Gradient Boosting improved on Random Forest in most cases but still reflected the limitations of predicting long-term player outcomes from college stats alone.\nExample predictions:\n\nZion Williamson — Predicted: All-Star (36.2% probability)\nZach Edey — Predicted: Role Player (48.8% probability)\nBronny James — Predicted: Bench Warmer (48.0% probability)"
+  },
+  {
+    "objectID": "projects/nba-prospect-boosting/index.html#takeaways",
+    "href": "projects/nba-prospect-boosting/index.html#takeaways",
+    "title": "NBA Prospect Boosting",
+    "section": "",
+    "text": "Even with advanced boosting algorithms and hyperparameter tuning, predicting NBA careers from college stats remains a tough problem. Athleticism metrics, combine data, and workout stats would likely improve model accuracy. The project was a good demonstration of boosting algorithm mechanics and the limitations of modeling outcomes in complex, unpredictable domains like professional sports."
+  },
+  {
+    "objectID": "projects/nba-prospect-boosting/index.html#tools-used",
+    "href": "projects/nba-prospect-boosting/index.html#tools-used",
+    "title": "NBA Prospect Boosting",
+    "section": "",
+    "text": "Python\n\nscikit-learn\n\nXGBoost\n\npandas, NumPy\n\nMatplotlib, Seaborn"
+  },
+  {
+    "objectID": "projects/nba-prospect-boosting/index.html#full-presentation",
+    "href": "projects/nba-prospect-boosting/index.html#full-presentation",
+    "title": "NBA Prospect Boosting",
+    "section": "",
+    "text": "📥 Download the full presentation PDF here"
+  },
+  {
+    "objectID": "projects/nba-prospect-boosting/index.html#sources",
+    "href": "projects/nba-prospect-boosting/index.html#sources",
+    "title": "NBA Prospect Boosting",
+    "section": "",
+    "text": "FiveThirtyEight RAPTOR player metrics\n\nBarttorvik.com college basketball stats\n\nFreund & Schapire, Intro to Boosting\n\nChen & Guestrin, XGBoost: A Scalable Tree Boosting System"
+  },
+  {
+    "objectID": "projects/election-prediction/index.html",
+    "href": "projects/election-prediction/index.html",
+    "title": "Election Prediction",
+    "section": "",
+    "text": "By Adam Koplik\n\n\nThis project forecasts the outcome of the 2024 U.S. presidential election using a weighted Bayesian probability model applied to national and swing state polling data. The goal was to create an interactive, real-time dashboard that updates predictions for each state and the overall election outlook.\n\n\n\n\nNational and state-level polling data from major aggregators\n\n2020 election results for model calibration\n\nState electoral vote allocations\n\n\n\n\n\nBuilt a weighted Bayesian model that updates candidate win probabilities as new polls come in.\nIncorporated weightings based on:\n\nPollster historical accuracy\n\nSample size\n\nRecency of the poll\n\n\nSimulated 10,000 election scenarios to generate state-by-state probabilities and national outcome distributions.\nDeveloped an RMarkdown dashboard hosted via ShinyApps.io to visualize live election forecasts and swing state probabilities.\n\n\n\n\n\nSwing State Win Probability Map\nState-by-state vote share predictions\nProjected Electoral College outcomes\nInteractive dashboard viewable online\n\n\n\n\n\n  \n\n\n\n\nR, RStudio\n\nbrms, tidyverse, shiny, ggplot2\n\nRMarkdown for dashboard construction\n\nShinyApps.io for deployment\n\n\n\n\n📊 View the interactive dashboard here\n\n\n\n\nModel assumes polls are unbiased on average, though real-world polling error is inevitable.\nNo adjustments made for early voting patterns or state-level ballot access complications.\n\n\nBuilt for my Statistics Senior Seminar, Fall 2024."
+  },
+  {
+    "objectID": "projects/election-prediction/index.html#overview",
+    "href": "projects/election-prediction/index.html#overview",
+    "title": "Election Prediction",
+    "section": "",
+    "text": "This project forecasts the outcome of the 2024 U.S. presidential election using a weighted Bayesian probability model applied to national and swing state polling data. The goal was to create an interactive, real-time dashboard that updates predictions for each state and the overall election outlook."
+  },
+  {
+    "objectID": "projects/election-prediction/index.html#data-sources",
+    "href": "projects/election-prediction/index.html#data-sources",
+    "title": "Election Prediction",
+    "section": "",
+    "text": "National and state-level polling data from major aggregators\n\n2020 election results for model calibration\n\nState electoral vote allocations"
+  },
+  {
+    "objectID": "projects/election-prediction/index.html#methodology",
+    "href": "projects/election-prediction/index.html#methodology",
+    "title": "Election Prediction",
+    "section": "",
+    "text": "Built a weighted Bayesian model that updates candidate win probabilities as new polls come in.\nIncorporated weightings based on:\n\nPollster historical accuracy\n\nSample size\n\nRecency of the poll\n\n\nSimulated 10,000 election scenarios to generate state-by-state probabilities and national outcome distributions.\nDeveloped an RMarkdown dashboard hosted via ShinyApps.io to visualize live election forecasts and swing state probabilities."
+  },
+  {
+    "objectID": "projects/election-prediction/index.html#key-features",
+    "href": "projects/election-prediction/index.html#key-features",
+    "title": "Election Prediction",
+    "section": "",
+    "text": "Swing State Win Probability Map\nState-by-state vote share predictions\nProjected Electoral College outcomes\nInteractive dashboard viewable online"
+  },
+  {
+    "objectID": "projects/election-prediction/index.html#tools-used",
+    "href": "projects/election-prediction/index.html#tools-used",
+    "title": "Election Prediction",
+    "section": "",
+    "text": "R, RStudio\n\nbrms, tidyverse, shiny, ggplot2\n\nRMarkdown for dashboard construction\n\nShinyApps.io for deployment"
+  },
+  {
+    "objectID": "projects/election-prediction/index.html#live-dashboard",
+    "href": "projects/election-prediction/index.html#live-dashboard",
+    "title": "Election Prediction",
+    "section": "",
+    "text": "📊 View the interactive dashboard here"
+  },
+  {
+    "objectID": "projects/election-prediction/index.html#limitations",
+    "href": "projects/election-prediction/index.html#limitations",
+    "title": "Election Prediction",
+    "section": "",
+    "text": "Model assumes polls are unbiased on average, though real-world polling error is inevitable.\nNo adjustments made for early voting patterns or state-level ballot access complications.\n\n\nBuilt for my Statistics Senior Seminar, Fall 2024."
+  },
+  {
+    "objectID": "projects/land-cover/index.html",
+    "href": "projects/land-cover/index.html",
+    "title": "Land Cover",
+    "section": "",
+    "text": "By Adam Koplik and Professor Heather Kropp\n\n\nBetween Summer 2023 and Spring 2024, I conducted research with Professor Heather Kropp examining how land cover in the Kolyma lowland region of northeastern Siberia has changed between the 1970s and today. The project focused on classifying historical and contemporary satellite imagery to detect changes in tree, shrub, water, and low-density forest cover, with a specific focus on the expansion of tall shrubs linked to climate change.\nWe built a Convolutional Neural Network (CNN) to classify land cover types from high-resolution imagery and compared the classifications from 1971 and 2020 to measure long-term changes.\n\n\n\n\nCollected and processed 1971 KeyHole-9 satellite imagery and 2020 WorldView-3 imagery for a 171 km² region of the Kolyma lowland.\nCreated a training dataset of 400 image tiles, manually classifying pixels into four categories: trees, water, shrubs, and low-density forest.\nDeveloped and trained a Convolutional Neural Network (CNN) using Keras to classify land cover types.\nApplied the trained model to the full imagery set, producing mosaicked land cover predictions for both time periods.\nMeasured changes in vegetation cover between 1971 and 2020 and analyzed spatial patterns relative to nearby water bodies and pre-existing vegetation.\n\n\n\n\n\nArcGIS Pro for viewing and prepping satellite imagery.\nKeras (Python) for CNN model creation and training.\nCreated training masks by manually drawing labeled polygons for each land cover class.\nExported training images and masks, trained the model, and applied predictions to full mosaicked images.\n\n\n\n\n\nFound a net increase of 14 km² in shrubland cover since 1971.\nTaiga (tree) cover remained relatively stable overall but exhibited highly heterogeneous, patchy changes across the landscape.\nVegetation changes were strongly clustered near water bodies and in proximity to existing shrubland.\nModerate-resolution greenness indices from existing datasets failed to capture this fine-scale heterogeneity.\nDemonstrated the effectiveness of high-resolution imagery paired with machine learning models for monitoring Arctic land cover changes.\n\n\n\n\n\nArcGIS Pro\n\nKeras (Python)\n\nTensorFlow\n\nJupyter Notebook\n\nWorldView-3 and KeyHole-9 satellite imagery\n\n\n\n\nThis project demonstrated the potential for high-resolution remote sensing and machine learning models to reveal nuanced patterns of vegetation change in remote Arctic regions. It highlighted both the ecological importance of shrub expansion in permafrost landscapes and the limitations of moderate-resolution greenness indices for tracking fine-scale vegetative transitions.\n\n\n\n\nDownload Summer 2023 Research Poster (PDF)\n\nDownload Abstract PDF (for AGU submission)\n\n\n\n\nSpecial thanks to Professor Heather Kropp for her mentorship throughout this project and to the Hamilton College Environmental Studies Department for supporting the research."
+  },
+  {
+    "objectID": "projects/land-cover/index.html#overview",
+    "href": "projects/land-cover/index.html#overview",
+    "title": "Land Cover",
+    "section": "",
+    "text": "Between Summer 2023 and Spring 2024, I conducted research with Professor Heather Kropp examining how land cover in the Kolyma lowland region of northeastern Siberia has changed between the 1970s and today. The project focused on classifying historical and contemporary satellite imagery to detect changes in tree, shrub, water, and low-density forest cover, with a specific focus on the expansion of tall shrubs linked to climate change.\nWe built a Convolutional Neural Network (CNN) to classify land cover types from high-resolution imagery and compared the classifications from 1971 and 2020 to measure long-term changes."
+  },
+  {
+    "objectID": "projects/land-cover/index.html#project-scope",
+    "href": "projects/land-cover/index.html#project-scope",
+    "title": "Land Cover",
+    "section": "",
+    "text": "Collected and processed 1971 KeyHole-9 satellite imagery and 2020 WorldView-3 imagery for a 171 km² region of the Kolyma lowland.\nCreated a training dataset of 400 image tiles, manually classifying pixels into four categories: trees, water, shrubs, and low-density forest.\nDeveloped and trained a Convolutional Neural Network (CNN) using Keras to classify land cover types.\nApplied the trained model to the full imagery set, producing mosaicked land cover predictions for both time periods.\nMeasured changes in vegetation cover between 1971 and 2020 and analyzed spatial patterns relative to nearby water bodies and pre-existing vegetation."
+  },
+  {
+    "objectID": "projects/land-cover/index.html#methods",
+    "href": "projects/land-cover/index.html#methods",
+    "title": "Land Cover",
+    "section": "",
+    "text": "ArcGIS Pro for viewing and prepping satellite imagery.\nKeras (Python) for CNN model creation and training.\nCreated training masks by manually drawing labeled polygons for each land cover class.\nExported training images and masks, trained the model, and applied predictions to full mosaicked images."
+  },
+  {
+    "objectID": "projects/land-cover/index.html#key-results",
+    "href": "projects/land-cover/index.html#key-results",
+    "title": "Land Cover",
+    "section": "",
+    "text": "Found a net increase of 14 km² in shrubland cover since 1971.\nTaiga (tree) cover remained relatively stable overall but exhibited highly heterogeneous, patchy changes across the landscape.\nVegetation changes were strongly clustered near water bodies and in proximity to existing shrubland.\nModerate-resolution greenness indices from existing datasets failed to capture this fine-scale heterogeneity.\nDemonstrated the effectiveness of high-resolution imagery paired with machine learning models for monitoring Arctic land cover changes."
+  },
+  {
+    "objectID": "projects/land-cover/index.html#tools-and-technologies",
+    "href": "projects/land-cover/index.html#tools-and-technologies",
+    "title": "Land Cover",
+    "section": "",
+    "text": "ArcGIS Pro\n\nKeras (Python)\n\nTensorFlow\n\nJupyter Notebook\n\nWorldView-3 and KeyHole-9 satellite imagery"
+  },
+  {
+    "objectID": "projects/land-cover/index.html#takeaways",
+    "href": "projects/land-cover/index.html#takeaways",
+    "title": "Land Cover",
+    "section": "",
+    "text": "This project demonstrated the potential for high-resolution remote sensing and machine learning models to reveal nuanced patterns of vegetation change in remote Arctic regions. It highlighted both the ecological importance of shrub expansion in permafrost landscapes and the limitations of moderate-resolution greenness indices for tracking fine-scale vegetative transitions."
+  },
+  {
+    "objectID": "projects/land-cover/index.html#full-poster-and-abstract",
+    "href": "projects/land-cover/index.html#full-poster-and-abstract",
+    "title": "Land Cover",
+    "section": "",
+    "text": "Download Summer 2023 Research Poster (PDF)\n\nDownload Abstract PDF (for AGU submission)"
+  },
+  {
+    "objectID": "projects/land-cover/index.html#acknowledgements",
+    "href": "projects/land-cover/index.html#acknowledgements",
+    "title": "Land Cover",
+    "section": "",
+    "text": "Special thanks to Professor Heather Kropp for her mentorship throughout this project and to the Hamilton College Environmental Studies Department for supporting the research."
+  },
+  {
+    "objectID": "projects/work-from-home/index.html",
+    "href": "projects/work-from-home/index.html",
+    "title": "Work From Home",
+    "section": "",
+    "text": "By Adam Koplik, Kevin Cavicchia, and Simon Le\n\n\nThis project looks at how remote work policies — both fully remote and hybrid — are affecting unemployment rates across industries in the U.S. As remote work continues to reshape the labor market post-pandemic, we wanted to see whether encouraging work-from-home arrangements helps or hurts job retention within different sectors.\n\n\n\n\nSurvey of Working Arrangements and Attitudes (SWAA) — monthly survey on work arrangements since 2020\n\nBureau of Labor Statistics (BLS) — industry-level unemployment data\n\nAmerican Time Use Survey (ATUS) — telework potential scores by industry\n\nState policy data from Oklahoma, Maryland, Vermont, and Wisconsin on remote work incentives\n\n\n\n\nWe took a two-stage regression approach: 1. Stage 1: Measured how state-level remote work policies affected the share of remote workers within industries. 2. Stage 2: Measured how changes in remote work share impacted industry unemployment rates.\nWe differentiated between: - Fully remote work - Hybrid (part-time remote) work\nUsed control variables for age, gender, race, education, and state/time fixed effects to isolate the effects.\n\n\n\n\nFully remote work policies slightly increased unemployment rates within affected industries.\n\nHybrid work policies had the opposite effect — reducing unemployment rates by about 1.6 percentage points for every 1% increase in remote work share.\n\nHybrid work seems to offer a sweet spot: providing flexibility without sacrificing job stability.\n\nFun fact: Hybrid work has become the new normal, with over 47% of U.S. employees working in some sort of hybrid arrangement by late 2023.\n\n\n\n\n \n\n\n\nRemote work’s impact on unemployment isn’t straightforward. Fully remote policies might lead to layoffs or restructuring in industries where physical presence matters. Hybrid work, though, seems to strike a good balance between productivity and flexibility, making it a safer bet for policymakers trying to protect jobs.\n\n\n\n\nR, RStudio\n\nStata\n\nSWAA, BLS, ATUS datasets\n\nLaTeX (for academic writeup)\n\n\n\n\n\nOnly four states had remote work policies in place during our study window, limiting generalizability.\n\nSWAA data is pooled cross-sectional — can’t track individual workers over time.\n\nVariations in industry labeling across datasets required careful manual standardization.\n\n\n\n\n📥 Download the full PDF paper here\n\nBuilt for my Labor Economics seminar at Hamilton College (Spring 2024)."
+  },
+  {
+    "objectID": "projects/work-from-home/index.html#overview",
+    "href": "projects/work-from-home/index.html#overview",
+    "title": "Work From Home",
+    "section": "",
+    "text": "This project looks at how remote work policies — both fully remote and hybrid — are affecting unemployment rates across industries in the U.S. As remote work continues to reshape the labor market post-pandemic, we wanted to see whether encouraging work-from-home arrangements helps or hurts job retention within different sectors."
+  },
+  {
+    "objectID": "projects/work-from-home/index.html#data-sources",
+    "href": "projects/work-from-home/index.html#data-sources",
+    "title": "Work From Home",
+    "section": "",
+    "text": "Survey of Working Arrangements and Attitudes (SWAA) — monthly survey on work arrangements since 2020\n\nBureau of Labor Statistics (BLS) — industry-level unemployment data\n\nAmerican Time Use Survey (ATUS) — telework potential scores by industry\n\nState policy data from Oklahoma, Maryland, Vermont, and Wisconsin on remote work incentives"
+  },
+  {
+    "objectID": "projects/work-from-home/index.html#methods",
+    "href": "projects/work-from-home/index.html#methods",
+    "title": "Work From Home",
+    "section": "",
+    "text": "We took a two-stage regression approach: 1. Stage 1: Measured how state-level remote work policies affected the share of remote workers within industries. 2. Stage 2: Measured how changes in remote work share impacted industry unemployment rates.\nWe differentiated between: - Fully remote work - Hybrid (part-time remote) work\nUsed control variables for age, gender, race, education, and state/time fixed effects to isolate the effects."
+  },
+  {
+    "objectID": "projects/work-from-home/index.html#key-results",
+    "href": "projects/work-from-home/index.html#key-results",
+    "title": "Work From Home",
+    "section": "",
+    "text": "Fully remote work policies slightly increased unemployment rates within affected industries.\n\nHybrid work policies had the opposite effect — reducing unemployment rates by about 1.6 percentage points for every 1% increase in remote work share.\n\nHybrid work seems to offer a sweet spot: providing flexibility without sacrificing job stability.\n\nFun fact: Hybrid work has become the new normal, with over 47% of U.S. employees working in some sort of hybrid arrangement by late 2023."
+  },
+  {
+    "objectID": "projects/work-from-home/index.html#takeaways",
+    "href": "projects/work-from-home/index.html#takeaways",
+    "title": "Work From Home",
+    "section": "",
+    "text": "Remote work’s impact on unemployment isn’t straightforward. Fully remote policies might lead to layoffs or restructuring in industries where physical presence matters. Hybrid work, though, seems to strike a good balance between productivity and flexibility, making it a safer bet for policymakers trying to protect jobs."
+  },
+  {
+    "objectID": "projects/work-from-home/index.html#tools-used",
+    "href": "projects/work-from-home/index.html#tools-used",
+    "title": "Work From Home",
+    "section": "",
+    "text": "R, RStudio\n\nStata\n\nSWAA, BLS, ATUS datasets\n\nLaTeX (for academic writeup)"
+  },
+  {
+    "objectID": "projects/work-from-home/index.html#limitations",
+    "href": "projects/work-from-home/index.html#limitations",
+    "title": "Work From Home",
+    "section": "",
+    "text": "Only four states had remote work policies in place during our study window, limiting generalizability.\n\nSWAA data is pooled cross-sectional — can’t track individual workers over time.\n\nVariations in industry labeling across datasets required careful manual standardization."
+  },
+  {
+    "objectID": "projects/work-from-home/index.html#full-paper",
+    "href": "projects/work-from-home/index.html#full-paper",
+    "title": "Work From Home",
+    "section": "",
+    "text": "📥 Download the full PDF paper here\n\nBuilt for my Labor Economics seminar at Hamilton College (Spring 2024)."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html",
+    "href": "projects/severe-weather/index.html",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "Adam Koplik\n\n\nThis project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation.\n\n\n\n\nNOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis\n\n\n\n\nAfter cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share.\n\n\n\n\nDistricts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic.\n\n\n\n\nInfographic and Data Visualizations:\n\n\n\nInfographic\n\n\n\n   \n\n\n\nWhile this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play.\n\n\n\n\nR, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#overview",
+    "href": "projects/severe-weather/index.html#overview",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "This project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#data-sources",
+    "href": "projects/severe-weather/index.html#data-sources",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "NOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis"
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#methods",
+    "href": "projects/severe-weather/index.html#methods",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "After cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#key-results",
+    "href": "projects/severe-weather/index.html#key-results",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "Districts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#visualizations",
+    "href": "projects/severe-weather/index.html#visualizations",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "Infographic and Data Visualizations:\n\n\n\nInfographic"
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#conclusions",
+    "href": "projects/severe-weather/index.html#conclusions",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "While this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#tools-used",
+    "href": "projects/severe-weather/index.html#tools-used",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "R, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html",
+    "href": "projects/commodity-cost-impacts/index.html",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "By Adam Koplik\n\n\nDuring my summer internship at a mid-sized poultry company, I built a financial simulation model to help the company forecast how changes in commodity prices (corn and soybean meal) would affect their gross profit margins. The poultry industry is heavily impacted by fluctuations in feed costs, and the company needed a way to quantify those impacts under different pricing and operational scenarios to support pricing, hedging, and operational decisions.\n\n\n\nFeed ingredients like corn and soybean meal make up the majority of a poultry processor’s costs. These prices are volatile and difficult to predict. Since the company wasn’t vertically integrated, they couldn’t control these input costs directly.\nTo manage risk and profitability, they needed a tool that could: - Simulate how changes in commodity prices would impact per-pound live chicken costs - Forecast overall profitability under different operational and market conditions - Identify pricing or volume changes needed to hit profit margin targets\n\n\n\nI created an interactive simulation tool in R that: - Allowed users to input different corn and soybean prices - Modeled the live chicken cost per pound based on those inputs - Calculated projected gross margins for the company given different revenue, labor, and packaging cost scenarios - Recommended price changes or volume adjustments needed to meet gross margin targets\nThe tool also generated visualizations showing the financial outcomes under different scenarios, making it easier for the executive team to see their cost exposure.\n\n\n\n\nR and RStudio\n\nShiny (for future deployment)\n\nggplot2, dplyr, caret, flexdashboard, plotly, tidyverse, and other R packages\n\nExcel for financial data cleaning and prep\n\nConverted into Tableau\n\n\n\n\n\nQuantified how a $0.10/bushel change in corn or $10/ton change in soybean meal would affect per-pound costs.\nIdentified price ranges and volume scenarios needed to hit a 20% gross margin goal under various commodity market conditions.\nCreated dynamic dashboards and scenario tables to visualize results for different hedging and pricing decisions.\nThe model accurately matched historical financials with an average gross margin error of less than 0.3%, excluding outlier months like Thanksgiving season.\n\n\n\n\nThis project taught me how to combine financial modeling, data analysis, and visualization to support operational decision-making in a real business setting. It also reinforced how important it is for mid-sized businesses to have tools that translate complex market dynamics into actionable, day-to-day business strategies.\n\n\n\n\n  \n\n\n\nAccess the working dashboard here\n\n\n\n📥 Download the full project report PDF here"
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#overview",
+    "href": "projects/commodity-cost-impacts/index.html#overview",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "During my summer internship at a mid-sized poultry company, I built a financial simulation model to help the company forecast how changes in commodity prices (corn and soybean meal) would affect their gross profit margins. The poultry industry is heavily impacted by fluctuations in feed costs, and the company needed a way to quantify those impacts under different pricing and operational scenarios to support pricing, hedging, and operational decisions."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#business-problem",
+    "href": "projects/commodity-cost-impacts/index.html#business-problem",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "Feed ingredients like corn and soybean meal make up the majority of a poultry processor’s costs. These prices are volatile and difficult to predict. Since the company wasn’t vertically integrated, they couldn’t control these input costs directly.\nTo manage risk and profitability, they needed a tool that could: - Simulate how changes in commodity prices would impact per-pound live chicken costs - Forecast overall profitability under different operational and market conditions - Identify pricing or volume changes needed to hit profit margin targets"
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#approach",
+    "href": "projects/commodity-cost-impacts/index.html#approach",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "I created an interactive simulation tool in R that: - Allowed users to input different corn and soybean prices - Modeled the live chicken cost per pound based on those inputs - Calculated projected gross margins for the company given different revenue, labor, and packaging cost scenarios - Recommended price changes or volume adjustments needed to meet gross margin targets\nThe tool also generated visualizations showing the financial outcomes under different scenarios, making it easier for the executive team to see their cost exposure."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#tools-and-technologies",
+    "href": "projects/commodity-cost-impacts/index.html#tools-and-technologies",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "R and RStudio\n\nShiny (for future deployment)\n\nggplot2, dplyr, caret, flexdashboard, plotly, tidyverse, and other R packages\n\nExcel for financial data cleaning and prep\n\nConverted into Tableau"
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#key-results",
+    "href": "projects/commodity-cost-impacts/index.html#key-results",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "Quantified how a $0.10/bushel change in corn or $10/ton change in soybean meal would affect per-pound costs.\nIdentified price ranges and volume scenarios needed to hit a 20% gross margin goal under various commodity market conditions.\nCreated dynamic dashboards and scenario tables to visualize results for different hedging and pricing decisions.\nThe model accurately matched historical financials with an average gross margin error of less than 0.3%, excluding outlier months like Thanksgiving season."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#takeaways",
+    "href": "projects/commodity-cost-impacts/index.html#takeaways",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "This project taught me how to combine financial modeling, data analysis, and visualization to support operational decision-making in a real business setting. It also reinforced how important it is for mid-sized businesses to have tools that translate complex market dynamics into actionable, day-to-day business strategies."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#dashboard-access",
+    "href": "projects/commodity-cost-impacts/index.html#dashboard-access",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "Access the working dashboard here"
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#full-report",
+    "href": "projects/commodity-cost-impacts/index.html#full-report",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "📥 Download the full project report PDF here"
+  },
+  {
     "objectID": "adamkoplik-portfolio.html",
     "href": "adamkoplik-portfolio.html",
     "title": "adamkoplik-portfolio",
@@ -12,5 +376,334 @@
     "title": "adamkoplik-portfolio",
     "section": "",
     "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html",
+    "href": "projects/matthew-koplik-photography/index.html",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "By Adam Koplik\n\n\nI built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service.\n\n\n\n\nDeveloped a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics.\n\n\n\n\n\nShopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking\n\n\n\n\n\nLaunched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing.\n\n\n\n\nThis project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business.\n\n\n\nView the live store"
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#overview",
+    "href": "projects/matthew-koplik-photography/index.html#overview",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "I built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#project-scope",
+    "href": "projects/matthew-koplik-photography/index.html#project-scope",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "Developed a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
+    "href": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "Shopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking"
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#results",
+    "href": "projects/matthew-koplik-photography/index.html#results",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "Launched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#takeaways",
+    "href": "projects/matthew-koplik-photography/index.html#takeaways",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "This project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#full-site",
+    "href": "projects/matthew-koplik-photography/index.html#full-site",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "View the live store"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html",
+    "href": "projects/be-the-qb/index.html",
+    "title": "Be The QB",
+    "section": "",
+    "text": "By Adam Koplik & Ian Fratarcangeli — NFL Big Data Bowl (Undergraduate Track)\n\n\nThis project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play.\n\n\n\n\nNFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata\n\n\n\n\n\n\n\nCleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments.\n\n\n\n\n\n\nThe model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations.\n\n\n\n\n\nR, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data\n\n\n\n\n\nModel excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy.\n\n\n\n\n\n \n\n\n\n📥 Download full project report PDF here\n\n\n\nHuge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#overview",
+    "href": "projects/be-the-qb/index.html#overview",
+    "title": "Be The QB",
+    "section": "",
+    "text": "This project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#data-sources",
+    "href": "projects/be-the-qb/index.html#data-sources",
+    "title": "Be The QB",
+    "section": "",
+    "text": "NFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#process-summary",
+    "href": "projects/be-the-qb/index.html#process-summary",
+    "title": "Be The QB",
+    "section": "",
+    "text": "Cleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#key-findings",
+    "href": "projects/be-the-qb/index.html#key-findings",
+    "title": "Be The QB",
+    "section": "",
+    "text": "The model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#tools-used",
+    "href": "projects/be-the-qb/index.html#tools-used",
+    "title": "Be The QB",
+    "section": "",
+    "text": "R, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#limitations",
+    "href": "projects/be-the-qb/index.html#limitations",
+    "title": "Be The QB",
+    "section": "",
+    "text": "Model excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#full-report",
+    "href": "projects/be-the-qb/index.html#full-report",
+    "title": "Be The QB",
+    "section": "",
+    "text": "📥 Download full project report PDF here"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#acknowledgements",
+    "href": "projects/be-the-qb/index.html#acknowledgements",
+    "title": "Be The QB",
+    "section": "",
+    "text": "Huge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html",
+    "href": "projects/ulster-county-climate-dashboards/index.html",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "By Adam Koplik\n\n\nDuring the summer of 2023, I worked as a Climate Data Intern for Ulster County Government. I was responsible for developing a series of ArcGIS dashboards and web tools to help visualize climate-related data for public policy initiatives. I also led a small team of interns, tracked their project progress, and consolidated their work into a public-facing website to improve the visibility of county-wide climate programs.\n\n\n\n\nDeveloped a Climate Corps Dashboard website to showcase multiple intern-led climate data projects.\nBuilt several interactive ArcGIS dashboards visualizing key climate-related and public health datasets, including:\n\nDisadvantaged communities map\n\nHealthcare desert analysis\n\nPopulation vulnerability by census tract\n\n\nManaged a team of interns, organized weekly check-ins, and compiled their deliverables into a polished, navigable online resource for the public and local government officials.\nContributed to public outreach by presenting dashboard demos to county departments and participating in community climate action briefings.\n\n\n\n\n\nArcGIS Online\n\nArcGIS Dashboards\n\nHTML, CSS (for website layout)\n\nMicrosoft Excel (data cleaning and prep)\n\nGoogle Sheets and Google Docs (project tracking)\n\n\n\n\n\nDelivered a centralized Climate Corps Dashboard website consolidating multiple data visualization projects for Ulster County.\nCreated clean, accessible maps and dashboards to highlight priority public health and environmental justice issues within the county.\nIncreased public awareness and internal visibility of climate data initiatives through interactive tools and presentations.\nEstablished a sustainable framework for future intern cohorts to expand and add projects.\n\n\n\n\nThis role gave me hands-on experience working in local government data operations, team leadership, and public sector data visualization. It improved my skills in project management, dashboard development, and communicating complex data to non-technical audiences.\n\n\n\n\nDisadvantaged Communities in Ulster County\nHealthcare Deserts Analysis\n\n\n\n\nSpecial thanks to the Ulster County Department of the Environment and my fellow interns for their work on these projects."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#overview",
+    "href": "projects/ulster-county-climate-dashboards/index.html#overview",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "During the summer of 2023, I worked as a Climate Data Intern for Ulster County Government. I was responsible for developing a series of ArcGIS dashboards and web tools to help visualize climate-related data for public policy initiatives. I also led a small team of interns, tracked their project progress, and consolidated their work into a public-facing website to improve the visibility of county-wide climate programs."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#project-scope",
+    "href": "projects/ulster-county-climate-dashboards/index.html#project-scope",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "Developed a Climate Corps Dashboard website to showcase multiple intern-led climate data projects.\nBuilt several interactive ArcGIS dashboards visualizing key climate-related and public health datasets, including:\n\nDisadvantaged communities map\n\nHealthcare desert analysis\n\nPopulation vulnerability by census tract\n\n\nManaged a team of interns, organized weekly check-ins, and compiled their deliverables into a polished, navigable online resource for the public and local government officials.\nContributed to public outreach by presenting dashboard demos to county departments and participating in community climate action briefings."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#tools-and-technologies",
+    "href": "projects/ulster-county-climate-dashboards/index.html#tools-and-technologies",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "ArcGIS Online\n\nArcGIS Dashboards\n\nHTML, CSS (for website layout)\n\nMicrosoft Excel (data cleaning and prep)\n\nGoogle Sheets and Google Docs (project tracking)"
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#key-results",
+    "href": "projects/ulster-county-climate-dashboards/index.html#key-results",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "Delivered a centralized Climate Corps Dashboard website consolidating multiple data visualization projects for Ulster County.\nCreated clean, accessible maps and dashboards to highlight priority public health and environmental justice issues within the county.\nIncreased public awareness and internal visibility of climate data initiatives through interactive tools and presentations.\nEstablished a sustainable framework for future intern cohorts to expand and add projects."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#takeaways",
+    "href": "projects/ulster-county-climate-dashboards/index.html#takeaways",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "This role gave me hands-on experience working in local government data operations, team leadership, and public sector data visualization. It improved my skills in project management, dashboard development, and communicating complex data to non-technical audiences."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#notable-dashboards",
+    "href": "projects/ulster-county-climate-dashboards/index.html#notable-dashboards",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "Disadvantaged Communities in Ulster County\nHealthcare Deserts Analysis"
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#acknowledgements",
+    "href": "projects/ulster-county-climate-dashboards/index.html#acknowledgements",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "Special thanks to the Ulster County Department of the Environment and my fellow interns for their work on these projects."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html",
+    "href": "projects/nfl-zone-coverage/index.html",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "By Adam Koplik and Ajay Patel\n\n\nThis was one of my first deep dives into football analytics — a research project focused on identifying which passing concepts work best against different zone coverages in the NFL. The goal was to analyze trends in offensive success rates against Cover-2, Cover-3, and Cover-4 defenses, and to recommend strategic adjustments for teams facing those schemes.\n\n\n\n\nNFL tracking data\n\nPlay-by-play data with coverage tags\n\nPublicly available player route and result data\n\n\n\n\n\nCollected play-by-play data and filtered for passing plays against Cover-2, Cover-3, and Cover-4 defenses.\nCalculated success rates and EPA (expected points added) for different passing concepts like verticals, flood, slant/flat, and mesh.\nCompared average EPA per concept against league averages by coverage type.\nVisualized which concepts consistently outperformed expectations against specific coverages.\n\n\n\n\n\nFlood and mesh concepts were especially effective against Cover-3 defenses.\nVerticals struggled against Cover-4 but performed well against Cover-2.\nTeams were often over-relying on certain concepts in unfavorable matchups, missing opportunities to exploit defensive tendencies.\n\n\n\n\n\nR, RStudio\n\nggplot2 for data visualization\n\nExcel for data prep and manual coverage tagging\n\n\n\n\nThis was my introduction to working with football data and play-by-play analysis, and it gave me an early sense of how much nuance there is in matchup-based play calling. It also laid the foundation for later, more advanced NFL data projects I’ve worked on — including the NFL Big Data Bowl.\n\n\n\n\n\n\nTop 10s\n\n\n\n\n\n📥 Download the full project report PDF here"
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#overview",
+    "href": "projects/nfl-zone-coverage/index.html#overview",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "This was one of my first deep dives into football analytics — a research project focused on identifying which passing concepts work best against different zone coverages in the NFL. The goal was to analyze trends in offensive success rates against Cover-2, Cover-3, and Cover-4 defenses, and to recommend strategic adjustments for teams facing those schemes."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#data-sources",
+    "href": "projects/nfl-zone-coverage/index.html#data-sources",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "NFL tracking data\n\nPlay-by-play data with coverage tags\n\nPublicly available player route and result data"
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#approach",
+    "href": "projects/nfl-zone-coverage/index.html#approach",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "Collected play-by-play data and filtered for passing plays against Cover-2, Cover-3, and Cover-4 defenses.\nCalculated success rates and EPA (expected points added) for different passing concepts like verticals, flood, slant/flat, and mesh.\nCompared average EPA per concept against league averages by coverage type.\nVisualized which concepts consistently outperformed expectations against specific coverages."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#key-findings",
+    "href": "projects/nfl-zone-coverage/index.html#key-findings",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "Flood and mesh concepts were especially effective against Cover-3 defenses.\nVerticals struggled against Cover-4 but performed well against Cover-2.\nTeams were often over-relying on certain concepts in unfavorable matchups, missing opportunities to exploit defensive tendencies."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#tools-used",
+    "href": "projects/nfl-zone-coverage/index.html#tools-used",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "R, RStudio\n\nggplot2 for data visualization\n\nExcel for data prep and manual coverage tagging"
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#takeaways",
+    "href": "projects/nfl-zone-coverage/index.html#takeaways",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "This was my introduction to working with football data and play-by-play analysis, and it gave me an early sense of how much nuance there is in matchup-based play calling. It also laid the foundation for later, more advanced NFL data projects I’ve worked on — including the NFL Big Data Bowl."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#visualizations",
+    "href": "projects/nfl-zone-coverage/index.html#visualizations",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "Top 10s"
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#project-link",
+    "href": "projects/nfl-zone-coverage/index.html#project-link",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "📥 Download the full project report PDF here"
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html",
+    "href": "projects/how-zohran-won/index.html",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "By Adam Koplik ## Overview\nI conducted an analysis of the 2025 Democratic primary for New York City mayor, where leftist Zohran Mamdani earned an overwhelming victory over multiple foes, the main of which being former Governor Andrew Cuomo.\n\n\n\nPulled and cleaned precinct-level election results\n\nMapped each precinct’s results to visualize where Zohran overperformed\n\nAnalyzed trends in districts by age, race, and voter demographics\n\nUsed regression analysis to understand voting patterns across different groups\n\nLooked at turnout increases, candidate strategies, and demographic shifts\n\n\n\n\n\nMamdani’s campaign focused on registering new voters, contributing to over 37,000 new voters in the 90 days before the election compared with 3,000 in the same period in 2021.\nMamdani had strong support in predominantly Hispanic, Latino, and AAPI-heavy districts.\nHis grassroots, Instagram-based campaign resonated with young voters, especially in Gen-Z and Millennial-heavy areas.\nStruggled with older voters and in predominantly Black districts, where Cuomo held a noticeable advantage.\nAmong Gen-X, there was a notable gender split in Mamdani’s support — stronger among men than women.\n\n\n\n\n\nAmerican Community Survey (2023)\nNYC Board of Elections results\nNew York Times voter registration reporting\nR (tidyverse, glmnet, ggplot2)\nTableau for data visualizations\n\n\n\n\n    \n\n\n\nRead the full analysis on Medium"
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html#project-scope",
+    "href": "projects/how-zohran-won/index.html#project-scope",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "Pulled and cleaned precinct-level election results\n\nMapped each precinct’s results to visualize where Zohran overperformed\n\nAnalyzed trends in districts by age, race, and voter demographics\n\nUsed regression analysis to understand voting patterns across different groups\n\nLooked at turnout increases, candidate strategies, and demographic shifts"
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html#key-findings",
+    "href": "projects/how-zohran-won/index.html#key-findings",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "Mamdani’s campaign focused on registering new voters, contributing to over 37,000 new voters in the 90 days before the election compared with 3,000 in the same period in 2021.\nMamdani had strong support in predominantly Hispanic, Latino, and AAPI-heavy districts.\nHis grassroots, Instagram-based campaign resonated with young voters, especially in Gen-Z and Millennial-heavy areas.\nStruggled with older voters and in predominantly Black districts, where Cuomo held a noticeable advantage.\nAmong Gen-X, there was a notable gender split in Mamdani’s support — stronger among men than women."
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html#data-and-tools-used",
+    "href": "projects/how-zohran-won/index.html#data-and-tools-used",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "American Community Survey (2023)\nNYC Board of Elections results\nNew York Times voter registration reporting\nR (tidyverse, glmnet, ggplot2)\nTableau for data visualizations"
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html#full-article",
+    "href": "projects/how-zohran-won/index.html#full-article",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "Read the full analysis on Medium"
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html",
+    "href": "projects/murrays-chicken-digital-marketing/index.html",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "By Adam Koplik\n\n\nAs the Digital Marketing Executive at Murray’s Chicken, I led a full overhaul of the company’s online presence, redesigning and optimizing the website to improve usability, SEO performance, and e-commerce operations. In addition to technical site management, I ran marketing campaigns and managed online sales fulfillment and customer service.\n\n\n\n\nCompletely overhauled and redesigned the Murray’s Chicken website using WordPress, Shopify, and WooCommerce.\nWrote and implemented custom HTML and CSS to enhance the site’s layout, product pages, navigation, and checkout process.\nConducted a comprehensive SEO audit and optimized on-page elements (metadata, URL structures, internal linking, and page speed) to improve organic search rankings.\nLaunched and managed influencer outreach campaigns targeting food creators and bloggers to increase brand awareness and product engagement.\nManaged the e-commerce backend operations, including:\n\nProcessing and tracking online orders\nOverseeing order fulfillment workflows\nHandling customer service inquiries and issues\n\n\nSet up and maintained product listings, pricing, shipping policies, and promotional campaigns.\n\n\n\n\n\nWordPress\n\nShopify\n\nWooCommerce\n\nCustom HTML and CSS\n\nGoogle Search Console and basic SEO tools\n\nInstagram, Facebook, and email marketing platforms\n\nExcel for sales tracking and operational reporting\n\n\n\n\n\nDelivered a full website redesign and optimization, significantly improving site speed, mobile responsiveness, and user experience.\nIncreased organic traffic through targeted SEO improvements.\nStreamlined the online ordering process, reducing abandoned cart rates and improving order accuracy.\nExpanded the brand’s digital reach through targeted influencer collaborations and social media campaigns.\n\n\n\n\nThis role gave me hands-on experience combining digital marketing strategy with technical web development and e-commerce operations management. It sharpened my skills in site optimization, SEO strategy, influencer outreach, and end-to-end online order fulfillment, while providing exposure to the operational realities of managing a consumer-facing product brand online.\n\n\n\nVisit Murray’s Chicken Website"
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#overview",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#overview",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "As the Digital Marketing Executive at Murray’s Chicken, I led a full overhaul of the company’s online presence, redesigning and optimizing the website to improve usability, SEO performance, and e-commerce operations. In addition to technical site management, I ran marketing campaigns and managed online sales fulfillment and customer service."
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#project-scope",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#project-scope",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "Completely overhauled and redesigned the Murray’s Chicken website using WordPress, Shopify, and WooCommerce.\nWrote and implemented custom HTML and CSS to enhance the site’s layout, product pages, navigation, and checkout process.\nConducted a comprehensive SEO audit and optimized on-page elements (metadata, URL structures, internal linking, and page speed) to improve organic search rankings.\nLaunched and managed influencer outreach campaigns targeting food creators and bloggers to increase brand awareness and product engagement.\nManaged the e-commerce backend operations, including:\n\nProcessing and tracking online orders\nOverseeing order fulfillment workflows\nHandling customer service inquiries and issues\n\n\nSet up and maintained product listings, pricing, shipping policies, and promotional campaigns."
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#tools-and-technologies",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#tools-and-technologies",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "WordPress\n\nShopify\n\nWooCommerce\n\nCustom HTML and CSS\n\nGoogle Search Console and basic SEO tools\n\nInstagram, Facebook, and email marketing platforms\n\nExcel for sales tracking and operational reporting"
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#results",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#results",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "Delivered a full website redesign and optimization, significantly improving site speed, mobile responsiveness, and user experience.\nIncreased organic traffic through targeted SEO improvements.\nStreamlined the online ordering process, reducing abandoned cart rates and improving order accuracy.\nExpanded the brand’s digital reach through targeted influencer collaborations and social media campaigns."
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#takeaways",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#takeaways",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "This role gave me hands-on experience combining digital marketing strategy with technical web development and e-commerce operations management. It sharpened my skills in site optimization, SEO strategy, influencer outreach, and end-to-end online order fulfillment, while providing exposure to the operational realities of managing a consumer-facing product brand online."
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#company-site",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#company-site",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "Visit Murray’s Chicken Website"
+  },
+  {
+    "objectID": "projects.html#work-projects",
+    "href": "projects.html#work-projects",
+    "title": "Projects",
+    "section": "Work Projects",
+    "text": "Work Projects\n\n\n \n\nMurray’s Chicken Digital Marketing\n\n\n\n\n \n\nCommodity Cost Impacts Model\n\n\n\n\n \n\nUlster County Climate Dashboards"
+  },
+  {
+    "objectID": "projects.html#independent-projects",
+    "href": "projects.html#independent-projects",
+    "title": "Projects",
+    "section": "Independent Projects",
+    "text": "Independent Projects\n\n\n \n\nMatthew Koplik Photography Site\n\n\n\n\n \n\nHow Zohran Won\n\n\n\n\n \n\nNFL Zone Coverage Study"
   }
 ]

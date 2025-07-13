@@ -2,14 +2,23 @@ project:
   type: website
 
 website:
-  title: "Adam Koplik | Data Science Portfolio"
+  title: "Adam Koplik Portfolio"
   navbar:
     left:
-      - text: Home
-        href: index.qmd
-      - text: Projects
-        href: projects.qmd
-      - text: Blog
-        href: blog.qmd
-      - text: About
-        href: about.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Blog"
+        file: blog.qmd
+  page-footer: "© 2025 Adam Koplik"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+resources:
+  - projects/**

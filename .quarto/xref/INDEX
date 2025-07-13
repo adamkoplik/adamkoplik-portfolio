@@ -13,5 +13,41 @@
   },
   "blog.qmd": {
     "blog.html": "f2a49561"
+  },
+  "projects/matthew-koplik-photography/index.qmd": {
+    "index.html": "31a95f98"
+  },
+  "projects/commodity-cost-impacts/index.qmd": {
+    "index.html": "dc6df4bb"
+  },
+  "projects/be-the-qb/index.qmd": {
+    "index.html": "0fe517dd"
+  },
+  "projects/severe-weather/index.qmd": {
+    "index.html": "228abb00"
+  },
+  "projects/ulster-county-climate-dashboards/index.qmd": {
+    "index.html": "417ee313"
+  },
+  "projects/work-from-home/index.qmd": {
+    "index.html": "43fc7c33"
+  },
+  "projects/nfl-zone-coverage/index.qmd": {
+    "index.html": "c5cb26cf"
+  },
+  "projects/land-cover/index.qmd": {
+    "index.html": "aad0b399"
+  },
+  "projects/how-zohran-won/index.qmd": {
+    "index.html": "7beb1600"
+  },
+  "projects/election-prediction/index.qmd": {
+    "index.html": "72f2d1cd"
+  },
+  "projects/murrays-chicken-digital-marketing/index.qmd": {
+    "index.html": "a47397d5"
+  },
+  "projects/nba-prospect-boosting/index.qmd": {
+    "index.html": "5096fc6c"
   }
 }
