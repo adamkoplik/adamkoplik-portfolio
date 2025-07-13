@@ -1,0 +1,24 @@
+---
+title: "Adam Koplik"
+format:
+  html:
+    page-layout: article
+---
+
+# Hi — I'm Adam Koplik
+
+Data science student at Hamilton College specializing in sports analytics, environmental modeling, and financial data analysis.
+
+I build predictive models, interactive dashboards, and research projects focused on real-world problems.  
+
+## Featured Projects
+
+- [NFL Big Data Bowl: Be the QB](projects/be-the-qb/index.html)
+- [2024 Election Prediction Model](projects/election-prediction/index.html)
+- [Land Cover Change in the Arctic](projects/land-cover/index.html)
+
+[View all projects →](projects.html)
+
+## Resume  
+
+[📄 Download Resume (PDF)](resume/Adam_Koplik_Resume.pdf)
