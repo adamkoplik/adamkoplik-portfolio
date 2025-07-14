@@ -7,18 +7,37 @@ format:
 
 # Hi — I'm Adam Koplik
 
-Data science student at Hamilton College specializing in sports analytics, environmental modeling, and financial data analysis.
+Data Science graduate from Hamilton College with a strong foundation in computer science, statistics, and environmental studies. Demonstrated expertise in machine learning and data analysis through hands-on research across financial, environmental, and sports analytics domains. Have  strong interpersonal skills, a collaborative mindset, and a natural ability to connect with others. A quick learner with genuine enthusiasm for tackling new challenges and learning new things.
 
-I build predictive models, interactive dashboards, and research projects focused on real-world problems.  
+## Some of Favorite Projects
 
-## Featured Projects
+<div class="grid">
 
-- [NFL Big Data Bowl: Be the QB](projects/be-the-qb/index.html)
-- [2024 Election Prediction Model](projects/election-prediction/index.html)
-- [Land Cover Change in the Arctic](projects/land-cover/index.html)
+<div class="card">
+  <a href="projects/commodity-cost-impacts/index.html">
+    <img src="projects/commodity-cost-impacts/commodity-cost-impacts.jpg" alt="Commodity Cost Impacts">
+    <h3>Commodity Cost Impacts Model</h3>
+  </a>
+</div>
+
+<div class="card">
+  <a href="projects/be-the-qb/index.html">
+    <img src="projects/be-the-qb/be-the-qb.jpg" alt="Be the QB">
+    <h3>Be the QB</h3>
+  </a>
+</div>
+
+<div class="card">
+  <a href="projects/murrays-chicken-digital-marketing/index.html">
+    <img src="projects/murrays-chicken-digital-marketing/murrays-chicken-digital-marketing.jpg" alt="Murray's Chicken Digital Marketing">
+    <h3>Murray's Chicken Digital Marketing</h3>
+  </a>
+</div>
+
+</div>
 
 [View all projects →](projects.html)
 
 ## Resume  
 
-[📄 Download Resume (PDF)](resume/Adam_Koplik_Resume.pdf)
+[📄 Download Resume (PDF)](resume/Resume.pdf)
