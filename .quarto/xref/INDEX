@@ -49,5 +49,14 @@
   },
   "projects/nba-prospect-boosting/index.qmd": {
     "index.html": "5096fc6c"
+  },
+  "contact.qmd": {
+    "contact.html": "7ce78871"
+  },
+  "feed.qmd": {
+    "feed.html": "ce20b180"
+  },
+  "getintouch.qmd": {
+    "getintouch.html": "bea1b0c9"
   }
 }

@@ -1,0 +1,19 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const track = document.querySelector('.carousel-track');
+  const prevButton = document.querySelector('.carousel-btn.prev');
+  const nextButton = document.querySelector('.carousel-btn.next');
+  let scrollAmount = 0;
+  const scrollStep = 240;
+
+  prevButton.addEventListener('click', () => {
+    scrollAmount -= scrollStep;
+    track.style.transform = `translateX(${-scrollAmount}px)`;
+  });
+
+  nextButton.addEventListener('click', () => {
+    scrollAmount += scrollStep;
+    track.style.transform = `translateX(${-scrollAmount}px)`;
+  });
+});
+</script>

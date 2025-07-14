@@ -8,18 +8,19 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - text: "Projects"
-        file: projects.qmd
       - text: "About"
         file: about.qmd
-      - text: "Blog"
-        file: blog.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Feed"
+        file: feed.qmd
   page-footer: "© 2025 Adam Koplik"
 
 format:
   html:
     theme: cosmo
     css: styles.css
+    highlight-style: dracula
 
 resources:
   - projects/**

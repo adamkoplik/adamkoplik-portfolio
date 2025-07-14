@@ -1,0 +1,186 @@
+---
+title: "About Me"
+format:
+  html:
+    page-layout: article
+    toc: false
+---
+
+# 👋 Hey — I'm Adam Koplik
+
+bio
+---
+
+## 📄 Résumé
+
+<div class="resume-column">
+
+<div class="experience-cards">
+<h3>Work Experience</h3>
+
+<div class="experience-card">
+  <h4>Digital Marketing Executive <small>May 2025 — Present</small></h4>
+  <p><strong>Murray’s Chicken — Remote</strong></p>
+  <ul>
+    <li>Overhauled and optimized company website using WordPress, Shopify, WooCommerce, and custom HTML/CSS, significantly improving SEO and user experience.</li>
+    <li>Launched influencer outreach campaigns targeting food creators to drive brand awareness and product engagement.</li>
+    <li>Managed e-commerce operations, including processing online orders and ensuring smooth fulfillment and customer service.</li>
+  </ul>
+  <p><strong><a href="projects/murrays-chicken-digital-marketing/index.html">View Project →</a></strong></p>
+</div>
+
+<div class="experience-card">
+  <h4>Financial Data Analyst (Intern) <small>May 2024 — Aug 2024</small></h4>
+  <p><strong>Murray’s Chicken — South Fallsburg, NY</strong></p>
+  <ul>
+    <li>Advised C-suite at mid-sized poultry company with no analytics team.</li>
+    <li>Built R dashboard to model grain cost scenarios and optimize margins.</li>
+    <li>Applied machine learning in R to forecast commodity prices and guide pricing decisions.</li>
+  </ul>
+  <p><strong><a href="projects/commodity-cost-impacts/index.html">View Project →</a></strong></p>
+</div>
+
+<div class="experience-card">
+  <h4>Environmental Research Assistant <small>Jun 2023 — May 2024</small></h4>
+  <p><strong>Hamilton College — Clinton, NY (Hybrid)</strong></p>
+  <ul>
+    <li>Researched Arctic vegetation change using satellite imagery with Prof. Heather Kropp, co-authoring a paper accepted in Environmental Research: Ecology.</li>
+    <li>Trained a CNN to classify land cover in the Kolyma region, improving environmental monitoring.</li>
+  </ul>
+  <p><strong><a href="projects/land-cover/index.html">View Project →</a></strong></p>
+</div>
+
+<div class="experience-card">
+  <h4>Climate Data Analyst (Intern) <small>Jun 2023 — Aug 2023</small></h4>
+  <p><strong>Ulster County Government — Kingston, NY (Hybrid)</strong></p>
+  <ul>
+    <li>Led intern team, publishing their work to a website for project visibility.</li>
+    <li>Built ArcGIS dashboards analyzing climate issues in Ulster County, including analyses of disadvantaged communities and healthcare deserts.</li>
+  </ul>
+  <p><strong><a href="projects/ulster-county-climate-dashboards/index.html">View Project →</a></strong></p>
+</div>
+
+</div>
+
+
+<div class="experience-cards">
+<h3>Technical Skills</h3>
+<div class="experience-card">
+<div class="skill-block office-style">
+<strong>Programming:</strong>
+  <span class="badge badge-a">Python</span>
+  <span class="badge badge-b">R</span>
+  <span class="badge badge-c">SQL</span>
+  <span class="badge badge-d">Excel</span>
+  <span class="badge badge-e">HTML</span>
+  <span class="badge badge-a">CSS</span>
+  <span class="badge badge-b">ArcGIS</span>
+</div>
+</div>
+
+<div class="experience-card">
+<div class="skill-block office-style">
+<strong>Data Analysis:</strong>
+  <span class="badge badge-a">Machine Learning</span>
+  <span class="badge badge-b">Predictive/Time-Series Modeling</span>
+  <span class="badge badge-c">Linear Algebra</span>
+  <span class="badge badge-d">Linear Optimization</span>
+</div>
+</div>
+
+<div class="experience-card">
+<div class="skill-block office-style">
+<strong>Visualization:</strong>
+  <span class="badge badge-a">RStudio</span>
+  <span class="badge badge-b">Tableau</span>
+  <span class="badge badge-c">Canva</span>
+  <span class="badge badge-d">Dashboarding</span>
+</div>
+</div>
+
+<div class="experience-card">
+<div class="skill-block office-style">
+<strong>Other:</strong>
+  <span class="badge badge-a">Microsoft Office</span>
+  <span class="badge badge-b">eCommerce</span>
+  <span class="badge badge-c">WordPress</span>
+  <span class="badge badge-d">Shopify</span>
+  <span class="badge badge-e">SEO Marketing</span>
+</div>
+</div>
+
+
+</div>
+
+
+<div class="experience-cards">
+<h3>Featured Projects</h3>
+<div class="featured-projects">
+
+<div class="featured-card">
+  <a href="projects/be-the-qb/index.html">
+    <img src="projects/be-the-qb/be-the-qb.jpg" alt="Be the QB">
+    <p>Be the QB</p>
+  </a>
+</div>
+
+<div class="featured-card">
+  <a href="projects/election-prediction/index.html">
+    <img src="projects/election-prediction/election-prediction.jpg" alt="Election Prediction">
+    <p>2024 Election Model</p>
+  </a>
+</div>
+
+<div class="featured-card">
+  <a href="projects/severe-weather/index.html">
+    <img src="projects/severe-weather/severe-weather.jpg" alt="Severe Weather">
+    <p>Severe Weather & Voting</p>
+  </a>
+</div>
+
+<div class="featured-card">
+  <a href="projects.html">
+    <img src="projects/all-projects.jpg" alt="All Projects">
+    <p>See All Projects</p>
+  </a>
+</div>
+
+</div>
+
+</div>
+<div class="experience-cards">
+<h3>Education</h3>
+<div class="education-card">
+  <a>
+  <h4>Hamilton College <small>May 2025</small></h4>
+  <p><strong>Bachelor of Arts — Data Science</strong></p></a>
+  <img src="hamlogo.png" alt="Hamilton College Logo">
+</div>
+</div>
+
+</div>
+
+
+---
+
+## Get in Touch
+
+If you're interested in working together, collaborating on a project, or just connecting — reach out anytime.
+
+Use the form below to get in touch — I'll get back to you soon.
+
+<form action="https://formspree.io/f/meozjwgg" method="POST">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="_replyto" required><br><br>
+
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" rows="5" required></textarea><br><br>
+
+  <button type="submit">Send Message</button>
+</form>
+
+---
+
