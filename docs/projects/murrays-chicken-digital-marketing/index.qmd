@@ -1,0 +1,50 @@
+---
+title: "Murrays Chicken Digital Marketing"
+format:
+  html:
+    page-layout: article
+    toc: true
+---
+
+# Digital Marketing & E-Commerce Management for Murray's Chicken
+
+**By Adam Koplik**
+
+## Overview  
+As the Digital Marketing Executive at Murray's Chicken, I led a full overhaul of the company's online presence, redesigning and optimizing the website to improve usability, SEO performance, and e-commerce operations. In addition to technical site management, I ran marketing campaigns and managed online sales fulfillment and customer service.
+
+## Project Scope  
+
+- Completely overhauled and redesigned the **Murray's Chicken website** using **WordPress**, **Shopify**, and **WooCommerce**.
+- Wrote and implemented **custom HTML and CSS** to enhance the site's layout, product pages, navigation, and checkout process.
+- Conducted a comprehensive **SEO audit** and optimized on-page elements (metadata, URL structures, internal linking, and page speed) to improve organic search rankings.
+- Launched and managed **influencer outreach campaigns** targeting food creators and bloggers to increase brand awareness and product engagement.
+- Managed the **e-commerce backend operations**, including:
+  - Processing and tracking online orders
+  - Overseeing order fulfillment workflows
+  - Handling customer service inquiries and issues  
+- Set up and maintained product listings, pricing, shipping policies, and promotional campaigns.
+
+## Tools and Technologies  
+
+- WordPress  
+- Shopify  
+- WooCommerce  
+- Custom HTML and CSS  
+- Google Search Console and basic SEO tools  
+- Instagram, Facebook, and email marketing platforms  
+- Excel for sales tracking and operational reporting  
+
+## Results  
+
+- Delivered a full website redesign and optimization, significantly improving site speed, mobile responsiveness, and user experience.
+- Increased organic traffic through targeted SEO improvements.
+- Streamlined the online ordering process, reducing abandoned cart rates and improving order accuracy.
+- Expanded the brand's digital reach through targeted influencer collaborations and social media campaigns.
+
+## Takeaways  
+
+This role gave me hands-on experience combining digital marketing strategy with technical web development and e-commerce operations management. It sharpened my skills in site optimization, SEO strategy, influencer outreach, and end-to-end online order fulfillment, while providing exposure to the operational realities of managing a consumer-facing product brand online.
+
+## Company Site 
+[Visit Murray's Chicken Website](https://murrayschicken.com)
