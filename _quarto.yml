@@ -16,7 +16,11 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: cosmo
+    toggle: true
+    include-in-header: _site/_includes/navbar.html
     css: styles.css
     highlight-style: dracula
 

@@ -11,6 +11,7 @@ format:
 
 
 <div style="display: flex; align-items: center; justify-content: flex-end; gap: 20px;">
+  <img src="LinkedIN.jpg" alt="Photo of Adam Koplik" class = "profile-image" style="max-width: 300px; border-radius: 12px; margin-left: 20px; order: 0; width: 100%; border: 1px solid ivory; box-shadow: #9c55f1 0px 3px 8px;;">
   <div style="flex: 1;">
 <p>
   My name is Adam Koplik. I graduated from Hamilton College with a degree in data science after growing up in New Paltz, New York. I have a lifelong love of lists, from making my family rank movies when I was five to ranking movies on Letterboxd 
@@ -21,8 +22,52 @@ format:
   My résumé is below along with a contact form. For info on all of my projects and my social feeds, go to the menu above. Thank you for taking the time to learn about me!
 </p></div>
 
-  <img src="LinkedIN.jpg" alt="Photo of Adam Koplik" style="max-width: 300px; border-radius: 12px;margin-left: 20px;">
 </div>
+
+<script>
+  function adjustLayout() {
+    const container = document.getElementById('profile-container');
+    const img = document.getElementById('profile-image');
+    if (window.innerWidth <= 768) {
+      container.style.flexDirection = 'column';
+      container.style.alignItems = 'center';
+      img.style.marginLeft = '0';
+      img.style.marginBottom = '20px';
+    } else {
+      container.style.flexDirection = 'row';
+      container.style.alignItems = 'center';
+      img.style.marginLeft = '20px';
+      img.style.marginBottom = '0';
+    }
+  }
+
+  window.addEventListener('resize', adjustLayout);
+  window.addEventListener('load', adjustLayout);
+</script>
+
+
+<script>
+  function handleResponsiveLayout() {
+    const container = document.querySelector('div[style*="display: flex"]');
+    if (window.innerWidth <= 768) {
+      container.style.flexDirection = 'column';
+      container.style.alignItems = 'center';
+      const img = container.querySelector('img');
+      img.style.marginLeft = '0';
+      img.style.marginBottom = '20px';
+    } else {
+      container.style.flexDirection = 'row';
+      container.style.alignItems = 'center';
+      const img = container.querySelector('img');
+      img.style.marginLeft = '20px';
+      img.style.marginBottom = '0';
+    }
+  }
+
+  window.addEventListener('resize', handleResponsiveLayout);
+  window.addEventListener('load', handleResponsiveLayout);
+</script>
+
 
 
 ## My Résumé
