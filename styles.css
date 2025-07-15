@@ -827,7 +827,7 @@ html[data-bs-theme="dark"] .project-card-overlay {
   width: 100%;
   padding: 16px;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
-  color: #fff;
+  color: ivory;
 }
 
 html[data-bs-theme="dark"] .project-card-title {
@@ -1723,7 +1723,7 @@ html[data-bs-theme="light"] .project-card-overlay {
   width: 100%;
   padding: 16px;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
-  color: #fff;
+  color: ivory;
 }
 
 html[data-bs-theme="light"] .project-card-title {
@@ -1832,4 +1832,375 @@ html[data-bs-theme="dark"] .navbar-toggler-icon {
 /* Dark mode hamburger icon */
 html[data-bs-theme="light"] .navbar-toggler-icon {
   --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='ivory' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+@media (max-width: 768px) {
+  .navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+  }
+
+  .navbar-brand-container {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .navbar-brand {
+    font-size: 1rem;
+    display: none;
+  }
+
+  .quarto-navbar-tools {
+    display: flex;
+    align-items: center;
+  }
+
+  .navbar-collapse {
+    display: none !important;
+  }
+}
+
+.skill-section {
+  margin-bottom: 1.5rem;
+  display: relative;
+  align-items: center;
+}
+
+.skill-section h3 {
+  color: #f0f0f0;
+  margin-bottom: 0.5rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.4em 0.8em;
+  margin: 0.3em;
+  border-radius: 8px;
+  font-size: 0.95em;
+  font-weight: 600;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Programming badges */
+html[data-bs-theme="dark"] #badge-python {
+  background: #FFDE57;
+  color: #4584B6;
+  font-family: monospace;
+}
+
+html[data-bs-theme="dark"] #badge-r {
+  background: linear-gradient(45deg, #276dc3, #66aaff);
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-sql {
+  background: #ddd;
+  color: #333;
+  font-family: 'Courier New', monospace;
+  text-transform: uppercase;
+}
+
+html[data-bs-theme="dark"] #badge-excel {
+  background: linear-gradient(45deg, #217346, #28a745);
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-html {
+  background: #e44d26;
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-css {
+  background: #264de4;
+  color: ivory;
+  margin-top: -1px;
+  display: inline-block;
+}
+
+html[data-bs-theme="dark"] #badge-arcgis {
+  background: #4CAF50;
+  color: ivory;
+}
+
+/* Data Analysis badges */
+html[data-bs-theme="dark"] #badge-machine-learning {
+  background: #bf00ff;
+  color: ivory;
+  font-style: italic;
+}
+
+html[data-bs-theme="dark"] #badge-predictive {
+  background: #3399ff;
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-linear-algebra {
+  background: #000;
+  color: #33ff33;
+  font-family: monospace;
+}
+
+html[data-bs-theme="dark"] #badge-linear-optimization {
+  background: #e6007e;
+  color: ivory;
+}
+
+/* Visualization badges */
+html[data-bs-theme="dark"] #badge-rstudio {
+  background: #66aaff;
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-tableau {
+  background: linear-gradient(45deg, #e97627, #00a9e0);
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-canva {
+  background: linear-gradient(to bottom,#07b9ce, #3969e7, #7d2ae7);
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-dashboarding {
+  background: #111;
+  color: #00ffff;
+  font-family: monospace;
+}
+
+/* Other badges */
+html[data-bs-theme="dark"] #badge-office {
+  background: #d83b01;
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-ecommerce {
+  background: #2ecc71;
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-wordpress {
+  background: #21759b;
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-shopify {
+  background: #95bf47;
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-seo {
+  background: #003366;
+  color: ivory;
+}
+
+.icon {
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+.badge:hover {
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.4);
+  transform: translateY(-2px);
+  transition: 0.2s ease-in-out;
+}
+
+.skill-section {
+  margin-bottom: 24px;
+}
+
+.skill-section h3 {
+  color: ivory;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 14px;
+  margin: 4px;
+  color: ivory;
+  background: #6c5ce7;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.badge:hover {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.35);
+  transform: translateY(-2px);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 14px;
+  margin: 4px;
+  color: ivory;
+  background: #6c5ce7;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.badge:hover {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.35);
+  transform: translateY(-2px);
+}
+
+.badge .icon, .badge i {
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.badge img.icon {
+  display: inline-block;
+}
+
+.badge:has(img.icon) {
+  margin-top: -1px;
+  display: inline-block;
+}
+
+.badge .icon, 
+.badge i {
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  vertical-align: middle;
+  display: inline-block;
+  line-height: 1;
+  object-fit: contain;
+}
+
+.badge img.icon {
+  position: relative;
+  top: 0px;
+}
+
+
+/* Programming badges */
+html[data-bs-theme="light"] #badge-python {
+  background: #4584B6;
+  color: #FFDE57;
+  font-family: monospace;
+}
+
+html[data-bs-theme="light"] #badge-r {
+  background: linear-gradient(45deg, #276dc3, #66aaff);
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-sql {
+  background: #ddd;
+  color: #333;
+  font-family: 'Courier New', monospace;
+  text-transform: uppercase;
+}
+
+html[data-bs-theme="light"] #badge-excel {
+  background: linear-gradient(45deg, #217346, #28a745);
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-html {
+  background: #e44d26;
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-css {
+  background: #264de4;
+  color: #1a1b2f;
+  margin-top: -1px;
+  display: inline-block;
+}
+
+html[data-bs-theme="light"] #badge-arcgis {
+  background: #4CAF50;
+  color: #1a1b2f;
+}
+
+/* Data Analysis badges */
+html[data-bs-theme="light"] #badge-machine-learning {
+  background: #bf00ff;
+  color: #1a1b2f;
+  font-style: italic;
+}
+
+html[data-bs-theme="light"] #badge-predictive {
+  background: #3399ff;
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-linear-algebra {
+  background: #000;
+  color: #33ff33;
+  font-family: monospace;
+}
+
+html[data-bs-theme="light"] #badge-linear-optimization {
+  background: #e6007e;
+  color: #1a1b2f;
+}
+
+/* Visualization badges */
+html[data-bs-theme="light"] #badge-rstudio {
+  background: #66aaff;
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-tableau {
+  background: linear-gradient(45deg, #e97627, #00a9e0);
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-canva {
+  background: linear-gradient(to bottom,#07b9ce, #3969e7, #7d2ae7);
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-dashboarding {
+  background: #111;
+  color: #00ffff;
+  font-family: monospace;
+}
+
+/* Other badges */
+html[data-bs-theme="light"] #badge-office {
+  background: #d83b01;
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-ecommerce {
+  background: #2ecc71;
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-wordpress {
+  background: #21759b;
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-shopify {
+  background: #95bf47;
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-seo {
+  background: #003366;
+  color: #1a1b2f;
 }
