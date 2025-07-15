@@ -7,7 +7,7 @@ format:
     include-after-body: feed-scripts.html
 ---
 
-# 📡 My Feed
+## Social Media Feeds
 
 <div class="feed-grid">
 
@@ -19,7 +19,7 @@ format:
 
 <div class="card">
 <h2><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="Twitter logo" class="feed-logo"> Twitter</h2>
-<a href="https://x.com/adamkoplik" target="_blank">Follow me on X →</a>
+<a href="https://x.com/adamkoplik" target="_blank">Follow me on Twitter →</a>
 
 <iframe 
   src="https://rss.app/embed/v1/list/ebMrEFff7WQV46sv"
@@ -45,6 +45,15 @@ format:
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="adamkoplik">
 </div>
 </div>
+</div>
+
+<div class="card">
+<h2><img src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" alt="Letterboxd logo" class="feed-logo">Letterboxd</h2>
+  <a href="https://letterboxd.com/adamkoplik/films/diary/" target="_blank">Why not check out my Letterboxd while you're at it. →</a>
+
+<iframe width="900" height="1600" src="https://rss.app/embed/v1/wall/mevhBxbPIeGuQreE" frameborder="0"></iframe>
+
+
 </div>
 
 

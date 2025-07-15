@@ -3,23 +3,126 @@ title: "Adam Koplik"
 format:
   html:
     page-layout: article
+    toc: false
+    css: styles.css
 ---
 
-# Hi — I'm Adam Koplik
+## Who I Am
 
-Data Science graduate from Hamilton College with a strong foundation in computer science, statistics, and environmental studies. Demonstrated expertise in machine learning and data analysis through hands-on research across financial, environmental, and sports analytics domains. Have  strong interpersonal skills, a collaborative mindset, and a natural ability to connect with others. A quick learner with genuine enthusiasm for tackling new challenges and learning new things.
 
-## Some of Favorite Projects
+<div style="display: flex; align-items: center; justify-content: flex-end; gap: 20px;">
+  <div style="flex: 1;">
+<p>
+  My name is Adam Koplik. I graduated from Hamilton College with a degree in data science after growing up in New Paltz, New York. I have a lifelong love of lists, from making my family rank movies when I was five to ranking movies on Letterboxd 
+  <a href="https://letterboxd.com/adamkoplik/" target="_blank" rel="noopener noreferrer">(follow me)</a> today. I love working with data and tackling real-world problems with real consequences. My favorite thing is being presented with an issue by someone, and being able to actually help them fix it in a way that betters their life.
+</p>
 
-<div class="grid">
+<p>
+  My résumé is below along with a contact form. For info on all of my projects and my social feeds, go to the menu above. Thank you for taking the time to learn about me!
+</p></div>
 
-<div class="card">
-  <a href="projects/commodity-cost-impacts/index.html">
-    <img src="projects/commodity-cost-impacts/commodity-cost-impacts.jpg" alt="Commodity Cost Impacts">
-    <h3>Commodity Cost Impacts Model</h3>
-  </a>
+  <img src="LinkedIN.jpg" alt="Photo of Adam Koplik" style="max-width: 300px; border-radius: 12px;margin-left: 20px;">
 </div>
 
+
+## My Résumé
+
+<div class="resume-column">
+
+
+<h3>Work Experience</h3>
+
+<div class="experience-card">
+  <h4>Digital Marketing Executive <small>May 2025 — Present</small></h4>
+  <p><strong>Murray’s Chicken — Remote</strong></p>
+  <ul>
+    <li>Overhauled and optimized company website using WordPress, Shopify, WooCommerce, and custom HTML/CSS, significantly improving SEO and user experience.</li>
+    <li>Launched influencer outreach campaigns targeting food creators to drive brand awareness and product engagement.</li>
+    <li>Managed e-commerce operations, including processing online orders and ensuring smooth fulfillment and customer service.</li>
+  </ul>
+  <p><strong><a href="projects/murrays-chicken-digital-marketing/index.html">View Project →</a></strong></p>
+</div>
+
+<div class="experience-card">
+  <h4>Financial Data Analyst (Intern) <small>May 2024 — Aug 2024</small></h4>
+  <p><strong>Murray’s Chicken — South Fallsburg, NY</strong></p>
+  <ul>
+    <li>Advised C-suite at mid-sized poultry company with no analytics team.</li>
+    <li>Built R dashboard to model grain cost scenarios and optimize margins.</li>
+    <li>Applied machine learning in R to forecast commodity prices and guide pricing decisions.</li>
+  </ul>
+  <p><strong><a href="projects/commodity-cost-impacts/index.html">View Project →</a></strong></p>
+</div>
+
+<div class="experience-card">
+  <h4>Environmental Research Assistant <small>Jun 2023 — May 2024</small></h4>
+  <p><strong>Hamilton College — Clinton, NY (Hybrid)</strong></p>
+  <ul>
+    <li>Researched Arctic vegetation change using satellite imagery with Prof. Heather Kropp, co-authoring a paper accepted in Environmental Research: Ecology.</li>
+    <li>Trained a CNN to classify land cover in the Kolyma region, improving environmental monitoring.</li>
+  </ul>
+  <p><strong><a href="projects/land-cover/index.html">View Project →</a></strong></p>
+</div>
+
+<div class="experience-card">
+  <h4>Climate Data Analyst (Intern) <small>Jun 2023 — Aug 2023</small></h4>
+  <p><strong>Ulster County Government — Kingston, NY (Hybrid)</strong></p>
+  <ul>
+    <li>Led intern team, publishing their work to a website for project visibility.</li>
+    <li>Built ArcGIS dashboards analyzing climate issues in Ulster County, including analyses of disadvantaged communities and healthcare deserts.</li>
+  </ul>
+  <p><strong><a href="projects/ulster-county-climate-dashboards/index.html">View Project →</a></strong></p>
+</div>
+<hr style="width:25%;text-align:center;margin-left:37.5%">
+
+<h3>Technical Skills</h3>
+<div class="experience-card">
+<strong>Programming</strong>
+<div class="skill-block office-style">
+  <span class="badge badge-a">Python</span>
+  <span class="badge badge-b">R</span>
+  <span class="badge badge-c">SQL</span>
+  <span class="badge badge-d">Excel</span>
+  <span class="badge badge-e">HTML</span>
+  <span class="badge badge-a">CSS</span>
+  <span class="badge badge-b">ArcGIS</span>
+</div>
+</div>
+
+<div class="experience-card">
+<strong>Data Analysis</strong>
+<div class="skill-block office-style">
+  <span class="badge badge-a">Machine Learning</span>
+  <span class="badge badge-b">Predictive/Time-Series Modeling</span>
+  <span class="badge badge-c">Linear Algebra</span>
+  <span class="badge badge-d">Linear Optimization</span>
+</div>
+</div>
+
+<div class="experience-card">
+<strong>Visualization</strong>
+<div class="skill-block office-style">
+  <span class="badge badge-a">RStudio</span>
+  <span class="badge badge-b">Tableau</span>
+  <span class="badge badge-c">Canva</span>
+  <span class="badge badge-d">Dashboarding</span>
+</div>
+</div>
+
+<div class="experience-card">
+<strong>Other</strong>
+<div class="skill-block office-style">
+  <span class="badge badge-a">Microsoft Office</span>
+  <span class="badge badge-b">eCommerce</span>
+  <span class="badge badge-c">WordPress</span>
+  <span class="badge badge-d">Shopify</span>
+  <span class="badge badge-e">SEO Marketing</span>
+</div>
+</div>
+<hr style="width:25%;text-align:center;margin-left:37.5%">
+<h3>Featured Projects</h3>
+
+<div class="grid">
 <div class="card">
   <a href="projects/be-the-qb/index.html">
     <img src="projects/be-the-qb/be-the-qb.jpg" alt="Be the QB">
@@ -28,16 +131,59 @@ Data Science graduate from Hamilton College with a strong foundation in computer
 </div>
 
 <div class="card">
-  <a href="projects/murrays-chicken-digital-marketing/index.html">
-    <img src="projects/murrays-chicken-digital-marketing/murrays-chicken-digital-marketing.jpg" alt="Murray's Chicken Digital Marketing">
-    <h3>Murray's Chicken Digital Marketing</h3>
+  <a href="projects/election-prediction/index.html">
+    <img src="projects/election-prediction/election-prediction.jpg" alt="Election Prediction">
+    <h3>2024 Election Model</h3>
+  </a>
+</div>
+
+<div class="card">
+  <a href="projects/severe-weather/index.html">
+    <img src="projects/severe-weather/severe-weather.jpg" alt="Severe Weather">
+    <h3>Severe Weather & Voting</h3>
+  </a>
+</div>
+
+<div class="card">
+  <a href="projects.html">
+    <img src="projects/all-projects.jpg" alt="All Projects">
+    <h3>See All Projects</h3>
   </a>
 </div>
 
 </div>
 
-[View all projects →](projects.html)
+</div>
 
-## Resume  
+<h3>Education</h3>
+<div class="education-card">
+  <a>
+  <h4>Hamilton College <small>May 2025</small></h4>
+  <p><strong>Bachelor of Arts — Data Science</strong></p></a>
+  <img src="hamlogo.png" alt="Hamilton College Logo">
+</div>
 
-[📄 Download Resume (PDF)](resume/Resume.pdf)
+
+## Get in Touch
+
+
+<div class="experience-card">
+
+If you're interested in working together, collaborating on a project, or just connecting — reach out anytime.
+
+Use the form below to get in touch — I'll get back to you soon.
+<form action="https://formspree.io/f/meozjwgg" method="POST">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="_replyto" required><br><br>
+
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" rows="5" required></textarea><br><br>
+
+  <button type="submit">Send Message</button>
+</form>
+</div>
+
+</div>

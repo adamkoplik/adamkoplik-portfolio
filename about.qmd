@@ -8,10 +8,11 @@ format:
 
 # 👋 Hey — I'm Adam Koplik
 
-bio
+## What I've Done
+
 ---
 
-## 📄 Résumé
+## What I've Done
 
 <div class="resume-column">
 

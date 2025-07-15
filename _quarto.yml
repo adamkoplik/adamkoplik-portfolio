@@ -8,8 +8,6 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - text: "About"
-        file: about.qmd
       - text: "Projects"
         file: projects.qmd
       - text: "Feed"
