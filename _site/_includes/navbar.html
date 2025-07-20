@@ -26,7 +26,7 @@
 `;
 
 
-  oldToggle.parentNode.replaceChild(toggleBtn, oldToggle);
+  oldToggle.replaceWith(toggleBtn);
 
   const iconSun = toggleBtn.querySelector("#icon-sun");
   const iconMoon = toggleBtn.querySelector("#icon-moon");
@@ -46,6 +46,12 @@
     }
     localStorage.setItem("quarto-color-scheme", isDark ? "dark" : "light");
     window.dispatchEvent(new CustomEvent("quarto:color-scheme"));
+
+    // Optional: Re-initialize Bootstrap collapse (if dynamic DOM breaks it)
+    const triggerEl = document.querySelector('.navbar-toggler');
+    if (triggerEl) {
+      new bootstrap.Collapse(triggerEl);
+}
   }
 
   // Initialize theme on page load

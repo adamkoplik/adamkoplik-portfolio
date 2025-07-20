@@ -1862,9 +1862,16 @@ html[data-bs-theme="light"] .navbar-toggler-icon {
     align-items: center;
   }
 
-  .navbar-collapse {
-    display: none !important;
+  @media (max-width: 768px) {
+    .navbar-collapse {
+      display: none;
+    }
+  
+    .navbar-collapse.show {
+      display: block;
+    }
   }
+  
 }
 
 .skill-section {
