@@ -1,0 +1,25 @@
+---
+title: "Spotify IndieScore"
+format: html
+---
+
+I created an app to get an IndieScore for a Spotify playlist based on how many monthly listeners each artist featured has. I developed it using FastAPI, Spotify Developer, HTML, CSS, Python, and host it on Render.com.
+
+<script>
+  // Detect the current Bootstrap theme and append as a query param to the iframe
+  document.addEventListener("DOMContentLoaded", function () {
+    const theme = document.documentElement.getAttribute("data-bs-theme") || "light";
+    const iframe = document.getElementById("indie-iframe");
+    iframe.src = `https://spotify-indie-score.onrender.com/?theme=${theme}`;
+  });
+</script>
+
+<iframe
+  id="indie-iframe"
+  width="100%"
+  height="1400"
+  style="border: none; border-radius: 12px;"
+  loading="lazy"
+  title="Spotify Indie Score App"
+></iframe>
+

@@ -85,6 +85,13 @@ format:
 <div class="grid">
 
 <div class="project-card">
+  <a href="projects/spotify/index.html" class="project-card-link">
+    <img src="projects/spotify/spotify.jpg" alt="IndieScore Calculator">
+    <h3>IndieScore Calculator</h3>
+  </a>
+</div>
+
+<div class="project-card">
   <a href="projects/matthew-koplik-photography/index.html" class="project-card-link">
     <img src="projects/matthew-koplik-photography/matthew-koplik-photography.jpg" alt="Matthew Koplik Photography Site">
     <h3>Matthew Koplik Photography Site</h3>

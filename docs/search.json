@@ -238,130 +238,60 @@
     "text": "Special thanks to the Ulster County Department of the Environment and my fellow interns for their work on these projects."
   },
   {
-    "objectID": "projects/be-the-qb/index.html",
-    "href": "projects/be-the-qb/index.html",
-    "title": "Be The QB",
+    "objectID": "projects/severe-weather/index.html",
+    "href": "projects/severe-weather/index.html",
+    "title": "Severe Weather",
     "section": "",
-    "text": "By Adam Koplik & Ian Fratarcangeli — NFL Big Data Bowl (Undergraduate Track)\n\n\nThis project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play.\n\n\n\n\nNFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata\n\n\n\n\n\n\n\nCleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments.\n\n\n\n\n\n\nThe model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations.\n\n\n\n\n\nR, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data\n\n\n\n\n\nModel excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy.\n\n\n\n\n\n \n\n\n\n📥 Download full project report PDF here\n\n\n\nHuge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
+    "text": "Adam Koplik\n\n\nThis project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation.\n\n\n\n\nNOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis\n\n\n\n\nAfter cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share.\n\n\n\n\nDistricts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic.\n\n\n\n\nInfographic and Data Visualizations:\n\n\n\nInfographic\n\n\n\n   \n\n\n\nWhile this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play.\n\n\n\n\nR, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
   },
   {
-    "objectID": "projects/be-the-qb/index.html#overview",
-    "href": "projects/be-the-qb/index.html#overview",
-    "title": "Be The QB",
+    "objectID": "projects/severe-weather/index.html#overview",
+    "href": "projects/severe-weather/index.html#overview",
+    "title": "Severe Weather",
     "section": "",
-    "text": "This project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play."
+    "text": "This project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation."
   },
   {
-    "objectID": "projects/be-the-qb/index.html#data-sources",
-    "href": "projects/be-the-qb/index.html#data-sources",
-    "title": "Be The QB",
+    "objectID": "projects/severe-weather/index.html#data-sources",
+    "href": "projects/severe-weather/index.html#data-sources",
+    "title": "Severe Weather",
     "section": "",
-    "text": "NFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata"
+    "text": "NOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis"
   },
   {
-    "objectID": "projects/be-the-qb/index.html#process-summary",
-    "href": "projects/be-the-qb/index.html#process-summary",
-    "title": "Be The QB",
+    "objectID": "projects/severe-weather/index.html#methods",
+    "href": "projects/severe-weather/index.html#methods",
+    "title": "Severe Weather",
     "section": "",
-    "text": "Cleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments."
+    "text": "After cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share."
   },
   {
-    "objectID": "projects/be-the-qb/index.html#key-findings",
-    "href": "projects/be-the-qb/index.html#key-findings",
-    "title": "Be The QB",
+    "objectID": "projects/severe-weather/index.html#key-results",
+    "href": "projects/severe-weather/index.html#key-results",
+    "title": "Severe Weather",
     "section": "",
-    "text": "The model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations."
+    "text": "Districts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic."
   },
   {
-    "objectID": "projects/be-the-qb/index.html#tools-used",
-    "href": "projects/be-the-qb/index.html#tools-used",
-    "title": "Be The QB",
+    "objectID": "projects/severe-weather/index.html#visualizations",
+    "href": "projects/severe-weather/index.html#visualizations",
+    "title": "Severe Weather",
     "section": "",
-    "text": "R, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data"
+    "text": "Infographic and Data Visualizations:\n\n\n\nInfographic"
   },
   {
-    "objectID": "projects/be-the-qb/index.html#limitations",
-    "href": "projects/be-the-qb/index.html#limitations",
-    "title": "Be The QB",
+    "objectID": "projects/severe-weather/index.html#conclusions",
+    "href": "projects/severe-weather/index.html#conclusions",
+    "title": "Severe Weather",
     "section": "",
-    "text": "Model excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy."
+    "text": "While this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play."
   },
   {
-    "objectID": "projects/be-the-qb/index.html#full-report",
-    "href": "projects/be-the-qb/index.html#full-report",
-    "title": "Be The QB",
+    "objectID": "projects/severe-weather/index.html#tools-used",
+    "href": "projects/severe-weather/index.html#tools-used",
+    "title": "Severe Weather",
     "section": "",
-    "text": "📥 Download full project report PDF here"
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html#acknowledgements",
-    "href": "projects/be-the-qb/index.html#acknowledgements",
-    "title": "Be The QB",
-    "section": "",
-    "text": "Huge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html",
-    "href": "projects/matthew-koplik-photography/index.html",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "By Adam Koplik\n\n\nI built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service.\n\n\n\n\nDeveloped a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics.\n\n\n\n\n\nShopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking\n\n\n\n\n\nLaunched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing.\n\n\n\n\nThis project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business.\n\n\n\nView the live store"
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#overview",
-    "href": "projects/matthew-koplik-photography/index.html#overview",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "I built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#project-scope",
-    "href": "projects/matthew-koplik-photography/index.html#project-scope",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "Developed a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
-    "href": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "Shopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking"
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#results",
-    "href": "projects/matthew-koplik-photography/index.html#results",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "Launched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#takeaways",
-    "href": "projects/matthew-koplik-photography/index.html#takeaways",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "This project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#full-site",
-    "href": "projects/matthew-koplik-photography/index.html#full-site",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "View the live store"
-  },
-  {
-    "objectID": "adamkoplik-portfolio.html",
-    "href": "adamkoplik-portfolio.html",
-    "title": "adamkoplik-portfolio",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "adamkoplik-portfolio.html#quarto",
-    "href": "adamkoplik-portfolio.html#quarto",
-    "title": "adamkoplik-portfolio",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "R, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
   },
   {
     "objectID": "projects/commodity-cost-impacts/index.html",
@@ -427,60 +357,137 @@
     "text": "📥 Download the full project report PDF here"
   },
   {
-    "objectID": "projects/severe-weather/index.html",
-    "href": "projects/severe-weather/index.html",
-    "title": "Severe Weather",
+    "objectID": "adamkoplik-portfolio.html",
+    "href": "adamkoplik-portfolio.html",
+    "title": "adamkoplik-portfolio",
     "section": "",
-    "text": "Adam Koplik\n\n\nThis project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation.\n\n\n\n\nNOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis\n\n\n\n\nAfter cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share.\n\n\n\n\nDistricts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic.\n\n\n\n\nInfographic and Data Visualizations:\n\n\n\nInfographic\n\n\n\n   \n\n\n\nWhile this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play.\n\n\n\n\nR, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
-    "objectID": "projects/severe-weather/index.html#overview",
-    "href": "projects/severe-weather/index.html#overview",
-    "title": "Severe Weather",
+    "objectID": "adamkoplik-portfolio.html#quarto",
+    "href": "adamkoplik-portfolio.html#quarto",
+    "title": "adamkoplik-portfolio",
     "section": "",
-    "text": "This project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation."
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
-    "objectID": "projects/severe-weather/index.html#data-sources",
-    "href": "projects/severe-weather/index.html#data-sources",
-    "title": "Severe Weather",
+    "objectID": "projects/matthew-koplik-photography/index.html",
+    "href": "projects/matthew-koplik-photography/index.html",
+    "title": "Matthew Koplik Photography",
     "section": "",
-    "text": "NOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis"
+    "text": "By Adam Koplik\n\n\nI built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service.\n\n\n\n\nDeveloped a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics.\n\n\n\n\n\nShopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking\n\n\n\n\n\nLaunched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing.\n\n\n\n\nThis project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business.\n\n\n\nView the live store"
   },
   {
-    "objectID": "projects/severe-weather/index.html#methods",
-    "href": "projects/severe-weather/index.html#methods",
-    "title": "Severe Weather",
+    "objectID": "projects/matthew-koplik-photography/index.html#overview",
+    "href": "projects/matthew-koplik-photography/index.html#overview",
+    "title": "Matthew Koplik Photography",
     "section": "",
-    "text": "After cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share."
+    "text": "I built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service."
   },
   {
-    "objectID": "projects/severe-weather/index.html#key-results",
-    "href": "projects/severe-weather/index.html#key-results",
-    "title": "Severe Weather",
+    "objectID": "projects/matthew-koplik-photography/index.html#project-scope",
+    "href": "projects/matthew-koplik-photography/index.html#project-scope",
+    "title": "Matthew Koplik Photography",
     "section": "",
-    "text": "Districts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic."
+    "text": "Developed a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics."
   },
   {
-    "objectID": "projects/severe-weather/index.html#visualizations",
-    "href": "projects/severe-weather/index.html#visualizations",
-    "title": "Severe Weather",
+    "objectID": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
+    "href": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
+    "title": "Matthew Koplik Photography",
     "section": "",
-    "text": "Infographic and Data Visualizations:\n\n\n\nInfographic"
+    "text": "Shopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking"
   },
   {
-    "objectID": "projects/severe-weather/index.html#conclusions",
-    "href": "projects/severe-weather/index.html#conclusions",
-    "title": "Severe Weather",
+    "objectID": "projects/matthew-koplik-photography/index.html#results",
+    "href": "projects/matthew-koplik-photography/index.html#results",
+    "title": "Matthew Koplik Photography",
     "section": "",
-    "text": "While this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play."
+    "text": "Launched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing."
   },
   {
-    "objectID": "projects/severe-weather/index.html#tools-used",
-    "href": "projects/severe-weather/index.html#tools-used",
-    "title": "Severe Weather",
+    "objectID": "projects/matthew-koplik-photography/index.html#takeaways",
+    "href": "projects/matthew-koplik-photography/index.html#takeaways",
+    "title": "Matthew Koplik Photography",
     "section": "",
-    "text": "R, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
+    "text": "This project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#full-site",
+    "href": "projects/matthew-koplik-photography/index.html#full-site",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "View the live store"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html",
+    "href": "projects/be-the-qb/index.html",
+    "title": "Be The QB",
+    "section": "",
+    "text": "By Adam Koplik & Ian Fratarcangeli — NFL Big Data Bowl (Undergraduate Track)\n\n\nThis project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play.\n\n\n\n\nNFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata\n\n\n\n\n\n\n\nCleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments.\n\n\n\n\n\n\nThe model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations.\n\n\n\n\n\nR, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data\n\n\n\n\n\nModel excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy.\n\n\n\n\n\n \n\n\n\n📥 Download full project report PDF here\n\n\n\nHuge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#overview",
+    "href": "projects/be-the-qb/index.html#overview",
+    "title": "Be The QB",
+    "section": "",
+    "text": "This project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#data-sources",
+    "href": "projects/be-the-qb/index.html#data-sources",
+    "title": "Be The QB",
+    "section": "",
+    "text": "NFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#process-summary",
+    "href": "projects/be-the-qb/index.html#process-summary",
+    "title": "Be The QB",
+    "section": "",
+    "text": "Cleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#key-findings",
+    "href": "projects/be-the-qb/index.html#key-findings",
+    "title": "Be The QB",
+    "section": "",
+    "text": "The model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#tools-used",
+    "href": "projects/be-the-qb/index.html#tools-used",
+    "title": "Be The QB",
+    "section": "",
+    "text": "R, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#limitations",
+    "href": "projects/be-the-qb/index.html#limitations",
+    "title": "Be The QB",
+    "section": "",
+    "text": "Model excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#full-report",
+    "href": "projects/be-the-qb/index.html#full-report",
+    "title": "Be The QB",
+    "section": "",
+    "text": "📥 Download full project report PDF here"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#acknowledgements",
+    "href": "projects/be-the-qb/index.html#acknowledgements",
+    "title": "Be The QB",
+    "section": "",
+    "text": "Huge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
+  },
+  {
+    "objectID": "projects/spotify/index.html",
+    "href": "projects/spotify/index.html",
+    "title": "Spotify IndieScore",
+    "section": "",
+    "text": "I created an app to get an IndieScore for a Spotify playlist based on how many monthly listeners each artist featured has. I developed it using FastAPI, Spotify Developer, HTML, CSS, Python, and host it on Render.com."
   },
   {
     "objectID": "projects/work-from-home/index.html",
@@ -739,7 +746,7 @@
     "href": "projects.html#independent-projects",
     "title": "Projects",
     "section": "Independent Projects",
-    "text": "Independent Projects\n\n\n \n\nMatthew Koplik Photography Site\n\n\n\n\n \n\nHow Zohran Won\n\n\n\n\n \n\nNFL Zone Coverage Study"
+    "text": "Independent Projects\n\n\n \n\nIndieScore Calculator\n\n\n\n\n \n\nMatthew Koplik Photography Site\n\n\n\n\n \n\nHow Zohran Won\n\n\n\n\n \n\nNFL Zone Coverage Study"
   },
   {
     "objectID": "about.html",
