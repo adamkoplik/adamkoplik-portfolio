@@ -121,3 +121,65 @@ format:
 </div>
 
 </div>
+
+## Academic Writing
+
+<div class="grid">
+
+<div class="project-card">
+  <a href="projects/DTA/index.html" class="project-card-link">
+    <img src="projects/DTA/DTA.jpg" alt="Skull Valley Band Nuclear Dump: Tribal Sovereignty’s Role in Environmental Justice ">
+    <h3>Skull Valley Band Nuclear Dump: Tribal Sovereignty’s Role in Environmental Justice </h3>
+  </a>
+</div>
+
+<div class="project-card">
+  <a href="projects/ER/index.html" class="project-card-link">
+    <img src="projects/ER/ER.jpg" alt="Education: Neoliberalism's Next Victim">
+    <h3>Education: Neoliberalism's Next Victim</h3>
+  </a>
+</div>
+
+<div class="project-card">
+  <a href="projects/SMH/index.html" class="project-card-link">
+    <img src="projects/SMH/SMH.jpg" alt="Mental Health Matters">
+    <h3>Mental Health Matters</h3>
+  </a>
+</div>
+
+<div class="project-card">
+  <a href="projects/IRNAFTA/index.html" class="project-card-link">
+    <img src="projects/IRNAFTA/IRNAFTA.jpg" alt="Start from Scratch: Analyzing the Replacement of NAFTA with the USMCA">
+    <h3>Start from Scratch: Analyzing the Replacement of NAFTA with the USMCA</h3>
+  </a>
+</div>
+
+<div class="project-card">
+  <a href="projects/IRChina/index.html" class="project-card-link">
+    <img src="projects/IRChina/IRChina.jpg" alt="The Second Cold War: An Analysis of US-China Relations">
+    <h3>The Second Cold War: An Analysis of US-China Relations</h3>
+  </a>
+</div>
+
+<div class="project-card">
+  <a href="projects/IRRussia/index.html" class="project-card-link">
+    <img src="projects/IRRussia/IRRussia.jpg" alt="With(out) Reason: Why Russia Invaded Ukraine">
+    <h3>With(out) Reason: Why Russia Invaded Ukraine</h3>
+  </a>
+</div>
+
+<div class="project-card">
+  <a href="projects/IRMarx/index.html" class="project-card-link">
+    <img src="projects/IRMarx/IRMarx.jpg" alt="Dying for Capitalism: An Analysis of Marxism">
+    <h3>Dying for Capitalism: An Analysis of Marxism</h3>
+  </a>
+</div>
+
+<div class="project-card">
+  <a href="projects/IE/index.html" class="project-card-link">
+    <img src="projects/IE/IE.jpg" alt="The New Book Burning: Banning Critical Race Theory">
+    <h3>The New Book Burning: Banning Critical Race Theory</h3>
+  </a>
+</div>
+
+</div>

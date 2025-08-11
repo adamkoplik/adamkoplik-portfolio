@@ -64,5 +64,29 @@
   },
   "projects/prop-rep/index.qmd": {
     "index.html": "ff3606c3"
+  },
+  "projects/DTA/index.qmd": {
+    "index.html": "9cc54e14"
+  },
+  "projects/IRNAFTA/index.qmd": {
+    "index.html": "3c92fdee"
+  },
+  "projects/SMH/index.qmd": {
+    "index.html": "3058033d"
+  },
+  "projects/IRChina/index.qmd": {
+    "index.html": "9388b203"
+  },
+  "projects/IRMarx/index.qmd": {
+    "index.html": "e6196461"
+  },
+  "projects/IRRussia/index.qmd": {
+    "index.html": "db8ca3ee"
+  },
+  "projects/IE/index.qmd": {
+    "index.html": "27df10be"
+  },
+  "projects/ER/index.qmd": {
+    "index.html": "51c71bdb"
   }
 }

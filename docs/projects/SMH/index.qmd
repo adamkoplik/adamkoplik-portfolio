@@ -1,0 +1,126 @@
+# Mental Health Matters
+*Written for **SOC-205: Sociology of Mental Health & Illness** with Prof. Matthew Grace on 5/5/2024*
+
+Last winter, I was diagnosed with Obsessive Compulsive Disorder,
+Attention Deficit Hyperactivity Disorder, and Generalized Anxiety
+Disorder and started medicine to treat it. My willingness to admit this
+doesn't come from a place of searching for pity or trying to show my
+relation to the topic, but from a lack of shame surrounding it. These
+identities are a part of my personality, and a part of what makes me the
+person I am. It is a characteristic of myself just like my height,
+weight, or hair color. However, when I apply to jobs, I don't disclose
+it. I don't tell employers and rarely tell professors about it. I don't
+consider it a negative part of myself, but I know that when I admit to
+it, it will become something tattooed onto the outside perception of
+myself.
+
+Mental Health Matters. That's one of the many bumper sticker slogans
+that has been plastered across the United States over the past few
+years. There has been a coordinated effort to alleviate the stigma and
+attempt to make it "okay to not be okay!". From Ted Lasso giving a
+speech at the White House about mental health to the normalization of
+mental health days in classrooms, it has seemed like society has made
+progress in allowing people to be open about what's ailing them.
+Emphasis on seemed like.
+
+During the COVID-19 pandemic, there was a significant increase in
+reported mental health issues among adolescents. According to the
+National Institute for Mental Health, "adolescents assessed after the
+pandemic shutdowns reported more symptoms of anxiety and depression and
+greater internalizing problems." This study didn't just focus on
+adolescents during the midst of the pandemic, but the long term effects
+of it via brain imaging. They found a thinning of the cortex and smaller
+hippocampus and amygdala. Brain portions that play roles in things like
+self-control, memories, and regulating emotions. The post-pandemic brain
+was more similar to that of an elderly person or one who was under
+chronic childhood stress. The pandemic actively changed the brain
+chemistry of the young people who went through it.
+
+Another group that was slammed by COVID-19 were healthcare workers. Few
+could forget the viral videos of New York City residents cheering their
+support for doctors and nurses or the signs of support plastered
+throughout communities. They were on the front lines, experiencing the
+suffering and death of patients on a daily basis. It undoubtedly took an
+intense toll on them. In general, according to the CDC, health care
+workers are at a disproportionately high risk of suicide as compared to
+other professions. A study by the NIMH found a higher prevalence of
+depression, PTSD related to COVID trauma, and anxiety among physicians
+with higher COVID-19 exposure. While doctors were labeled heroes at
+home, the mental health toll they take on is a constant (Adams, et al.
+2023).
+
+In April 2020, a New York City based physician named Lorna Breen took
+her own life. She was slammed with long hours, seeing severely ill COVID
+patients dying daily. Stressed and struggling, she attempted to seek
+help, but was terrified she would lose her position, and the situation
+ended in as terrible as one could. An NPR article explored this and the
+stigma often attached to mental health in healthcare workers. Focusing
+on a Massachusetts based policy change in which health insurers have
+sworn to no longer ask about mental health history and only focus on the
+present, an attempt to reduce the stigma surrounding health care worked
+mental health is necessary. Over two dozen states have put in similar
+statements, attempting to alleviate physician's fears that they could
+lose their position for disclosing mental health (McCluskey, 2024).
+
+This shift is incredibly necessary. A health care worker is in no way
+more or less qualified just because they've gone through struggles in
+their past or present. Society places a superhero expectation on
+doctors, and when they expose themselves as humans, it excommunicates
+them from the field. However, the issue with the policy is that it still
+perpetrates the negative stigma inherent with mental illness. Saying
+that a physician's past mental health isn't important, only today, still
+could make a physician hesitant to admit to struggles. It still assumes
+that a physician cannot perform their duties if they're experiencing
+negative mental health, and perpetrates this stigma.
+
+Even among those who do allow themselves to seek treatment and
+diagnoses, there is still a significant attempt made to separate
+themselves from the stigma of "mentally ill". A study showed that 80% of
+clients at a community mental health center agreed that "My mental
+illness is only a small part of who I am" and 78% said "When I see how
+mental illness is portrayed in the media, I think 'that's not me"
+(Macrussen, et al. 2021). There's an assumption of negativity with
+mental illness that is hard to seperate.
+
+Similar stigmas have been found in other professions, and in general
+society has seemed to almost destigmatize mental health in the past few
+years. In 2022, the American Psychiatric Association conducted a poll in
+which they found that under half of workers (48%) feel they can discuss
+mental health "openly and honestly with their supervisor". This is a
+decrease from the two previous years. While there was a decrease in
+worry about retaliation for time off, it still represents how much steam
+"Mental Health Matters" lost in the past couple of years
+(*Employees...)*.
+
+Mental illness is a describing characteristic of who someone is. The
+desire to resist this stigma is only apparent because of the inherent
+negativity surrounding. It's why, as society seems to move away from
+promoting mental health, it's key that we bring it back to the path we
+were on years ago. This is still a key issue and the stigma is still
+apparent. Destigmatization has gone a long way, but not far enough. It's
+not just saying "be open about your issues!", it's about equating mental
+and physical health. If a doctor breaks their wrist, no one is going to
+ask them to perform surgery. But, if they in the midst of an anxious or
+depressive episode, they're expected to push it to the side and get back
+to their job. Mental health and physical health are one in the same.
+There must be an effort to equate them.
+
+**Works Cited**
+
+Adams, G. C., Le, T., Alaverdashvili, M., & Adams, S. (2023, May).
+*Physicians' mental health and coping during the COVID-19 pandemic: One
+year exploration*. Heliyon.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10156641/
+
+*Employees say workplaces are offering fewer mental health services in
+2022, according to Apa poll*. Psychiatry.org. (2022, May 22).
+https://staging.psychiatry.org/News-room/News-Releases/APA-Poll-Employee-Mental-Health
+
+Marcussen, K., Gallagher, M., & Ritter, C. (2021). Stigma resistance and
+well-being in the context of the mental illness identity. *Journal of
+Health and Social Behavior*, *62*(1), 19--36.
+https://doi.org/10.1177/0022146520976624
+
+McCluskey, P. D. (2024, February 7). *Doctors face huge stigma about
+mental illness. now there's an effort to change that*. NPR.
+https://www.npr.org/sections/health-shots/2024/02/05/1228624738/doctors-face-huge-stigma-about-mental-illness-now-theres-an-effort-to-change-that
