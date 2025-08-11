@@ -4,14 +4,14 @@
     "href": "index.html#who-i-am",
     "title": "Adam Koplik",
     "section": "Who I Am",
-    "text": "Who I Am\n\n\n\n\nMy name is Adam Koplik. I graduated from Hamilton College with a degree in data science after growing up in New Paltz, New York. I have a lifelong love of lists, from making my family rank movies when I was five to ranking movies on Letterboxd (follow me) today. I love working with data and tackling real-world problems with real consequences. My favorite thing is being presented with an issue by someone, and being able to actually help them fix it in a way that betters their life.\n\n\nMy résumé is below along with a contact form. For info on all of my projects and my social feeds, go to the menu above. Thank you for taking the time to learn about me!"
+    "text": "Who I Am\n\n\n\n\nMy name is Adam Koplik. I’m a data analyst with a background in economics, environmental research, and marketing analytics, bringing recent hands-on experience across domains. I offer strong skills in data analysis and visualization through Tableau, Excel, Python/R, for clear, persuasive communication. My recent internship involved building a financial simulation model and dynamic dashboards to forecast how commodity price changes would impact gross profit margins. I’m seeking a role to apply data expertise to solve complex problems as both an analyst and communicator.\n\n\nMy résumé is below along with a contact form. For info on all of my projects and my social feeds, go to the menu above. Thank you for taking the time to learn about me!"
   },
   {
     "objectID": "index.html#my-résumé",
     "href": "index.html#my-résumé",
     "title": "Adam Koplik",
     "section": "My Résumé",
-    "text": "My Résumé\n\n\nWork Experience\n\n\n\nDigital Marketing Executive May 2025 — Present\n\n\nMurray’s Chicken — Remote\n\n\n\nOverhauled and optimized company website using WordPress, Shopify, WooCommerce, and custom HTML/CSS, significantly improving SEO and user experience.\n\n\nLaunched influencer outreach campaigns targeting food creators to drive brand awareness and product engagement.\n\n\nManaged e-commerce operations, including processing online orders and ensuring smooth fulfillment and customer service.\n\n\n\nView Project →\n\n\n\n\nFinancial Data Analyst (Intern) May 2024 — Aug 2024\n\n\nMurray’s Chicken — South Fallsburg, NY\n\n\n\nAdvised C-suite at mid-sized poultry company with no analytics team.\n\n\nBuilt R dashboard to model grain cost scenarios and optimize margins.\n\n\nApplied machine learning in R to forecast commodity prices and guide pricing decisions.\n\n\n\nView Project →\n\n\n\n\nEnvironmental Research Assistant Jun 2023 — May 2024\n\n\nHamilton College — Clinton, NY (Hybrid)\n\n\n\nResearched Arctic vegetation change using satellite imagery with Prof. Heather Kropp, co-authoring a paper accepted in Environmental Research: Ecology.\n\n\nTrained a CNN to classify land cover in the Kolyma region, improving environmental monitoring.\n\n\n\nView Project →\n\n\n\n\nClimate Data Analyst (Intern) Jun 2023 — Aug 2023\n\n\nUlster County Government — Kingston, NY (Hybrid)\n\n\n\nLed intern team, publishing their work to a website for project visibility.\n\n\nBuilt ArcGIS dashboards analyzing climate issues in Ulster County, including analyses of disadvantaged communities and healthcare deserts.\n\n\n\nView Project →\n\n\n\n\nTechnical Skills\n\n\n\n\nProgramming\n\n Python  R  SQL  Excel  HTML  CSS  ArcGIS\n\n\n\n\n\nData Analysis\n\n Machine Learning  Predictive/Time-Series Modeling  Linear Algebra  Linear Optimization\n\n\n\n\n\nVisualization\n\n RStudio  Tableau  Canva  Dashboarding\n\n\n\n\n\nOther\n\n Microsoft Office  eCommerce  WordPress  Shopify  SEO Marketing\n\n\n\n\n\nFeatured Projects\n\n\n\n \n\nBe the QB\n\n\n\n\n \n\n2024 Election Model\n\n\n\n\n \n\nSevere Weather & Voting\n\n\n\n\n \n\nSee All Projects"
+    "text": "My Résumé\n\n\nWork Experience\n\n\n\nMurray’s Chicken / MB Food Processing Inc.\n\n\nData Analyst (Marketing & Operations)  May 2025 — Present \n\n\n\nDeveloped SEO and marketing strategies, testing copy and site structure changes to improve search visibility and customer engagement.\n\n\nBuilt internal dashboards in Excel and R to forecast sales and track performance against operational targets.\n\n\nAnalyzed customer and web traffic data to inform targeted outreach and marketing content.\n\n\n\nView Project →\n\n\nQuantitative Financial Analyst  May 2024 — Aug 2024\n\n\n\nCreated a financial simulation model in R to forecast how changes in feed prices would impact gross profit margins.\n\n\nBuilt interactive dashboards in R Shiny to visualize scenarios for hedging and pricing decisions, used by executives and an external hedging partner.\n\n\nModeled commodity price trends using time-series forecasts to guide procurement timing and maintain cost stability.\n\n\n\nView Project →\n\n\n\n\nHamilton College\n\n\nEnvironmental Data Science Research Assistant  June 2023 — May 2024 \n\n\n\nCo-authored a peer-reviewed publication on Arctic land cover change using satellite data and deep learning.\n\n\nBuilt and trained convolutional neural networks (CNNs) for geospatial classification tasks in R and Python.\n\n\nConducted statistical modeling and image analysis to evaluate environmental risk over time.\n\n\n\nView Project →\n\n\n\n\nUlster County Government\n\n\n Climate Data Analyst Jun 2023 — Aug 2023\n\n\n\nCo-led a team of 18 interns, overseeing eight environmental projects from concept to presentation for the county’s state senator.\n\n\nDesigned ArcGIS dashboards to consolidate data on recycling, renewable energy, and public transportation initiatives.\n\n\nIncorporated demographic and health metrics to highlight community benefits and inform policy recommendations.\n\n\n\nView Project →\n\n\n\n\nDiamond Digest\n\n\nStaff Writer, Analyst   Oct 2018 — Present \n\n\n\nProduce analytically driven baseball content, including advanced metrics analysis for MLB teams.\n\n\nCo-manage social media account with 6,000+ followers; contribute to podcasts and live broadcasts.\n\n\n\n\n\nTechnical Skills\n\n\n\n\nProgramming\n\n Python  R  SQL  HTML  CSS\n\n\n\n\n\nModeling & Analysis\n\n Machine Learning  Predictive/Time-Series Modeling  Linear Algebra  Linear Optimization\n\n\n\n\n\nVisualization & Mapping\n\n R Shiny  Tableau  Matplotlib  ArcGIS\n\n\n\n\n\nTools & Platforms\n\n Excel  Git  VS Code  WordPress\n\n\n\n\n\nRecent Projects\n\n\n\n \n\nThe Case for Proportional Representation in America\n\n\n\n\n \n\nHow Zohran Won\n\n\n\n\n \n\nMurray’s Chicken Digital Marketing\n\n\n\n\n \n\nView All Projects\n\n\n\n\n\n\nEducation\n\n\n\n\nHamilton College May 2025\n\n\nBachelor of Arts — Data Science\n\n \n\n\nGet in Touch\n\nIf you’re interested in working together, collaborating on a project, or just connecting — reach out anytime.\nUse the form below to get in touch — I’ll get back to you soon.\n\nName: \nEmail: \nMessage:\n\n\n\nSend Message"
   },
   {
     "objectID": "index.html#get-in-touch",
@@ -35,522 +35,95 @@
     "text": "Visit my Medium profile → \n\n\n\nFollow me on Twitter →\n\n\n\n\n\nSee my Instagram → \n\n\n\nConnect with me on LinkedIn →\n\n\n\n\n\n\n\n\n\n\nWhy not check out my Letterboxd while you’re at it. →"
   },
   {
-    "objectID": "projects/murrays-chicken-digital-marketing/index.html",
-    "href": "projects/murrays-chicken-digital-marketing/index.html",
-    "title": "Murrays Chicken Digital Marketing",
+    "objectID": "projects/prop-rep/index.html",
+    "href": "projects/prop-rep/index.html",
+    "title": "The Case for Proportional Representation in America",
     "section": "",
-    "text": "By Adam Koplik\n\n\nAs the Digital Marketing Executive at Murray’s Chicken, I led a full overhaul of the company’s online presence, redesigning and optimizing the website to improve usability, SEO performance, and e-commerce operations. In addition to technical site management, I ran marketing campaigns and managed online sales fulfillment and customer service.\n\n\n\n\nCompletely overhauled and redesigned the Murray’s Chicken website using WordPress, Shopify, and WooCommerce.\nWrote and implemented custom HTML and CSS to enhance the site’s layout, product pages, navigation, and checkout process.\nConducted a comprehensive SEO audit and optimized on-page elements (metadata, URL structures, internal linking, and page speed) to improve organic search rankings.\nLaunched and managed influencer outreach campaigns targeting food creators and bloggers to increase brand awareness and product engagement.\nManaged the e-commerce backend operations, including:\n\nProcessing and tracking online orders\nOverseeing order fulfillment workflows\nHandling customer service inquiries and issues\n\n\nSet up and maintained product listings, pricing, shipping policies, and promotional campaigns.\n\n\n\n\n\nWordPress\n\nShopify\n\nWooCommerce\n\nCustom HTML and CSS\n\nGoogle Search Console and basic SEO tools\n\nInstagram, Facebook, and email marketing platforms\n\nExcel for sales tracking and operational reporting\n\n\n\n\n\nDelivered a full website redesign and optimization, significantly improving site speed, mobile responsiveness, and user experience.\nIncreased organic traffic through targeted SEO improvements.\nStreamlined the online ordering process, reducing abandoned cart rates and improving order accuracy.\nExpanded the brand’s digital reach through targeted influencer collaborations and social media campaigns.\n\n\n\n\nThis role gave me hands-on experience combining digital marketing strategy with technical web development and e-commerce operations management. It sharpened my skills in site optimization, SEO strategy, influencer outreach, and end-to-end online order fulfillment, while providing exposure to the operational realities of managing a consumer-facing product brand online.\n\n\n\nVisit Murray’s Chicken Website"
+    "text": "By Adam Koplik\n\n\nTurns out, the Washington Post over exaggerated what it takes to kill democracy. Cutting out the lights is unnecessary–all you need is a flawed system and a Twitter account. The battle for the American republic has been a push and pull, and as we stare authoritarianism in the face, feasible solutions become more and more undemocratic. The current fight is centered on issue of redistricting. Gerrymandering is the symptom, but the American political system’s lack of true representation leaks deep within it’s foundation. But we could move towards the dream the founding fathers once had, with one change: proportional representation.\nAmerica’s current setup begs for conflict. Democrats have moved to ban partisan gerrymandering in the past–with the 2021 Freedom to Vote Act (H.R. 1) gaining party-wide support only to be stopped short by a Republican filibuster–and are refusing to unilaterally disarm when it comes to redistricting.\nAdditionally, the idea that banning gerrymandering and having lines drawn by a third party would fix the issues is unfortunately not the reality. Take Massachusetts: the bluest of blue states with a 9–0 Democratic advantage in Congress. Democrats no doubt dominate the state, but in the 2024 House elections, Republicans still got 10% of the vote and Independents got 8%. With nine seats, that should be enough for a non-Democratic representative, but in practice, nine Democrats are sent to Washington. Could it be gerrymandering? No, because it is impossible to draw a safe Republican district in the entire state of Massachusetts. There is no feasible scenario where Massachusetts Republicans get any federal government representation under this system. Drawing imaginary lines to decide who has political power is an extremely flawed approach that leaves far too much room for anti-democratic measures to be put into place. So, instead of fighting over the painting, we need to take away the brush.\nProportional representation (PR) is used in nearly 100 nations throughout the world, including Switzerland, Sweden, New Zealand, and Germany. There are a few different methods used in PR governments, including single-transferable vote and mixed member PR, but the most common is party-list PR. Party-list PR is quite simple: vote for a party, seats are allocated proportionally based on that party’s votes. For example, imagine a body has 100 seats and five parties running (A, B, C, D, and E). An election is held, and party A receives 39% of votes, party B receives 20%, C receives 11%, D receives 18%, and E receives 12%. Then, the parties would get 39, 20, 11, 18, and 12 seats in the body, respectively. This system allows for true representation in-lieu of America’s winner-take-all system where, in this scenario, 61% of voters would not have a representative in government. It also creates opportunities for non-major parties to grow, disposing of the concept of “wasted-votes”. So, how could we implement this in America?\n\n\n\nThe House of Representatives is supposed to be the most accurately representative body in the federal government. Seats are proportionally assigned to each state based on population, allowing larger states more power and, in turn, giving each individual person equal say. One vote, one voice. That’s the message that’s supposed to be relayed in the House. Unfortunately, that’s not a reality. Years of gerrymandering, both racial and partisan, have resulted in districts drawn by those in power to remain in power. Districts are drawn with no care to their inhabitants, looking to disenfranchise some and empower others. On top of that, since whoever gets the most votes wins, anybody who doesn’t elect the victorious candidate goes without representation in the House.\nFor my implementation, I kept the 435 House seats as they’ve been assigned, but changed the election to party-list PR. I used the voting data from the 2024 election, and combined all Congressional House elections in each state based on party. Then, I allocated each of the state’s seats based on which party had the most “unrepresented” voters at that time.\nAs an example, let’s take a look at Illinois. In the 2024 election, Republicans managed 46.99% of votes across the House elections, but won just three of the state’s 17 Congressional districts. Based on the total voter turnout across the state of 5,357,262, that means that each representative represents about 315,133 voters. Under the current system, that means that over 1.5 million Illinois Republicans are not being represented in the House. Under a proportional representation system, the seats would be allocated much more akin to the voter’s will. In Illinois, the first seat would go to the Democrats, leaving them with slightly less unrepresented voters than Republicans, so the second seat would go to Rs, and it would alternate itself to a 9–8 Democratic majority–or 52.94% of the seats, as close to the party’s statewide support as there gets.\nAfter doing this for all 50 states, the new House of Representatives ends up pretty similar to the current party totals, but with massive differences in the allocation by state. The Republican majority is maintained, gaining one seat in total, as well as one seat going to both Independents (MA) and Libertarians (TX). On a state level, the biggest changes show that the undemocratic system doesn’t discriminate by party. California, where Republicans would gain 11 seats, sees the most voters gaining representation with an improvement of three million, while in Florida, where Democrats would get four more seats than currently, sees over 1.3 million voters no longer going unrepresented. This system is objective, voter focused, and actually allows for true Congressional representation free from make believe political lines being drawn.\n\n\n\nProposed House of Representatives under a Proportional Representation system\n\n\n\n\n\nBiggest State Changes in Proposed House of Representatives under a Proportional Representation system\n\n\n\n\n\nWhile gerrymandering and drawing districts gets all the glory, the Senate is the most undemocratic body in the American government. 100 seats, evenly distributed across each state with no care for population–only state boundaries. Wyoming, with 1/67 (just under 1.5%) of the population of California, has equal representation as its much larger compatriot with two senators (double the amount of congresspeople given to the state). This is not a loophole, but the system’s inherent design. James Madison, in the Madison papers, wrote, “…as different interests necessarily result from the liberty meant to be secured, the major interest might under sudden impulses be tempted to commit injustice on the minority.”\nThe Senate is a body meant to protect from the tyranny of the majority and the fickleness of a universal democracy. This was to demonstrate itself in two ways: equal representation for each state and indirect election of senators. Until the ratification of the 17th amendment, senators were not elected by voters but by members of the state legislature–meant to be the representatives of the people. Since the Senate uses winner-take-all voting like the majority of the nation, senators are not truly a representation of the state, but of who has been propped up by the major parties in a particular year. Extrapolating votes from the 2024 House elections found that over 50 million voters are without Senate representation at this time. Since senators are elected in two separate elections, plurality parties are often represented twice before the runner-up voters get any.\nTyranny of the majority must be protected, but tyranny of the minority is equally dangerous. States rights are a fundamental trait of the United States, but they can not come at the cost of individual rights. The senators are representatives of the states and, by nature, its people, but now they seem to act as spokespeople for their federal party as a whole. They no longer answer to the people which, as put by Thomas Jefferson, is how democracy dies, “The natural progress of things is for liberty to yield and government to gain ground. When the people fear the government, there is tyranny. When the government fears the people,.. there is liberty.”\nMy proposal for the Senate under proportional representation is a similar process to the House, but with a change in the allocation of seats. To protect from both majority and minority overreach, I tried various seat allocations to minimize both state over state power differences (number of senators) and individual over individual power differences (number of people represented by each senator). As an example, currently the state power ratio is 1, since the largest state (CA) and smallest state (WY) have the same number of senators. On the other hand, the individual power ratio is a little over 67, since each senator from California represents 67x more people than each senator from Wyoming. I optimized the following formula (individual power ratio is on the left, state power ratio is on the right):\n\n\n\nOptimiziation Function\n\n\nAs you can see, an optimal solution would be one where the individual power ratio is exactly the value of the representative power ratio squared. For example, if California had 8 million people and Wyoming had 1 million people, allocating California two senators and Wyoming one would result in a representative power ratio of 2:1 and an individual power ratio of 4:1, which would bring an error of zero (work below). In that scenario, California would have 2x the power of Wyoming in the Senate, while an individual voter in Wyoming would have 4x the power of one in California.\n\n\n\nWork Shown\n\n\nUsing this formula and the actual populations, I found allocating four seats to California and one to Wyoming minimizes this error. As a result, California has 4x the senators of Wyoming, but each of Wyoming’s under 588,000 residents have a bit more than 16x the voting power of California’s population. From here, I used a logarithmic scale to allocate seats to the remainder of the states, resulting in the following:\n\n\n\nSeat allocation of the Revised Senate\n\n\nAfterwards, the senators were divied up by party in the same way as the House, based on number of unrepresented voters.\n\n\n\nA potential Senate under a Proportional Representation system\n\n\n\n\n\nA potential Senate under a Proportional Representation system (Map)\n\n\nThe new system results in a staggering over 50 million drop in the number of unrepresented voters in the Senate. Since each senator represents so many more people than each House member, smaller parties were significantly more represented in this revised version of the Senate (now with 120 seats), with Independents (8), Libertarians (5) having big successes. The left-leaning Green (2), Working Class (2), Alliance (1), and Working Families (1) parties all earned seats as well as the Conservative (1), Constitution (1), and Constitutional Conservative parties on the right.\n\n\n\nThe United States is at a turning point in its history. The nation is polarized at a level not seen since the Civil War, and everyday these tensions boil more and more. But this infighting is not a foregone conclusion. Our government has been created and nurtured to promote two major parties that each have the goal of complete destruction of the other. They don’t feel the need to fight for votes because the concept of “wasting your vote” on a third party with no chance of winning feels akin to voting for the party you hate. In turn, there’s no such thing as an anti-establishment vote. Whoever you vote for has millions upon millions of dollars worth of backing and the power to stomp out any alternative parties before they even have a chance. Where has this led us? Tinkering on the cusp of authoritarianism with politicians who don’t truly represent the people making decisions to push us in one direction or the other.\nThis isn’t a partisan issue–based on the 2024 election, Republicans are actually more unrepresented in Congress than Democrats. It doesn’t matter which party is suffering the punishments of our flawed system, it simply matters that there are voters for who our “representative” democracy is not living up to its name. American democracy quiets the voices of both the few and the many, only amplifying the powerful. The founder’s Great Experiment is teetering, but it’s not dead yet. America can continue the mission it was built upon, but it will take drastic changes. Proportional representation is the path to a better, truer democracy.\n\n\n\n\nR, RStudio\n\nTableau\n\nLaTeX (for academic writeup)\n\n\nData from Michael Minn (sourced from state secretary of state electoral results websites) and US Census."
   },
   {
-    "objectID": "projects/murrays-chicken-digital-marketing/index.html#overview",
-    "href": "projects/murrays-chicken-digital-marketing/index.html#overview",
-    "title": "Murrays Chicken Digital Marketing",
+    "objectID": "projects/prop-rep/index.html#introduction",
+    "href": "projects/prop-rep/index.html#introduction",
+    "title": "The Case for Proportional Representation in America",
     "section": "",
-    "text": "As the Digital Marketing Executive at Murray’s Chicken, I led a full overhaul of the company’s online presence, redesigning and optimizing the website to improve usability, SEO performance, and e-commerce operations. In addition to technical site management, I ran marketing campaigns and managed online sales fulfillment and customer service."
+    "text": "Turns out, the Washington Post over exaggerated what it takes to kill democracy. Cutting out the lights is unnecessary–all you need is a flawed system and a Twitter account. The battle for the American republic has been a push and pull, and as we stare authoritarianism in the face, feasible solutions become more and more undemocratic. The current fight is centered on issue of redistricting. Gerrymandering is the symptom, but the American political system’s lack of true representation leaks deep within it’s foundation. But we could move towards the dream the founding fathers once had, with one change: proportional representation.\nAmerica’s current setup begs for conflict. Democrats have moved to ban partisan gerrymandering in the past–with the 2021 Freedom to Vote Act (H.R. 1) gaining party-wide support only to be stopped short by a Republican filibuster–and are refusing to unilaterally disarm when it comes to redistricting.\nAdditionally, the idea that banning gerrymandering and having lines drawn by a third party would fix the issues is unfortunately not the reality. Take Massachusetts: the bluest of blue states with a 9–0 Democratic advantage in Congress. Democrats no doubt dominate the state, but in the 2024 House elections, Republicans still got 10% of the vote and Independents got 8%. With nine seats, that should be enough for a non-Democratic representative, but in practice, nine Democrats are sent to Washington. Could it be gerrymandering? No, because it is impossible to draw a safe Republican district in the entire state of Massachusetts. There is no feasible scenario where Massachusetts Republicans get any federal government representation under this system. Drawing imaginary lines to decide who has political power is an extremely flawed approach that leaves far too much room for anti-democratic measures to be put into place. So, instead of fighting over the painting, we need to take away the brush.\nProportional representation (PR) is used in nearly 100 nations throughout the world, including Switzerland, Sweden, New Zealand, and Germany. There are a few different methods used in PR governments, including single-transferable vote and mixed member PR, but the most common is party-list PR. Party-list PR is quite simple: vote for a party, seats are allocated proportionally based on that party’s votes. For example, imagine a body has 100 seats and five parties running (A, B, C, D, and E). An election is held, and party A receives 39% of votes, party B receives 20%, C receives 11%, D receives 18%, and E receives 12%. Then, the parties would get 39, 20, 11, 18, and 12 seats in the body, respectively. This system allows for true representation in-lieu of America’s winner-take-all system where, in this scenario, 61% of voters would not have a representative in government. It also creates opportunities for non-major parties to grow, disposing of the concept of “wasted-votes”. So, how could we implement this in America?"
   },
   {
-    "objectID": "projects/murrays-chicken-digital-marketing/index.html#project-scope",
-    "href": "projects/murrays-chicken-digital-marketing/index.html#project-scope",
-    "title": "Murrays Chicken Digital Marketing",
+    "objectID": "projects/prop-rep/index.html#the-house-of-representatives",
+    "href": "projects/prop-rep/index.html#the-house-of-representatives",
+    "title": "The Case for Proportional Representation in America",
     "section": "",
-    "text": "Completely overhauled and redesigned the Murray’s Chicken website using WordPress, Shopify, and WooCommerce.\nWrote and implemented custom HTML and CSS to enhance the site’s layout, product pages, navigation, and checkout process.\nConducted a comprehensive SEO audit and optimized on-page elements (metadata, URL structures, internal linking, and page speed) to improve organic search rankings.\nLaunched and managed influencer outreach campaigns targeting food creators and bloggers to increase brand awareness and product engagement.\nManaged the e-commerce backend operations, including:\n\nProcessing and tracking online orders\nOverseeing order fulfillment workflows\nHandling customer service inquiries and issues\n\n\nSet up and maintained product listings, pricing, shipping policies, and promotional campaigns."
+    "text": "The House of Representatives is supposed to be the most accurately representative body in the federal government. Seats are proportionally assigned to each state based on population, allowing larger states more power and, in turn, giving each individual person equal say. One vote, one voice. That’s the message that’s supposed to be relayed in the House. Unfortunately, that’s not a reality. Years of gerrymandering, both racial and partisan, have resulted in districts drawn by those in power to remain in power. Districts are drawn with no care to their inhabitants, looking to disenfranchise some and empower others. On top of that, since whoever gets the most votes wins, anybody who doesn’t elect the victorious candidate goes without representation in the House.\nFor my implementation, I kept the 435 House seats as they’ve been assigned, but changed the election to party-list PR. I used the voting data from the 2024 election, and combined all Congressional House elections in each state based on party. Then, I allocated each of the state’s seats based on which party had the most “unrepresented” voters at that time.\nAs an example, let’s take a look at Illinois. In the 2024 election, Republicans managed 46.99% of votes across the House elections, but won just three of the state’s 17 Congressional districts. Based on the total voter turnout across the state of 5,357,262, that means that each representative represents about 315,133 voters. Under the current system, that means that over 1.5 million Illinois Republicans are not being represented in the House. Under a proportional representation system, the seats would be allocated much more akin to the voter’s will. In Illinois, the first seat would go to the Democrats, leaving them with slightly less unrepresented voters than Republicans, so the second seat would go to Rs, and it would alternate itself to a 9–8 Democratic majority–or 52.94% of the seats, as close to the party’s statewide support as there gets.\nAfter doing this for all 50 states, the new House of Representatives ends up pretty similar to the current party totals, but with massive differences in the allocation by state. The Republican majority is maintained, gaining one seat in total, as well as one seat going to both Independents (MA) and Libertarians (TX). On a state level, the biggest changes show that the undemocratic system doesn’t discriminate by party. California, where Republicans would gain 11 seats, sees the most voters gaining representation with an improvement of three million, while in Florida, where Democrats would get four more seats than currently, sees over 1.3 million voters no longer going unrepresented. This system is objective, voter focused, and actually allows for true Congressional representation free from make believe political lines being drawn.\n\n\n\nProposed House of Representatives under a Proportional Representation system\n\n\n\n\n\nBiggest State Changes in Proposed House of Representatives under a Proportional Representation system"
   },
   {
-    "objectID": "projects/murrays-chicken-digital-marketing/index.html#tools-and-technologies",
-    "href": "projects/murrays-chicken-digital-marketing/index.html#tools-and-technologies",
-    "title": "Murrays Chicken Digital Marketing",
+    "objectID": "projects/prop-rep/index.html#the-senate",
+    "href": "projects/prop-rep/index.html#the-senate",
+    "title": "The Case for Proportional Representation in America",
     "section": "",
-    "text": "WordPress\n\nShopify\n\nWooCommerce\n\nCustom HTML and CSS\n\nGoogle Search Console and basic SEO tools\n\nInstagram, Facebook, and email marketing platforms\n\nExcel for sales tracking and operational reporting"
+    "text": "While gerrymandering and drawing districts gets all the glory, the Senate is the most undemocratic body in the American government. 100 seats, evenly distributed across each state with no care for population–only state boundaries. Wyoming, with 1/67 (just under 1.5%) of the population of California, has equal representation as its much larger compatriot with two senators (double the amount of congresspeople given to the state). This is not a loophole, but the system’s inherent design. James Madison, in the Madison papers, wrote, “…as different interests necessarily result from the liberty meant to be secured, the major interest might under sudden impulses be tempted to commit injustice on the minority.”\nThe Senate is a body meant to protect from the tyranny of the majority and the fickleness of a universal democracy. This was to demonstrate itself in two ways: equal representation for each state and indirect election of senators. Until the ratification of the 17th amendment, senators were not elected by voters but by members of the state legislature–meant to be the representatives of the people. Since the Senate uses winner-take-all voting like the majority of the nation, senators are not truly a representation of the state, but of who has been propped up by the major parties in a particular year. Extrapolating votes from the 2024 House elections found that over 50 million voters are without Senate representation at this time. Since senators are elected in two separate elections, plurality parties are often represented twice before the runner-up voters get any.\nTyranny of the majority must be protected, but tyranny of the minority is equally dangerous. States rights are a fundamental trait of the United States, but they can not come at the cost of individual rights. The senators are representatives of the states and, by nature, its people, but now they seem to act as spokespeople for their federal party as a whole. They no longer answer to the people which, as put by Thomas Jefferson, is how democracy dies, “The natural progress of things is for liberty to yield and government to gain ground. When the people fear the government, there is tyranny. When the government fears the people,.. there is liberty.”\nMy proposal for the Senate under proportional representation is a similar process to the House, but with a change in the allocation of seats. To protect from both majority and minority overreach, I tried various seat allocations to minimize both state over state power differences (number of senators) and individual over individual power differences (number of people represented by each senator). As an example, currently the state power ratio is 1, since the largest state (CA) and smallest state (WY) have the same number of senators. On the other hand, the individual power ratio is a little over 67, since each senator from California represents 67x more people than each senator from Wyoming. I optimized the following formula (individual power ratio is on the left, state power ratio is on the right):\n\n\n\nOptimiziation Function\n\n\nAs you can see, an optimal solution would be one where the individual power ratio is exactly the value of the representative power ratio squared. For example, if California had 8 million people and Wyoming had 1 million people, allocating California two senators and Wyoming one would result in a representative power ratio of 2:1 and an individual power ratio of 4:1, which would bring an error of zero (work below). In that scenario, California would have 2x the power of Wyoming in the Senate, while an individual voter in Wyoming would have 4x the power of one in California.\n\n\n\nWork Shown\n\n\nUsing this formula and the actual populations, I found allocating four seats to California and one to Wyoming minimizes this error. As a result, California has 4x the senators of Wyoming, but each of Wyoming’s under 588,000 residents have a bit more than 16x the voting power of California’s population. From here, I used a logarithmic scale to allocate seats to the remainder of the states, resulting in the following:\n\n\n\nSeat allocation of the Revised Senate\n\n\nAfterwards, the senators were divied up by party in the same way as the House, based on number of unrepresented voters.\n\n\n\nA potential Senate under a Proportional Representation system\n\n\n\n\n\nA potential Senate under a Proportional Representation system (Map)\n\n\nThe new system results in a staggering over 50 million drop in the number of unrepresented voters in the Senate. Since each senator represents so many more people than each House member, smaller parties were significantly more represented in this revised version of the Senate (now with 120 seats), with Independents (8), Libertarians (5) having big successes. The left-leaning Green (2), Working Class (2), Alliance (1), and Working Families (1) parties all earned seats as well as the Conservative (1), Constitution (1), and Constitutional Conservative parties on the right."
   },
   {
-    "objectID": "projects/murrays-chicken-digital-marketing/index.html#results",
-    "href": "projects/murrays-chicken-digital-marketing/index.html#results",
-    "title": "Murrays Chicken Digital Marketing",
+    "objectID": "projects/prop-rep/index.html#the-gist",
+    "href": "projects/prop-rep/index.html#the-gist",
+    "title": "The Case for Proportional Representation in America",
     "section": "",
-    "text": "Delivered a full website redesign and optimization, significantly improving site speed, mobile responsiveness, and user experience.\nIncreased organic traffic through targeted SEO improvements.\nStreamlined the online ordering process, reducing abandoned cart rates and improving order accuracy.\nExpanded the brand’s digital reach through targeted influencer collaborations and social media campaigns."
+    "text": "The United States is at a turning point in its history. The nation is polarized at a level not seen since the Civil War, and everyday these tensions boil more and more. But this infighting is not a foregone conclusion. Our government has been created and nurtured to promote two major parties that each have the goal of complete destruction of the other. They don’t feel the need to fight for votes because the concept of “wasting your vote” on a third party with no chance of winning feels akin to voting for the party you hate. In turn, there’s no such thing as an anti-establishment vote. Whoever you vote for has millions upon millions of dollars worth of backing and the power to stomp out any alternative parties before they even have a chance. Where has this led us? Tinkering on the cusp of authoritarianism with politicians who don’t truly represent the people making decisions to push us in one direction or the other.\nThis isn’t a partisan issue–based on the 2024 election, Republicans are actually more unrepresented in Congress than Democrats. It doesn’t matter which party is suffering the punishments of our flawed system, it simply matters that there are voters for who our “representative” democracy is not living up to its name. American democracy quiets the voices of both the few and the many, only amplifying the powerful. The founder’s Great Experiment is teetering, but it’s not dead yet. America can continue the mission it was built upon, but it will take drastic changes. Proportional representation is the path to a better, truer democracy."
   },
   {
-    "objectID": "projects/murrays-chicken-digital-marketing/index.html#takeaways",
-    "href": "projects/murrays-chicken-digital-marketing/index.html#takeaways",
-    "title": "Murrays Chicken Digital Marketing",
+    "objectID": "projects/election-prediction/index.html",
+    "href": "projects/election-prediction/index.html",
+    "title": "Election Prediction",
     "section": "",
-    "text": "This role gave me hands-on experience combining digital marketing strategy with technical web development and e-commerce operations management. It sharpened my skills in site optimization, SEO strategy, influencer outreach, and end-to-end online order fulfillment, while providing exposure to the operational realities of managing a consumer-facing product brand online."
+    "text": "By Adam Koplik\n\n\nThis project forecasts the outcome of the 2024 U.S. presidential election using a weighted Bayesian probability model applied to national and swing state polling data. The goal was to create an interactive, real-time dashboard that updates predictions for each state and the overall election outlook.\n\n\n\n\nNational and state-level polling data from major aggregators\n\n2020 election results for model calibration\n\nState electoral vote allocations\n\n\n\n\n\nBuilt a weighted Bayesian model that updates candidate win probabilities as new polls come in.\nIncorporated weightings based on:\n\nPollster historical accuracy\n\nSample size\n\nRecency of the poll\n\n\nSimulated 10,000 election scenarios to generate state-by-state probabilities and national outcome distributions.\nDeveloped an RMarkdown dashboard hosted via ShinyApps.io to visualize live election forecasts and swing state probabilities.\n\n\n\n\n\nSwing State Win Probability Map\nState-by-state vote share predictions\nProjected Electoral College outcomes\nInteractive dashboard viewable online\n\n\n\n\n\n  \n\n\n\n\nR, RStudio\n\nbrms, tidyverse, shiny, ggplot2\n\nRMarkdown for dashboard construction\n\nShinyApps.io for deployment\n\n\n\n\n📊 View the interactive dashboard here\n\n\n\n\nModel assumes polls are unbiased on average, though real-world polling error is inevitable.\nNo adjustments made for early voting patterns or state-level ballot access complications.\n\n\nBuilt for my Statistics Senior Seminar, Fall 2024."
   },
   {
-    "objectID": "projects/murrays-chicken-digital-marketing/index.html#company-site",
-    "href": "projects/murrays-chicken-digital-marketing/index.html#company-site",
-    "title": "Murrays Chicken Digital Marketing",
+    "objectID": "projects/election-prediction/index.html#overview",
+    "href": "projects/election-prediction/index.html#overview",
+    "title": "Election Prediction",
     "section": "",
-    "text": "Visit Murray’s Chicken Website"
+    "text": "This project forecasts the outcome of the 2024 U.S. presidential election using a weighted Bayesian probability model applied to national and swing state polling data. The goal was to create an interactive, real-time dashboard that updates predictions for each state and the overall election outlook."
   },
   {
-    "objectID": "projects/how-zohran-won/index.html",
-    "href": "projects/how-zohran-won/index.html",
-    "title": "How Zohran Won",
+    "objectID": "projects/election-prediction/index.html#data-sources",
+    "href": "projects/election-prediction/index.html#data-sources",
+    "title": "Election Prediction",
     "section": "",
-    "text": "By Adam Koplik ## Overview\nI conducted an analysis of the 2025 Democratic primary for New York City mayor, where leftist Zohran Mamdani earned an overwhelming victory over multiple foes, the main of which being former Governor Andrew Cuomo.\n\n\n\nPulled and cleaned precinct-level election results\n\nMapped each precinct’s results to visualize where Zohran overperformed\n\nAnalyzed trends in districts by age, race, and voter demographics\n\nUsed regression analysis to understand voting patterns across different groups\n\nLooked at turnout increases, candidate strategies, and demographic shifts\n\n\n\n\n\nMamdani’s campaign focused on registering new voters, contributing to over 37,000 new voters in the 90 days before the election compared with 3,000 in the same period in 2021.\nMamdani had strong support in predominantly Hispanic, Latino, and AAPI-heavy districts.\nHis grassroots, Instagram-based campaign resonated with young voters, especially in Gen-Z and Millennial-heavy areas.\nStruggled with older voters and in predominantly Black districts, where Cuomo held a noticeable advantage.\nAmong Gen-X, there was a notable gender split in Mamdani’s support — stronger among men than women.\n\n\n\n\n\nAmerican Community Survey (2023)\nNYC Board of Elections results\nNew York Times voter registration reporting\nR (tidyverse, glmnet, ggplot2)\nTableau for data visualizations\n\n\n\n\n    \n\n\n\nRead the full analysis on Medium"
+    "text": "National and state-level polling data from major aggregators\n\n2020 election results for model calibration\n\nState electoral vote allocations"
   },
   {
-    "objectID": "projects/how-zohran-won/index.html#project-scope",
-    "href": "projects/how-zohran-won/index.html#project-scope",
-    "title": "How Zohran Won",
+    "objectID": "projects/election-prediction/index.html#methodology",
+    "href": "projects/election-prediction/index.html#methodology",
+    "title": "Election Prediction",
     "section": "",
-    "text": "Pulled and cleaned precinct-level election results\n\nMapped each precinct’s results to visualize where Zohran overperformed\n\nAnalyzed trends in districts by age, race, and voter demographics\n\nUsed regression analysis to understand voting patterns across different groups\n\nLooked at turnout increases, candidate strategies, and demographic shifts"
+    "text": "Built a weighted Bayesian model that updates candidate win probabilities as new polls come in.\nIncorporated weightings based on:\n\nPollster historical accuracy\n\nSample size\n\nRecency of the poll\n\n\nSimulated 10,000 election scenarios to generate state-by-state probabilities and national outcome distributions.\nDeveloped an RMarkdown dashboard hosted via ShinyApps.io to visualize live election forecasts and swing state probabilities."
   },
   {
-    "objectID": "projects/how-zohran-won/index.html#key-findings",
-    "href": "projects/how-zohran-won/index.html#key-findings",
-    "title": "How Zohran Won",
+    "objectID": "projects/election-prediction/index.html#key-features",
+    "href": "projects/election-prediction/index.html#key-features",
+    "title": "Election Prediction",
     "section": "",
-    "text": "Mamdani’s campaign focused on registering new voters, contributing to over 37,000 new voters in the 90 days before the election compared with 3,000 in the same period in 2021.\nMamdani had strong support in predominantly Hispanic, Latino, and AAPI-heavy districts.\nHis grassroots, Instagram-based campaign resonated with young voters, especially in Gen-Z and Millennial-heavy areas.\nStruggled with older voters and in predominantly Black districts, where Cuomo held a noticeable advantage.\nAmong Gen-X, there was a notable gender split in Mamdani’s support — stronger among men than women."
+    "text": "Swing State Win Probability Map\nState-by-state vote share predictions\nProjected Electoral College outcomes\nInteractive dashboard viewable online"
   },
   {
-    "objectID": "projects/how-zohran-won/index.html#data-and-tools-used",
-    "href": "projects/how-zohran-won/index.html#data-and-tools-used",
-    "title": "How Zohran Won",
+    "objectID": "projects/election-prediction/index.html#tools-used",
+    "href": "projects/election-prediction/index.html#tools-used",
+    "title": "Election Prediction",
     "section": "",
-    "text": "American Community Survey (2023)\nNYC Board of Elections results\nNew York Times voter registration reporting\nR (tidyverse, glmnet, ggplot2)\nTableau for data visualizations"
+    "text": "R, RStudio\n\nbrms, tidyverse, shiny, ggplot2\n\nRMarkdown for dashboard construction\n\nShinyApps.io for deployment"
   },
   {
-    "objectID": "projects/how-zohran-won/index.html#full-article",
-    "href": "projects/how-zohran-won/index.html#full-article",
-    "title": "How Zohran Won",
+    "objectID": "projects/election-prediction/index.html#live-dashboard",
+    "href": "projects/election-prediction/index.html#live-dashboard",
+    "title": "Election Prediction",
     "section": "",
-    "text": "Read the full analysis on Medium"
+    "text": "📊 View the interactive dashboard here"
   },
   {
-    "objectID": "projects/nfl-zone-coverage/index.html",
-    "href": "projects/nfl-zone-coverage/index.html",
-    "title": "NFL Zone Coverage",
+    "objectID": "projects/election-prediction/index.html#limitations",
+    "href": "projects/election-prediction/index.html#limitations",
+    "title": "Election Prediction",
     "section": "",
-    "text": "By Adam Koplik and Ajay Patel\n\n\nThis was one of my first deep dives into football analytics — a research project focused on identifying which passing concepts work best against different zone coverages in the NFL. The goal was to analyze trends in offensive success rates against Cover-2, Cover-3, and Cover-4 defenses, and to recommend strategic adjustments for teams facing those schemes.\n\n\n\n\nNFL tracking data\n\nPlay-by-play data with coverage tags\n\nPublicly available player route and result data\n\n\n\n\n\nCollected play-by-play data and filtered for passing plays against Cover-2, Cover-3, and Cover-4 defenses.\nCalculated success rates and EPA (expected points added) for different passing concepts like verticals, flood, slant/flat, and mesh.\nCompared average EPA per concept against league averages by coverage type.\nVisualized which concepts consistently outperformed expectations against specific coverages.\n\n\n\n\n\nFlood and mesh concepts were especially effective against Cover-3 defenses.\nVerticals struggled against Cover-4 but performed well against Cover-2.\nTeams were often over-relying on certain concepts in unfavorable matchups, missing opportunities to exploit defensive tendencies.\n\n\n\n\n\nR, RStudio\n\nggplot2 for data visualization\n\nExcel for data prep and manual coverage tagging\n\n\n\n\nThis was my introduction to working with football data and play-by-play analysis, and it gave me an early sense of how much nuance there is in matchup-based play calling. It also laid the foundation for later, more advanced NFL data projects I’ve worked on — including the NFL Big Data Bowl.\n\n\n\n\n\n\nTop 10s\n\n\n\n\n\n📥 Download the full project report PDF here"
-  },
-  {
-    "objectID": "projects/nfl-zone-coverage/index.html#overview",
-    "href": "projects/nfl-zone-coverage/index.html#overview",
-    "title": "NFL Zone Coverage",
-    "section": "",
-    "text": "This was one of my first deep dives into football analytics — a research project focused on identifying which passing concepts work best against different zone coverages in the NFL. The goal was to analyze trends in offensive success rates against Cover-2, Cover-3, and Cover-4 defenses, and to recommend strategic adjustments for teams facing those schemes."
-  },
-  {
-    "objectID": "projects/nfl-zone-coverage/index.html#data-sources",
-    "href": "projects/nfl-zone-coverage/index.html#data-sources",
-    "title": "NFL Zone Coverage",
-    "section": "",
-    "text": "NFL tracking data\n\nPlay-by-play data with coverage tags\n\nPublicly available player route and result data"
-  },
-  {
-    "objectID": "projects/nfl-zone-coverage/index.html#approach",
-    "href": "projects/nfl-zone-coverage/index.html#approach",
-    "title": "NFL Zone Coverage",
-    "section": "",
-    "text": "Collected play-by-play data and filtered for passing plays against Cover-2, Cover-3, and Cover-4 defenses.\nCalculated success rates and EPA (expected points added) for different passing concepts like verticals, flood, slant/flat, and mesh.\nCompared average EPA per concept against league averages by coverage type.\nVisualized which concepts consistently outperformed expectations against specific coverages."
-  },
-  {
-    "objectID": "projects/nfl-zone-coverage/index.html#key-findings",
-    "href": "projects/nfl-zone-coverage/index.html#key-findings",
-    "title": "NFL Zone Coverage",
-    "section": "",
-    "text": "Flood and mesh concepts were especially effective against Cover-3 defenses.\nVerticals struggled against Cover-4 but performed well against Cover-2.\nTeams were often over-relying on certain concepts in unfavorable matchups, missing opportunities to exploit defensive tendencies."
-  },
-  {
-    "objectID": "projects/nfl-zone-coverage/index.html#tools-used",
-    "href": "projects/nfl-zone-coverage/index.html#tools-used",
-    "title": "NFL Zone Coverage",
-    "section": "",
-    "text": "R, RStudio\n\nggplot2 for data visualization\n\nExcel for data prep and manual coverage tagging"
-  },
-  {
-    "objectID": "projects/nfl-zone-coverage/index.html#takeaways",
-    "href": "projects/nfl-zone-coverage/index.html#takeaways",
-    "title": "NFL Zone Coverage",
-    "section": "",
-    "text": "This was my introduction to working with football data and play-by-play analysis, and it gave me an early sense of how much nuance there is in matchup-based play calling. It also laid the foundation for later, more advanced NFL data projects I’ve worked on — including the NFL Big Data Bowl."
-  },
-  {
-    "objectID": "projects/nfl-zone-coverage/index.html#visualizations",
-    "href": "projects/nfl-zone-coverage/index.html#visualizations",
-    "title": "NFL Zone Coverage",
-    "section": "",
-    "text": "Top 10s"
-  },
-  {
-    "objectID": "projects/nfl-zone-coverage/index.html#project-link",
-    "href": "projects/nfl-zone-coverage/index.html#project-link",
-    "title": "NFL Zone Coverage",
-    "section": "",
-    "text": "📥 Download the full project report PDF here"
-  },
-  {
-    "objectID": "projects/ulster-county-climate-dashboards/index.html",
-    "href": "projects/ulster-county-climate-dashboards/index.html",
-    "title": "Ulster County Climate Dashboards",
-    "section": "",
-    "text": "By Adam Koplik\n\n\nDuring the summer of 2023, I worked as a Climate Data Intern for Ulster County Government. I was responsible for developing a series of ArcGIS dashboards and web tools to help visualize climate-related data for public policy initiatives. I also led a small team of interns, tracked their project progress, and consolidated their work into a public-facing website to improve the visibility of county-wide climate programs.\n\n\n\n\nDeveloped a Climate Corps Dashboard website to showcase multiple intern-led climate data projects.\nBuilt several interactive ArcGIS dashboards visualizing key climate-related and public health datasets, including:\n\nDisadvantaged communities map\n\nHealthcare desert analysis\n\nPopulation vulnerability by census tract\n\n\nManaged a team of interns, organized weekly check-ins, and compiled their deliverables into a polished, navigable online resource for the public and local government officials.\nContributed to public outreach by presenting dashboard demos to county departments and participating in community climate action briefings.\n\n\n\n\n\nArcGIS Online\n\nArcGIS Dashboards\n\nHTML, CSS (for website layout)\n\nMicrosoft Excel (data cleaning and prep)\n\nGoogle Sheets and Google Docs (project tracking)\n\n\n\n\n\nDelivered a centralized Climate Corps Dashboard website consolidating multiple data visualization projects for Ulster County.\nCreated clean, accessible maps and dashboards to highlight priority public health and environmental justice issues within the county.\nIncreased public awareness and internal visibility of climate data initiatives through interactive tools and presentations.\nEstablished a sustainable framework for future intern cohorts to expand and add projects.\n\n\n\n\nThis role gave me hands-on experience working in local government data operations, team leadership, and public sector data visualization. It improved my skills in project management, dashboard development, and communicating complex data to non-technical audiences.\n\n\n\n\nDisadvantaged Communities in Ulster County\nHealthcare Deserts Analysis\n\n\n\n\nSpecial thanks to the Ulster County Department of the Environment and my fellow interns for their work on these projects."
-  },
-  {
-    "objectID": "projects/ulster-county-climate-dashboards/index.html#overview",
-    "href": "projects/ulster-county-climate-dashboards/index.html#overview",
-    "title": "Ulster County Climate Dashboards",
-    "section": "",
-    "text": "During the summer of 2023, I worked as a Climate Data Intern for Ulster County Government. I was responsible for developing a series of ArcGIS dashboards and web tools to help visualize climate-related data for public policy initiatives. I also led a small team of interns, tracked their project progress, and consolidated their work into a public-facing website to improve the visibility of county-wide climate programs."
-  },
-  {
-    "objectID": "projects/ulster-county-climate-dashboards/index.html#project-scope",
-    "href": "projects/ulster-county-climate-dashboards/index.html#project-scope",
-    "title": "Ulster County Climate Dashboards",
-    "section": "",
-    "text": "Developed a Climate Corps Dashboard website to showcase multiple intern-led climate data projects.\nBuilt several interactive ArcGIS dashboards visualizing key climate-related and public health datasets, including:\n\nDisadvantaged communities map\n\nHealthcare desert analysis\n\nPopulation vulnerability by census tract\n\n\nManaged a team of interns, organized weekly check-ins, and compiled their deliverables into a polished, navigable online resource for the public and local government officials.\nContributed to public outreach by presenting dashboard demos to county departments and participating in community climate action briefings."
-  },
-  {
-    "objectID": "projects/ulster-county-climate-dashboards/index.html#tools-and-technologies",
-    "href": "projects/ulster-county-climate-dashboards/index.html#tools-and-technologies",
-    "title": "Ulster County Climate Dashboards",
-    "section": "",
-    "text": "ArcGIS Online\n\nArcGIS Dashboards\n\nHTML, CSS (for website layout)\n\nMicrosoft Excel (data cleaning and prep)\n\nGoogle Sheets and Google Docs (project tracking)"
-  },
-  {
-    "objectID": "projects/ulster-county-climate-dashboards/index.html#key-results",
-    "href": "projects/ulster-county-climate-dashboards/index.html#key-results",
-    "title": "Ulster County Climate Dashboards",
-    "section": "",
-    "text": "Delivered a centralized Climate Corps Dashboard website consolidating multiple data visualization projects for Ulster County.\nCreated clean, accessible maps and dashboards to highlight priority public health and environmental justice issues within the county.\nIncreased public awareness and internal visibility of climate data initiatives through interactive tools and presentations.\nEstablished a sustainable framework for future intern cohorts to expand and add projects."
-  },
-  {
-    "objectID": "projects/ulster-county-climate-dashboards/index.html#takeaways",
-    "href": "projects/ulster-county-climate-dashboards/index.html#takeaways",
-    "title": "Ulster County Climate Dashboards",
-    "section": "",
-    "text": "This role gave me hands-on experience working in local government data operations, team leadership, and public sector data visualization. It improved my skills in project management, dashboard development, and communicating complex data to non-technical audiences."
-  },
-  {
-    "objectID": "projects/ulster-county-climate-dashboards/index.html#notable-dashboards",
-    "href": "projects/ulster-county-climate-dashboards/index.html#notable-dashboards",
-    "title": "Ulster County Climate Dashboards",
-    "section": "",
-    "text": "Disadvantaged Communities in Ulster County\nHealthcare Deserts Analysis"
-  },
-  {
-    "objectID": "projects/ulster-county-climate-dashboards/index.html#acknowledgements",
-    "href": "projects/ulster-county-climate-dashboards/index.html#acknowledgements",
-    "title": "Ulster County Climate Dashboards",
-    "section": "",
-    "text": "Special thanks to the Ulster County Department of the Environment and my fellow interns for their work on these projects."
-  },
-  {
-    "objectID": "projects/severe-weather/index.html",
-    "href": "projects/severe-weather/index.html",
-    "title": "Severe Weather",
-    "section": "",
-    "text": "Adam Koplik\n\n\nThis project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation.\n\n\n\n\nNOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis\n\n\n\n\nAfter cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share.\n\n\n\n\nDistricts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic.\n\n\n\n\nInfographic and Data Visualizations:\n\n\n\nInfographic\n\n\n\n   \n\n\n\nWhile this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play.\n\n\n\n\nR, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
-  },
-  {
-    "objectID": "projects/severe-weather/index.html#overview",
-    "href": "projects/severe-weather/index.html#overview",
-    "title": "Severe Weather",
-    "section": "",
-    "text": "This project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation."
-  },
-  {
-    "objectID": "projects/severe-weather/index.html#data-sources",
-    "href": "projects/severe-weather/index.html#data-sources",
-    "title": "Severe Weather",
-    "section": "",
-    "text": "NOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis"
-  },
-  {
-    "objectID": "projects/severe-weather/index.html#methods",
-    "href": "projects/severe-weather/index.html#methods",
-    "title": "Severe Weather",
-    "section": "",
-    "text": "After cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share."
-  },
-  {
-    "objectID": "projects/severe-weather/index.html#key-results",
-    "href": "projects/severe-weather/index.html#key-results",
-    "title": "Severe Weather",
-    "section": "",
-    "text": "Districts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic."
-  },
-  {
-    "objectID": "projects/severe-weather/index.html#visualizations",
-    "href": "projects/severe-weather/index.html#visualizations",
-    "title": "Severe Weather",
-    "section": "",
-    "text": "Infographic and Data Visualizations:\n\n\n\nInfographic"
-  },
-  {
-    "objectID": "projects/severe-weather/index.html#conclusions",
-    "href": "projects/severe-weather/index.html#conclusions",
-    "title": "Severe Weather",
-    "section": "",
-    "text": "While this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play."
-  },
-  {
-    "objectID": "projects/severe-weather/index.html#tools-used",
-    "href": "projects/severe-weather/index.html#tools-used",
-    "title": "Severe Weather",
-    "section": "",
-    "text": "R, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
-  },
-  {
-    "objectID": "projects/commodity-cost-impacts/index.html",
-    "href": "projects/commodity-cost-impacts/index.html",
-    "title": "Commodity Cost Impacts",
-    "section": "",
-    "text": "By Adam Koplik\n\n\nDuring my summer internship at a mid-sized poultry company, I built a financial simulation model to help the company forecast how changes in commodity prices (corn and soybean meal) would affect their gross profit margins. The poultry industry is heavily impacted by fluctuations in feed costs, and the company needed a way to quantify those impacts under different pricing and operational scenarios to support pricing, hedging, and operational decisions.\n\n\n\nFeed ingredients like corn and soybean meal make up the majority of a poultry processor’s costs. These prices are volatile and difficult to predict. Since the company wasn’t vertically integrated, they couldn’t control these input costs directly.\nTo manage risk and profitability, they needed a tool that could: - Simulate how changes in commodity prices would impact per-pound live chicken costs - Forecast overall profitability under different operational and market conditions - Identify pricing or volume changes needed to hit profit margin targets\n\n\n\nI created an interactive simulation tool in R that: - Allowed users to input different corn and soybean prices - Modeled the live chicken cost per pound based on those inputs - Calculated projected gross margins for the company given different revenue, labor, and packaging cost scenarios - Recommended price changes or volume adjustments needed to meet gross margin targets\nThe tool also generated visualizations showing the financial outcomes under different scenarios, making it easier for the executive team to see their cost exposure.\n\n\n\n\nR and RStudio\n\nShiny (for future deployment)\n\nggplot2, dplyr, caret, flexdashboard, plotly, tidyverse, and other R packages\n\nExcel for financial data cleaning and prep\n\nConverted into Tableau\n\n\n\n\n\nQuantified how a $0.10/bushel change in corn or $10/ton change in soybean meal would affect per-pound costs.\nIdentified price ranges and volume scenarios needed to hit a 20% gross margin goal under various commodity market conditions.\nCreated dynamic dashboards and scenario tables to visualize results for different hedging and pricing decisions.\nThe model accurately matched historical financials with an average gross margin error of less than 0.3%, excluding outlier months like Thanksgiving season.\n\n\n\n\nThis project taught me how to combine financial modeling, data analysis, and visualization to support operational decision-making in a real business setting. It also reinforced how important it is for mid-sized businesses to have tools that translate complex market dynamics into actionable, day-to-day business strategies.\n\n\n\n\n  \n\n\n\nAccess the working dashboard here\n\n\n\n📥 Download the full project report PDF here"
-  },
-  {
-    "objectID": "projects/commodity-cost-impacts/index.html#overview",
-    "href": "projects/commodity-cost-impacts/index.html#overview",
-    "title": "Commodity Cost Impacts",
-    "section": "",
-    "text": "During my summer internship at a mid-sized poultry company, I built a financial simulation model to help the company forecast how changes in commodity prices (corn and soybean meal) would affect their gross profit margins. The poultry industry is heavily impacted by fluctuations in feed costs, and the company needed a way to quantify those impacts under different pricing and operational scenarios to support pricing, hedging, and operational decisions."
-  },
-  {
-    "objectID": "projects/commodity-cost-impacts/index.html#business-problem",
-    "href": "projects/commodity-cost-impacts/index.html#business-problem",
-    "title": "Commodity Cost Impacts",
-    "section": "",
-    "text": "Feed ingredients like corn and soybean meal make up the majority of a poultry processor’s costs. These prices are volatile and difficult to predict. Since the company wasn’t vertically integrated, they couldn’t control these input costs directly.\nTo manage risk and profitability, they needed a tool that could: - Simulate how changes in commodity prices would impact per-pound live chicken costs - Forecast overall profitability under different operational and market conditions - Identify pricing or volume changes needed to hit profit margin targets"
-  },
-  {
-    "objectID": "projects/commodity-cost-impacts/index.html#approach",
-    "href": "projects/commodity-cost-impacts/index.html#approach",
-    "title": "Commodity Cost Impacts",
-    "section": "",
-    "text": "I created an interactive simulation tool in R that: - Allowed users to input different corn and soybean prices - Modeled the live chicken cost per pound based on those inputs - Calculated projected gross margins for the company given different revenue, labor, and packaging cost scenarios - Recommended price changes or volume adjustments needed to meet gross margin targets\nThe tool also generated visualizations showing the financial outcomes under different scenarios, making it easier for the executive team to see their cost exposure."
-  },
-  {
-    "objectID": "projects/commodity-cost-impacts/index.html#tools-and-technologies",
-    "href": "projects/commodity-cost-impacts/index.html#tools-and-technologies",
-    "title": "Commodity Cost Impacts",
-    "section": "",
-    "text": "R and RStudio\n\nShiny (for future deployment)\n\nggplot2, dplyr, caret, flexdashboard, plotly, tidyverse, and other R packages\n\nExcel for financial data cleaning and prep\n\nConverted into Tableau"
-  },
-  {
-    "objectID": "projects/commodity-cost-impacts/index.html#key-results",
-    "href": "projects/commodity-cost-impacts/index.html#key-results",
-    "title": "Commodity Cost Impacts",
-    "section": "",
-    "text": "Quantified how a $0.10/bushel change in corn or $10/ton change in soybean meal would affect per-pound costs.\nIdentified price ranges and volume scenarios needed to hit a 20% gross margin goal under various commodity market conditions.\nCreated dynamic dashboards and scenario tables to visualize results for different hedging and pricing decisions.\nThe model accurately matched historical financials with an average gross margin error of less than 0.3%, excluding outlier months like Thanksgiving season."
-  },
-  {
-    "objectID": "projects/commodity-cost-impacts/index.html#takeaways",
-    "href": "projects/commodity-cost-impacts/index.html#takeaways",
-    "title": "Commodity Cost Impacts",
-    "section": "",
-    "text": "This project taught me how to combine financial modeling, data analysis, and visualization to support operational decision-making in a real business setting. It also reinforced how important it is for mid-sized businesses to have tools that translate complex market dynamics into actionable, day-to-day business strategies."
-  },
-  {
-    "objectID": "projects/commodity-cost-impacts/index.html#dashboard-access",
-    "href": "projects/commodity-cost-impacts/index.html#dashboard-access",
-    "title": "Commodity Cost Impacts",
-    "section": "",
-    "text": "Access the working dashboard here"
-  },
-  {
-    "objectID": "projects/commodity-cost-impacts/index.html#full-report",
-    "href": "projects/commodity-cost-impacts/index.html#full-report",
-    "title": "Commodity Cost Impacts",
-    "section": "",
-    "text": "📥 Download the full project report PDF here"
-  },
-  {
-    "objectID": "adamkoplik-portfolio.html",
-    "href": "adamkoplik-portfolio.html",
-    "title": "adamkoplik-portfolio",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "adamkoplik-portfolio.html#quarto",
-    "href": "adamkoplik-portfolio.html#quarto",
-    "title": "adamkoplik-portfolio",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html",
-    "href": "projects/matthew-koplik-photography/index.html",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "By Adam Koplik\n\n\nI built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service.\n\n\n\n\nDeveloped a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics.\n\n\n\n\n\nShopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking\n\n\n\n\n\nLaunched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing.\n\n\n\n\nThis project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business.\n\n\n\nView the live store"
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#overview",
-    "href": "projects/matthew-koplik-photography/index.html#overview",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "I built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#project-scope",
-    "href": "projects/matthew-koplik-photography/index.html#project-scope",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "Developed a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
-    "href": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "Shopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking"
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#results",
-    "href": "projects/matthew-koplik-photography/index.html#results",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "Launched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#takeaways",
-    "href": "projects/matthew-koplik-photography/index.html#takeaways",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "This project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business."
-  },
-  {
-    "objectID": "projects/matthew-koplik-photography/index.html#full-site",
-    "href": "projects/matthew-koplik-photography/index.html#full-site",
-    "title": "Matthew Koplik Photography",
-    "section": "",
-    "text": "View the live store"
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html",
-    "href": "projects/be-the-qb/index.html",
-    "title": "Be The QB",
-    "section": "",
-    "text": "By Adam Koplik & Ian Fratarcangeli — NFL Big Data Bowl (Undergraduate Track)\n\n\nThis project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play.\n\n\n\n\nNFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata\n\n\n\n\n\n\n\nCleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments.\n\n\n\n\n\n\nThe model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations.\n\n\n\n\n\nR, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data\n\n\n\n\n\nModel excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy.\n\n\n\n\n\n \n\n\n\n📥 Download full project report PDF here\n\n\n\nHuge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html#overview",
-    "href": "projects/be-the-qb/index.html#overview",
-    "title": "Be The QB",
-    "section": "",
-    "text": "This project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play."
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html#data-sources",
-    "href": "projects/be-the-qb/index.html#data-sources",
-    "title": "Be The QB",
-    "section": "",
-    "text": "NFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata"
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html#process-summary",
-    "href": "projects/be-the-qb/index.html#process-summary",
-    "title": "Be The QB",
-    "section": "",
-    "text": "Cleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments."
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html#key-findings",
-    "href": "projects/be-the-qb/index.html#key-findings",
-    "title": "Be The QB",
-    "section": "",
-    "text": "The model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations."
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html#tools-used",
-    "href": "projects/be-the-qb/index.html#tools-used",
-    "title": "Be The QB",
-    "section": "",
-    "text": "R, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data"
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html#limitations",
-    "href": "projects/be-the-qb/index.html#limitations",
-    "title": "Be The QB",
-    "section": "",
-    "text": "Model excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy."
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html#full-report",
-    "href": "projects/be-the-qb/index.html#full-report",
-    "title": "Be The QB",
-    "section": "",
-    "text": "📥 Download full project report PDF here"
-  },
-  {
-    "objectID": "projects/be-the-qb/index.html#acknowledgements",
-    "href": "projects/be-the-qb/index.html#acknowledgements",
-    "title": "Be The QB",
-    "section": "",
-    "text": "Huge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
-  },
-  {
-    "objectID": "projects/spotify/index.html",
-    "href": "projects/spotify/index.html",
-    "title": "Spotify IndieScore",
-    "section": "",
-    "text": "I created an app to get an IndieScore for a Spotify playlist based on how many monthly listeners each artist featured has. I developed it using FastAPI, Spotify Developer, HTML, CSS, Python, and host it on Render.com."
-  },
-  {
-    "objectID": "projects/work-from-home/index.html",
-    "href": "projects/work-from-home/index.html",
-    "title": "Work From Home",
-    "section": "",
-    "text": "By Adam Koplik, Kevin Cavicchia, and Simon Le\n\n\nThis project looks at how remote work policies — both fully remote and hybrid — are affecting unemployment rates across industries in the U.S. As remote work continues to reshape the labor market post-pandemic, we wanted to see whether encouraging work-from-home arrangements helps or hurts job retention within different sectors.\n\n\n\n\nSurvey of Working Arrangements and Attitudes (SWAA) — monthly survey on work arrangements since 2020\n\nBureau of Labor Statistics (BLS) — industry-level unemployment data\n\nAmerican Time Use Survey (ATUS) — telework potential scores by industry\n\nState policy data from Oklahoma, Maryland, Vermont, and Wisconsin on remote work incentives\n\n\n\n\nWe took a two-stage regression approach: 1. Stage 1: Measured how state-level remote work policies affected the share of remote workers within industries. 2. Stage 2: Measured how changes in remote work share impacted industry unemployment rates.\nWe differentiated between: - Fully remote work - Hybrid (part-time remote) work\nUsed control variables for age, gender, race, education, and state/time fixed effects to isolate the effects.\n\n\n\n\nFully remote work policies slightly increased unemployment rates within affected industries.\n\nHybrid work policies had the opposite effect — reducing unemployment rates by about 1.6 percentage points for every 1% increase in remote work share.\n\nHybrid work seems to offer a sweet spot: providing flexibility without sacrificing job stability.\n\nFun fact: Hybrid work has become the new normal, with over 47% of U.S. employees working in some sort of hybrid arrangement by late 2023.\n\n\n\n\n \n\n\n\nRemote work’s impact on unemployment isn’t straightforward. Fully remote policies might lead to layoffs or restructuring in industries where physical presence matters. Hybrid work, though, seems to strike a good balance between productivity and flexibility, making it a safer bet for policymakers trying to protect jobs.\n\n\n\n\nR, RStudio\n\nStata\n\nSWAA, BLS, ATUS datasets\n\nLaTeX (for academic writeup)\n\n\n\n\n\nOnly four states had remote work policies in place during our study window, limiting generalizability.\n\nSWAA data is pooled cross-sectional — can’t track individual workers over time.\n\nVariations in industry labeling across datasets required careful manual standardization.\n\n\n\n\n📥 Download the full PDF paper here\n\nBuilt for my Labor Economics seminar at Hamilton College (Spring 2024)."
-  },
-  {
-    "objectID": "projects/work-from-home/index.html#overview",
-    "href": "projects/work-from-home/index.html#overview",
-    "title": "Work From Home",
-    "section": "",
-    "text": "This project looks at how remote work policies — both fully remote and hybrid — are affecting unemployment rates across industries in the U.S. As remote work continues to reshape the labor market post-pandemic, we wanted to see whether encouraging work-from-home arrangements helps or hurts job retention within different sectors."
-  },
-  {
-    "objectID": "projects/work-from-home/index.html#data-sources",
-    "href": "projects/work-from-home/index.html#data-sources",
-    "title": "Work From Home",
-    "section": "",
-    "text": "Survey of Working Arrangements and Attitudes (SWAA) — monthly survey on work arrangements since 2020\n\nBureau of Labor Statistics (BLS) — industry-level unemployment data\n\nAmerican Time Use Survey (ATUS) — telework potential scores by industry\n\nState policy data from Oklahoma, Maryland, Vermont, and Wisconsin on remote work incentives"
-  },
-  {
-    "objectID": "projects/work-from-home/index.html#methods",
-    "href": "projects/work-from-home/index.html#methods",
-    "title": "Work From Home",
-    "section": "",
-    "text": "We took a two-stage regression approach: 1. Stage 1: Measured how state-level remote work policies affected the share of remote workers within industries. 2. Stage 2: Measured how changes in remote work share impacted industry unemployment rates.\nWe differentiated between: - Fully remote work - Hybrid (part-time remote) work\nUsed control variables for age, gender, race, education, and state/time fixed effects to isolate the effects."
-  },
-  {
-    "objectID": "projects/work-from-home/index.html#key-results",
-    "href": "projects/work-from-home/index.html#key-results",
-    "title": "Work From Home",
-    "section": "",
-    "text": "Fully remote work policies slightly increased unemployment rates within affected industries.\n\nHybrid work policies had the opposite effect — reducing unemployment rates by about 1.6 percentage points for every 1% increase in remote work share.\n\nHybrid work seems to offer a sweet spot: providing flexibility without sacrificing job stability.\n\nFun fact: Hybrid work has become the new normal, with over 47% of U.S. employees working in some sort of hybrid arrangement by late 2023."
-  },
-  {
-    "objectID": "projects/work-from-home/index.html#takeaways",
-    "href": "projects/work-from-home/index.html#takeaways",
-    "title": "Work From Home",
-    "section": "",
-    "text": "Remote work’s impact on unemployment isn’t straightforward. Fully remote policies might lead to layoffs or restructuring in industries where physical presence matters. Hybrid work, though, seems to strike a good balance between productivity and flexibility, making it a safer bet for policymakers trying to protect jobs."
-  },
-  {
-    "objectID": "projects/work-from-home/index.html#tools-used",
-    "href": "projects/work-from-home/index.html#tools-used",
-    "title": "Work From Home",
-    "section": "",
-    "text": "R, RStudio\n\nStata\n\nSWAA, BLS, ATUS datasets\n\nLaTeX (for academic writeup)"
-  },
-  {
-    "objectID": "projects/work-from-home/index.html#limitations",
-    "href": "projects/work-from-home/index.html#limitations",
-    "title": "Work From Home",
-    "section": "",
-    "text": "Only four states had remote work policies in place during our study window, limiting generalizability.\n\nSWAA data is pooled cross-sectional — can’t track individual workers over time.\n\nVariations in industry labeling across datasets required careful manual standardization."
-  },
-  {
-    "objectID": "projects/work-from-home/index.html#full-paper",
-    "href": "projects/work-from-home/index.html#full-paper",
-    "title": "Work From Home",
-    "section": "",
-    "text": "📥 Download the full PDF paper here\n\nBuilt for my Labor Economics seminar at Hamilton College (Spring 2024)."
+    "text": "Model assumes polls are unbiased on average, though real-world polling error is inevitable.\nNo adjustments made for early voting patterns or state-level ballot access complications.\n\n\nBuilt for my Statistics Senior Seminar, Fall 2024."
   },
   {
     "objectID": "projects/land-cover/index.html",
@@ -616,60 +189,522 @@
     "text": "Special thanks to Professor Heather Kropp for her mentorship throughout this project and to the Hamilton College Environmental Studies Department for supporting the research."
   },
   {
-    "objectID": "projects/election-prediction/index.html",
-    "href": "projects/election-prediction/index.html",
-    "title": "Election Prediction",
+    "objectID": "projects/work-from-home/index.html",
+    "href": "projects/work-from-home/index.html",
+    "title": "Work From Home",
     "section": "",
-    "text": "By Adam Koplik\n\n\nThis project forecasts the outcome of the 2024 U.S. presidential election using a weighted Bayesian probability model applied to national and swing state polling data. The goal was to create an interactive, real-time dashboard that updates predictions for each state and the overall election outlook.\n\n\n\n\nNational and state-level polling data from major aggregators\n\n2020 election results for model calibration\n\nState electoral vote allocations\n\n\n\n\n\nBuilt a weighted Bayesian model that updates candidate win probabilities as new polls come in.\nIncorporated weightings based on:\n\nPollster historical accuracy\n\nSample size\n\nRecency of the poll\n\n\nSimulated 10,000 election scenarios to generate state-by-state probabilities and national outcome distributions.\nDeveloped an RMarkdown dashboard hosted via ShinyApps.io to visualize live election forecasts and swing state probabilities.\n\n\n\n\n\nSwing State Win Probability Map\nState-by-state vote share predictions\nProjected Electoral College outcomes\nInteractive dashboard viewable online\n\n\n\n\n\n  \n\n\n\n\nR, RStudio\n\nbrms, tidyverse, shiny, ggplot2\n\nRMarkdown for dashboard construction\n\nShinyApps.io for deployment\n\n\n\n\n📊 View the interactive dashboard here\n\n\n\n\nModel assumes polls are unbiased on average, though real-world polling error is inevitable.\nNo adjustments made for early voting patterns or state-level ballot access complications.\n\n\nBuilt for my Statistics Senior Seminar, Fall 2024."
+    "text": "By Adam Koplik, Kevin Cavicchia, and Simon Le\n\n\nThis project looks at how remote work policies — both fully remote and hybrid — are affecting unemployment rates across industries in the U.S. As remote work continues to reshape the labor market post-pandemic, we wanted to see whether encouraging work-from-home arrangements helps or hurts job retention within different sectors.\n\n\n\n\nSurvey of Working Arrangements and Attitudes (SWAA) — monthly survey on work arrangements since 2020\n\nBureau of Labor Statistics (BLS) — industry-level unemployment data\n\nAmerican Time Use Survey (ATUS) — telework potential scores by industry\n\nState policy data from Oklahoma, Maryland, Vermont, and Wisconsin on remote work incentives\n\n\n\n\nWe took a two-stage regression approach: 1. Stage 1: Measured how state-level remote work policies affected the share of remote workers within industries. 2. Stage 2: Measured how changes in remote work share impacted industry unemployment rates.\nWe differentiated between: - Fully remote work - Hybrid (part-time remote) work\nUsed control variables for age, gender, race, education, and state/time fixed effects to isolate the effects.\n\n\n\n\nFully remote work policies slightly increased unemployment rates within affected industries.\n\nHybrid work policies had the opposite effect — reducing unemployment rates by about 1.6 percentage points for every 1% increase in remote work share.\n\nHybrid work seems to offer a sweet spot: providing flexibility without sacrificing job stability.\n\nFun fact: Hybrid work has become the new normal, with over 47% of U.S. employees working in some sort of hybrid arrangement by late 2023.\n\n\n\n\n \n\n\n\nRemote work’s impact on unemployment isn’t straightforward. Fully remote policies might lead to layoffs or restructuring in industries where physical presence matters. Hybrid work, though, seems to strike a good balance between productivity and flexibility, making it a safer bet for policymakers trying to protect jobs.\n\n\n\n\nR, RStudio\n\nStata\n\nSWAA, BLS, ATUS datasets\n\nLaTeX (for academic writeup)\n\n\n\n\n\nOnly four states had remote work policies in place during our study window, limiting generalizability.\n\nSWAA data is pooled cross-sectional — can’t track individual workers over time.\n\nVariations in industry labeling across datasets required careful manual standardization.\n\n\n\n\n📥 Download the full PDF paper here\n\nBuilt for a Labor Economics seminar at Hamilton College (Spring 2024)."
   },
   {
-    "objectID": "projects/election-prediction/index.html#overview",
-    "href": "projects/election-prediction/index.html#overview",
-    "title": "Election Prediction",
+    "objectID": "projects/work-from-home/index.html#overview",
+    "href": "projects/work-from-home/index.html#overview",
+    "title": "Work From Home",
     "section": "",
-    "text": "This project forecasts the outcome of the 2024 U.S. presidential election using a weighted Bayesian probability model applied to national and swing state polling data. The goal was to create an interactive, real-time dashboard that updates predictions for each state and the overall election outlook."
+    "text": "This project looks at how remote work policies — both fully remote and hybrid — are affecting unemployment rates across industries in the U.S. As remote work continues to reshape the labor market post-pandemic, we wanted to see whether encouraging work-from-home arrangements helps or hurts job retention within different sectors."
   },
   {
-    "objectID": "projects/election-prediction/index.html#data-sources",
-    "href": "projects/election-prediction/index.html#data-sources",
-    "title": "Election Prediction",
+    "objectID": "projects/work-from-home/index.html#data-sources",
+    "href": "projects/work-from-home/index.html#data-sources",
+    "title": "Work From Home",
     "section": "",
-    "text": "National and state-level polling data from major aggregators\n\n2020 election results for model calibration\n\nState electoral vote allocations"
+    "text": "Survey of Working Arrangements and Attitudes (SWAA) — monthly survey on work arrangements since 2020\n\nBureau of Labor Statistics (BLS) — industry-level unemployment data\n\nAmerican Time Use Survey (ATUS) — telework potential scores by industry\n\nState policy data from Oklahoma, Maryland, Vermont, and Wisconsin on remote work incentives"
   },
   {
-    "objectID": "projects/election-prediction/index.html#methodology",
-    "href": "projects/election-prediction/index.html#methodology",
-    "title": "Election Prediction",
+    "objectID": "projects/work-from-home/index.html#methods",
+    "href": "projects/work-from-home/index.html#methods",
+    "title": "Work From Home",
     "section": "",
-    "text": "Built a weighted Bayesian model that updates candidate win probabilities as new polls come in.\nIncorporated weightings based on:\n\nPollster historical accuracy\n\nSample size\n\nRecency of the poll\n\n\nSimulated 10,000 election scenarios to generate state-by-state probabilities and national outcome distributions.\nDeveloped an RMarkdown dashboard hosted via ShinyApps.io to visualize live election forecasts and swing state probabilities."
+    "text": "We took a two-stage regression approach: 1. Stage 1: Measured how state-level remote work policies affected the share of remote workers within industries. 2. Stage 2: Measured how changes in remote work share impacted industry unemployment rates.\nWe differentiated between: - Fully remote work - Hybrid (part-time remote) work\nUsed control variables for age, gender, race, education, and state/time fixed effects to isolate the effects."
   },
   {
-    "objectID": "projects/election-prediction/index.html#key-features",
-    "href": "projects/election-prediction/index.html#key-features",
-    "title": "Election Prediction",
+    "objectID": "projects/work-from-home/index.html#key-results",
+    "href": "projects/work-from-home/index.html#key-results",
+    "title": "Work From Home",
     "section": "",
-    "text": "Swing State Win Probability Map\nState-by-state vote share predictions\nProjected Electoral College outcomes\nInteractive dashboard viewable online"
+    "text": "Fully remote work policies slightly increased unemployment rates within affected industries.\n\nHybrid work policies had the opposite effect — reducing unemployment rates by about 1.6 percentage points for every 1% increase in remote work share.\n\nHybrid work seems to offer a sweet spot: providing flexibility without sacrificing job stability.\n\nFun fact: Hybrid work has become the new normal, with over 47% of U.S. employees working in some sort of hybrid arrangement by late 2023."
   },
   {
-    "objectID": "projects/election-prediction/index.html#tools-used",
-    "href": "projects/election-prediction/index.html#tools-used",
-    "title": "Election Prediction",
+    "objectID": "projects/work-from-home/index.html#takeaways",
+    "href": "projects/work-from-home/index.html#takeaways",
+    "title": "Work From Home",
     "section": "",
-    "text": "R, RStudio\n\nbrms, tidyverse, shiny, ggplot2\n\nRMarkdown for dashboard construction\n\nShinyApps.io for deployment"
+    "text": "Remote work’s impact on unemployment isn’t straightforward. Fully remote policies might lead to layoffs or restructuring in industries where physical presence matters. Hybrid work, though, seems to strike a good balance between productivity and flexibility, making it a safer bet for policymakers trying to protect jobs."
   },
   {
-    "objectID": "projects/election-prediction/index.html#live-dashboard",
-    "href": "projects/election-prediction/index.html#live-dashboard",
-    "title": "Election Prediction",
+    "objectID": "projects/work-from-home/index.html#tools-used",
+    "href": "projects/work-from-home/index.html#tools-used",
+    "title": "Work From Home",
     "section": "",
-    "text": "📊 View the interactive dashboard here"
+    "text": "R, RStudio\n\nStata\n\nSWAA, BLS, ATUS datasets\n\nLaTeX (for academic writeup)"
   },
   {
-    "objectID": "projects/election-prediction/index.html#limitations",
-    "href": "projects/election-prediction/index.html#limitations",
-    "title": "Election Prediction",
+    "objectID": "projects/work-from-home/index.html#limitations",
+    "href": "projects/work-from-home/index.html#limitations",
+    "title": "Work From Home",
     "section": "",
-    "text": "Model assumes polls are unbiased on average, though real-world polling error is inevitable.\nNo adjustments made for early voting patterns or state-level ballot access complications.\n\n\nBuilt for my Statistics Senior Seminar, Fall 2024."
+    "text": "Only four states had remote work policies in place during our study window, limiting generalizability.\n\nSWAA data is pooled cross-sectional — can’t track individual workers over time.\n\nVariations in industry labeling across datasets required careful manual standardization."
+  },
+  {
+    "objectID": "projects/work-from-home/index.html#full-paper",
+    "href": "projects/work-from-home/index.html#full-paper",
+    "title": "Work From Home",
+    "section": "",
+    "text": "📥 Download the full PDF paper here\n\nBuilt for a Labor Economics seminar at Hamilton College (Spring 2024)."
+  },
+  {
+    "objectID": "projects/spotify/index.html",
+    "href": "projects/spotify/index.html",
+    "title": "Spotify IndieScore",
+    "section": "",
+    "text": "I created an app to get an IndieScore for a Spotify playlist based on how many monthly listeners each artist featured has. I developed it using FastAPI, Spotify Developer, HTML, CSS, Python, and host it on Render.com."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html",
+    "href": "projects/be-the-qb/index.html",
+    "title": "Be The QB",
+    "section": "",
+    "text": "By Adam Koplik & Ian Fratarcangeli — NFL Big Data Bowl (Undergraduate Track)\n\n\nThis project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play.\n\n\n\n\nNFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata\n\n\n\n\n\n\n\nCleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments.\n\n\n\n\n\n\nThe model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations.\n\n\n\n\n\nR, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data\n\n\n\n\n\nModel excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy.\n\n\n\n\n\n \n\n\n\n📥 Download full project report PDF here\n\n\n\nHuge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#overview",
+    "href": "projects/be-the-qb/index.html#overview",
+    "title": "Be The QB",
+    "section": "",
+    "text": "This project aims to simulate the decision-making process of an NFL quarterback by predicting defensive assignments based on pre-snap positioning data, then using those predictions to identify the optimal offensive play call.\nWhat started as an effort to predict overall defensive coverages (like Cover-2, Cover-3) evolved into predicting individual defender assignments on each play."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#data-sources",
+    "href": "projects/be-the-qb/index.html#data-sources",
+    "title": "Be The QB",
+    "section": "",
+    "text": "NFL Big Data Bowl 2023 Player Tracking Data\nPro Football Focus (PFF) coverage assignment labels\nPlay-by-play and game metadata"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#process-summary",
+    "href": "projects/be-the-qb/index.html#process-summary",
+    "title": "Be The QB",
+    "section": "",
+    "text": "Cleaned and processed tracking data, filtered to pass plays only.\nSimplified PFF coverage labels into 4 assignment types:\n\nBlitzers\nMan coverage\nShort zone\nDeep zone\n\n\nStandardized field direction and computed player distances from the ball.\nBuilt a Random Forest model in R to predict defender assignments based on player position, distance from the ball, formation, game situation, and other variables.\nAchieved high accuracy (83.5%) in predicting individual defensive roles.\n\n\n\n\n\nCreated an xGBoost Expected Points Added (xEPA) model to estimate play outcomes based on:\n\nDefensive assignments\nPre-snap player locations\nOffensive personnel and assignments\n\n\nDefined a feasible region of possible offensive assignments per formation.\nRan simulations to find the offensive player assignments that would maximize expected points based on predicted defensive assignments."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#key-findings",
+    "href": "projects/be-the-qb/index.html#key-findings",
+    "title": "Be The QB",
+    "section": "",
+    "text": "The model favored passing plays ~97% of the time due to higher EPA values — a limitation reflecting real-world play-calling constraints.\nDeep-in routes for WR1 and varied route combinations for WR2/WR3 often produced the best expected outcomes.\nDefensive player positioning and assignments at the snap had a huge influence on play outcome expectations."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#tools-used",
+    "href": "projects/be-the-qb/index.html#tools-used",
+    "title": "Be The QB",
+    "section": "",
+    "text": "R, RStudio\n\nRandomForest & xgboost libraries\n\nCaret for model tuning\n\nNFL Big Data Bowl player tracking data"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#limitations",
+    "href": "projects/be-the-qb/index.html#limitations",
+    "title": "Be The QB",
+    "section": "",
+    "text": "Model excluded QB runs, option plays, and non-standard formations.\nDid not account for game context (clock management, momentum, fatigue).\n“Optimal” play calls were based solely on maximizing EPA — not always realistic or aligned with coaching strategy."
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#full-report",
+    "href": "projects/be-the-qb/index.html#full-report",
+    "title": "Be The QB",
+    "section": "",
+    "text": "📥 Download full project report PDF here"
+  },
+  {
+    "objectID": "projects/be-the-qb/index.html#acknowledgements",
+    "href": "projects/be-the-qb/index.html#acknowledgements",
+    "title": "Be The QB",
+    "section": "",
+    "text": "Huge thanks to Prof. Chinthaka Kuruwita for his guidance on this project and for helping us grow as stats students.\n\nSubmitted for the NFL Big Data Bowl Undergraduate Track, Fall 2024."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html",
+    "href": "projects/matthew-koplik-photography/index.html",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "By Adam Koplik\n\n\nI built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service.\n\n\n\n\nDeveloped a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics.\n\n\n\n\n\nShopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking\n\n\n\n\n\nLaunched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing.\n\n\n\n\nThis project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business.\n\n\n\nView the live store"
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#overview",
+    "href": "projects/matthew-koplik-photography/index.html#overview",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "I built and currently manage an e-commerce website for my brother’s photography business, selling fine art landscape and nature prints. Beyond setting up the storefront, I’ve handled full operational management of the online store, including pricing strategy, custom product configurations, marketing, order fulfillment, and customer service."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#project-scope",
+    "href": "projects/matthew-koplik-photography/index.html#project-scope",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "Developed a custom Shopify storefront for photography prints and framed artwork.\nImplemented custom HTML and CSS to modify the store’s theme, product pages, and checkout experience beyond Shopify’s default settings.\nUsed Easify Product Options to create interactive product selectors for print sizes, framing options, and material types.\nDesigned and executed a multi-tier pricing strategy based on production and framing costs.\nManaged order fulfillment logistics, including vendor partnerships, drop shipping arrangements, and customer communication.\nBuilt and ran email marketing campaigns, social media ads, and a content strategy to support product launches.\nConfigured integrated Shopify apps for inventory management, order tracking, and performance analytics."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
+    "href": "projects/matthew-koplik-photography/index.html#tools-and-technologies",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "Shopify\n\nCustom HTML & CSS (Liquid theme modifications and in-page custom code)\nEasify Product Options\n\nCanva (promotional content)\n\nInstagram, Facebook, and email marketing\n\nExcel for pricing models and sales tracking"
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#results",
+    "href": "projects/matthew-koplik-photography/index.html#results",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "Launched the full store and product catalog in under two weeks.\nDeveloped a multi-tier pricing structure with upsell and cross-sell options.\nIncreased average order value by customizing product options and offering framing add-ons.\nBuilt and maintained an active social media presence and subscriber base for email marketing."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#takeaways",
+    "href": "projects/matthew-koplik-photography/index.html#takeaways",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "This project gave me hands-on experience not just with Shopify’s backend, but also with customizing front-end design and functionality using HTML and CSS. It taught me how to optimize a store’s layout, product display logic, and checkout flow to create a more personalized and effective customer experience. It also gave me practical experience in pricing strategy, operational logistics, and digital marketing for an e-commerce business."
+  },
+  {
+    "objectID": "projects/matthew-koplik-photography/index.html#full-site",
+    "href": "projects/matthew-koplik-photography/index.html#full-site",
+    "title": "Matthew Koplik Photography",
+    "section": "",
+    "text": "View the live store"
+  },
+  {
+    "objectID": "adamkoplik-portfolio.html",
+    "href": "adamkoplik-portfolio.html",
+    "title": "adamkoplik-portfolio",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "adamkoplik-portfolio.html#quarto",
+    "href": "adamkoplik-portfolio.html#quarto",
+    "title": "adamkoplik-portfolio",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html",
+    "href": "projects/commodity-cost-impacts/index.html",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "By Adam Koplik\n\n\nDuring my summer internship at a mid-sized poultry company, I built a financial simulation model to help the company forecast how changes in commodity prices (corn and soybean meal) would affect their gross profit margins. The poultry industry is heavily impacted by fluctuations in feed costs, and the company needed a way to quantify those impacts under different pricing and operational scenarios to support pricing, hedging, and operational decisions.\n\n\n\nFeed ingredients like corn and soybean meal make up the majority of a poultry processor’s costs. These prices are volatile and difficult to predict. Since the company wasn’t vertically integrated, they couldn’t control these input costs directly.\nTo manage risk and profitability, they needed a tool that could: - Simulate how changes in commodity prices would impact per-pound live chicken costs - Forecast overall profitability under different operational and market conditions - Identify pricing or volume changes needed to hit profit margin targets\n\n\n\nI created an interactive simulation tool in R that: - Allowed users to input different corn and soybean prices - Modeled the live chicken cost per pound based on those inputs - Calculated projected gross margins for the company given different revenue, labor, and packaging cost scenarios - Recommended price changes or volume adjustments needed to meet gross margin targets\nThe tool also generated visualizations showing the financial outcomes under different scenarios, making it easier for the executive team to see their cost exposure.\n\n\n\n\nR and RStudio\n\nShiny (for future deployment)\n\nggplot2, dplyr, caret, flexdashboard, plotly, tidyverse, and other R packages\n\nExcel for financial data cleaning and prep\n\nConverted into Tableau\n\n\n\n\n\nQuantified how a $0.10/bushel change in corn or $10/ton change in soybean meal would affect per-pound costs.\nIdentified price ranges and volume scenarios needed to hit a 20% gross margin goal under various commodity market conditions.\nCreated dynamic dashboards and scenario tables to visualize results for different hedging and pricing decisions.\nThe model accurately matched historical financials with an average gross margin error of less than 0.3%, excluding outlier months like Thanksgiving season.\n\n\n\n\nThis project taught me how to combine financial modeling, data analysis, and visualization to support operational decision-making in a real business setting. It also reinforced how important it is for mid-sized businesses to have tools that translate complex market dynamics into actionable, day-to-day business strategies.\n\n\n\n\n  \n\n\n\nAccess the working dashboard here\n\n\n\n📥 Download the full project report PDF here"
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#overview",
+    "href": "projects/commodity-cost-impacts/index.html#overview",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "During my summer internship at a mid-sized poultry company, I built a financial simulation model to help the company forecast how changes in commodity prices (corn and soybean meal) would affect their gross profit margins. The poultry industry is heavily impacted by fluctuations in feed costs, and the company needed a way to quantify those impacts under different pricing and operational scenarios to support pricing, hedging, and operational decisions."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#business-problem",
+    "href": "projects/commodity-cost-impacts/index.html#business-problem",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "Feed ingredients like corn and soybean meal make up the majority of a poultry processor’s costs. These prices are volatile and difficult to predict. Since the company wasn’t vertically integrated, they couldn’t control these input costs directly.\nTo manage risk and profitability, they needed a tool that could: - Simulate how changes in commodity prices would impact per-pound live chicken costs - Forecast overall profitability under different operational and market conditions - Identify pricing or volume changes needed to hit profit margin targets"
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#approach",
+    "href": "projects/commodity-cost-impacts/index.html#approach",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "I created an interactive simulation tool in R that: - Allowed users to input different corn and soybean prices - Modeled the live chicken cost per pound based on those inputs - Calculated projected gross margins for the company given different revenue, labor, and packaging cost scenarios - Recommended price changes or volume adjustments needed to meet gross margin targets\nThe tool also generated visualizations showing the financial outcomes under different scenarios, making it easier for the executive team to see their cost exposure."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#tools-and-technologies",
+    "href": "projects/commodity-cost-impacts/index.html#tools-and-technologies",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "R and RStudio\n\nShiny (for future deployment)\n\nggplot2, dplyr, caret, flexdashboard, plotly, tidyverse, and other R packages\n\nExcel for financial data cleaning and prep\n\nConverted into Tableau"
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#key-results",
+    "href": "projects/commodity-cost-impacts/index.html#key-results",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "Quantified how a $0.10/bushel change in corn or $10/ton change in soybean meal would affect per-pound costs.\nIdentified price ranges and volume scenarios needed to hit a 20% gross margin goal under various commodity market conditions.\nCreated dynamic dashboards and scenario tables to visualize results for different hedging and pricing decisions.\nThe model accurately matched historical financials with an average gross margin error of less than 0.3%, excluding outlier months like Thanksgiving season."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#takeaways",
+    "href": "projects/commodity-cost-impacts/index.html#takeaways",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "This project taught me how to combine financial modeling, data analysis, and visualization to support operational decision-making in a real business setting. It also reinforced how important it is for mid-sized businesses to have tools that translate complex market dynamics into actionable, day-to-day business strategies."
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#dashboard-access",
+    "href": "projects/commodity-cost-impacts/index.html#dashboard-access",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "Access the working dashboard here"
+  },
+  {
+    "objectID": "projects/commodity-cost-impacts/index.html#full-report",
+    "href": "projects/commodity-cost-impacts/index.html#full-report",
+    "title": "Commodity Cost Impacts",
+    "section": "",
+    "text": "📥 Download the full project report PDF here"
+  },
+  {
+    "objectID": "projects/severe-weather/index.html",
+    "href": "projects/severe-weather/index.html",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "Adam Koplik\n\n\nThis project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation.\n\n\n\n\nNOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis\n\n\n\n\nAfter cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share.\n\n\n\n\nDistricts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic.\n\n\n\n\nInfographic and Data Visualizations:\n\n\n\nInfographic\n\n\n\n   \n\n\n\nWhile this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play.\n\n\n\n\nR, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#overview",
+    "href": "projects/severe-weather/index.html#overview",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "This project explores how severe weather disasters influence voting patterns in American elections. The idea was to see whether natural disasters push voters to turn against the incumbent party — and whether that trend holds up everywhere, or shifts based on the region and party affiliation."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#data-sources",
+    "href": "projects/severe-weather/index.html#data-sources",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "NOAA Storm Events Database\n\nDave’s Redistricting voting data\n\nUS Census Bureau shapefiles\n\nState and county GDP figures from the US Bureau of Economic Analysis"
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#methods",
+    "href": "projects/severe-weather/index.html#methods",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "After cleaning and merging voting, spatial, and economic data using district-level GEOIDs, I mapped severe storm events to their respective voting districts. Then, I calculated how many severe weather events each district experienced leading up to an election.\nA threshold was set to define a “severe” weather event as one causing damage worth at least 20% of a state’s GDP or 50% of a county’s GDP. I used RStudio to run regression analyses measuring the relationship between disaster exposure and changes in incumbent vote share."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#key-results",
+    "href": "projects/severe-weather/index.html#key-results",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "Districts hit by severe weather events typically saw a notable drop in support for the incumbent party.\nThe trend was highly statistically significant (p-values &lt; 0.0000002).\nHowever, the pattern varied in 2020. Despite the general anti-incumbency effect, Donald Trump actually gained votes in many disaster-affected areas, while Joe Biden also picked up some support, but not as much.\nThis suggests the politics of disaster response are more complicated than a simple “blame the party in power” dynamic."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#visualizations",
+    "href": "projects/severe-weather/index.html#visualizations",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "Infographic and Data Visualizations:\n\n\n\nInfographic"
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#conclusions",
+    "href": "projects/severe-weather/index.html#conclusions",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "While this trend is consistent across many instances, the impact appears to be more nuanced in the case of the 2020 Presidential election. Despite the general anti-incumbency effect, Donald Trump actually gained votes among disaster victims, with Joe Biden also experiencing some increase in support, though to a lesser extent.\nTwo main factors seem to explain this divergence: - Disasters often strike rural, Republican-leaning areas, where residents may naturally favor GOP candidates. - Democrats are frequently conflated with “the government” as an institution, while Republicans are perceived as more independent from federal authority, meaning voters may punish “the government” (and thus Democrats) regardless of who’s in power.\nIn sum, while severe weather events do have a clear impact on voter behavior, the changing of votes may not always follow predictable patterns, especially when party dynamics and regional predispositions come into play."
+  },
+  {
+    "objectID": "projects/severe-weather/index.html#tools-used",
+    "href": "projects/severe-weather/index.html#tools-used",
+    "title": "Severe Weather",
+    "section": "",
+    "text": "R, RStudio\nArcGIS Pro\n\nNOAA & Census APIs\n\nggplot2 for data visualization\n\n\nBuilt for my Environmental Data Science course at Hamilton College (Fall 2024)."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html",
+    "href": "projects/ulster-county-climate-dashboards/index.html",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "By Adam Koplik\n\n\nDuring the summer of 2023, I worked as a Climate Data Intern for Ulster County Government. I was responsible for developing a series of ArcGIS dashboards and web tools to help visualize climate-related data for public policy initiatives. I also led a small team of interns, tracked their project progress, and consolidated their work into a public-facing website to improve the visibility of county-wide climate programs.\n\n\n\n\nDeveloped a Climate Corps Dashboard website to showcase multiple intern-led climate data projects.\nBuilt several interactive ArcGIS dashboards visualizing key climate-related and public health datasets, including:\n\nDisadvantaged communities map\n\nHealthcare desert analysis\n\nPopulation vulnerability by census tract\n\n\nManaged a team of interns, organized weekly check-ins, and compiled their deliverables into a polished, navigable online resource for the public and local government officials.\nContributed to public outreach by presenting dashboard demos to county departments and participating in community climate action briefings.\n\n\n\n\n\nArcGIS Online\n\nArcGIS Dashboards\n\nHTML, CSS (for website layout)\n\nMicrosoft Excel (data cleaning and prep)\n\nGoogle Sheets and Google Docs (project tracking)\n\n\n\n\n\nDelivered a centralized Climate Corps Dashboard website consolidating multiple data visualization projects for Ulster County.\nCreated clean, accessible maps and dashboards to highlight priority public health and environmental justice issues within the county.\nIncreased public awareness and internal visibility of climate data initiatives through interactive tools and presentations.\nEstablished a sustainable framework for future intern cohorts to expand and add projects.\n\n\n\n\nThis role gave me hands-on experience working in local government data operations, team leadership, and public sector data visualization. It improved my skills in project management, dashboard development, and communicating complex data to non-technical audiences.\n\n\n\n\nDisadvantaged Communities in Ulster County\nHealthcare Deserts Analysis\n\n\n\n\nSpecial thanks to the Ulster County Department of the Environment and my fellow interns for their work on these projects."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#overview",
+    "href": "projects/ulster-county-climate-dashboards/index.html#overview",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "During the summer of 2023, I worked as a Climate Data Intern for Ulster County Government. I was responsible for developing a series of ArcGIS dashboards and web tools to help visualize climate-related data for public policy initiatives. I also led a small team of interns, tracked their project progress, and consolidated their work into a public-facing website to improve the visibility of county-wide climate programs."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#project-scope",
+    "href": "projects/ulster-county-climate-dashboards/index.html#project-scope",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "Developed a Climate Corps Dashboard website to showcase multiple intern-led climate data projects.\nBuilt several interactive ArcGIS dashboards visualizing key climate-related and public health datasets, including:\n\nDisadvantaged communities map\n\nHealthcare desert analysis\n\nPopulation vulnerability by census tract\n\n\nManaged a team of interns, organized weekly check-ins, and compiled their deliverables into a polished, navigable online resource for the public and local government officials.\nContributed to public outreach by presenting dashboard demos to county departments and participating in community climate action briefings."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#tools-and-technologies",
+    "href": "projects/ulster-county-climate-dashboards/index.html#tools-and-technologies",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "ArcGIS Online\n\nArcGIS Dashboards\n\nHTML, CSS (for website layout)\n\nMicrosoft Excel (data cleaning and prep)\n\nGoogle Sheets and Google Docs (project tracking)"
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#key-results",
+    "href": "projects/ulster-county-climate-dashboards/index.html#key-results",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "Delivered a centralized Climate Corps Dashboard website consolidating multiple data visualization projects for Ulster County.\nCreated clean, accessible maps and dashboards to highlight priority public health and environmental justice issues within the county.\nIncreased public awareness and internal visibility of climate data initiatives through interactive tools and presentations.\nEstablished a sustainable framework for future intern cohorts to expand and add projects."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#takeaways",
+    "href": "projects/ulster-county-climate-dashboards/index.html#takeaways",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "This role gave me hands-on experience working in local government data operations, team leadership, and public sector data visualization. It improved my skills in project management, dashboard development, and communicating complex data to non-technical audiences."
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#notable-dashboards",
+    "href": "projects/ulster-county-climate-dashboards/index.html#notable-dashboards",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "Disadvantaged Communities in Ulster County\nHealthcare Deserts Analysis"
+  },
+  {
+    "objectID": "projects/ulster-county-climate-dashboards/index.html#acknowledgements",
+    "href": "projects/ulster-county-climate-dashboards/index.html#acknowledgements",
+    "title": "Ulster County Climate Dashboards",
+    "section": "",
+    "text": "Special thanks to the Ulster County Department of the Environment and my fellow interns for their work on these projects."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html",
+    "href": "projects/nfl-zone-coverage/index.html",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "By Adam Koplik and Ajay Patel\n\n\nThis was one of my first deep dives into football analytics — a research project focused on identifying which passing concepts work best against different zone coverages in the NFL. The goal was to analyze trends in offensive success rates against Cover-2, Cover-3, and Cover-4 defenses, and to recommend strategic adjustments for teams facing those schemes.\n\n\n\n\nNFL tracking data\n\nPlay-by-play data with coverage tags\n\nPublicly available player route and result data\n\n\n\n\n\nCollected play-by-play data and filtered for passing plays against Cover-2, Cover-3, and Cover-4 defenses.\nCalculated success rates and EPA (expected points added) for different passing concepts like verticals, flood, slant/flat, and mesh.\nCompared average EPA per concept against league averages by coverage type.\nVisualized which concepts consistently outperformed expectations against specific coverages.\n\n\n\n\n\nFlood and mesh concepts were especially effective against Cover-3 defenses.\nVerticals struggled against Cover-4 but performed well against Cover-2.\nTeams were often over-relying on certain concepts in unfavorable matchups, missing opportunities to exploit defensive tendencies.\n\n\n\n\n\nR, RStudio\n\nggplot2 for data visualization\n\nExcel for data prep and manual coverage tagging\n\n\n\n\nThis was my introduction to working with football data and play-by-play analysis, and it gave me an early sense of how much nuance there is in matchup-based play calling. It also laid the foundation for later, more advanced NFL data projects I’ve worked on — including the NFL Big Data Bowl.\n\n\n\n\n\n\nTop 10s\n\n\n\n\n\n📥 Download the full project report PDF here"
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#overview",
+    "href": "projects/nfl-zone-coverage/index.html#overview",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "This was one of my first deep dives into football analytics — a research project focused on identifying which passing concepts work best against different zone coverages in the NFL. The goal was to analyze trends in offensive success rates against Cover-2, Cover-3, and Cover-4 defenses, and to recommend strategic adjustments for teams facing those schemes."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#data-sources",
+    "href": "projects/nfl-zone-coverage/index.html#data-sources",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "NFL tracking data\n\nPlay-by-play data with coverage tags\n\nPublicly available player route and result data"
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#approach",
+    "href": "projects/nfl-zone-coverage/index.html#approach",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "Collected play-by-play data and filtered for passing plays against Cover-2, Cover-3, and Cover-4 defenses.\nCalculated success rates and EPA (expected points added) for different passing concepts like verticals, flood, slant/flat, and mesh.\nCompared average EPA per concept against league averages by coverage type.\nVisualized which concepts consistently outperformed expectations against specific coverages."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#key-findings",
+    "href": "projects/nfl-zone-coverage/index.html#key-findings",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "Flood and mesh concepts were especially effective against Cover-3 defenses.\nVerticals struggled against Cover-4 but performed well against Cover-2.\nTeams were often over-relying on certain concepts in unfavorable matchups, missing opportunities to exploit defensive tendencies."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#tools-used",
+    "href": "projects/nfl-zone-coverage/index.html#tools-used",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "R, RStudio\n\nggplot2 for data visualization\n\nExcel for data prep and manual coverage tagging"
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#takeaways",
+    "href": "projects/nfl-zone-coverage/index.html#takeaways",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "This was my introduction to working with football data and play-by-play analysis, and it gave me an early sense of how much nuance there is in matchup-based play calling. It also laid the foundation for later, more advanced NFL data projects I’ve worked on — including the NFL Big Data Bowl."
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#visualizations",
+    "href": "projects/nfl-zone-coverage/index.html#visualizations",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "Top 10s"
+  },
+  {
+    "objectID": "projects/nfl-zone-coverage/index.html#project-link",
+    "href": "projects/nfl-zone-coverage/index.html#project-link",
+    "title": "NFL Zone Coverage",
+    "section": "",
+    "text": "📥 Download the full project report PDF here"
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html",
+    "href": "projects/how-zohran-won/index.html",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "By Adam Koplik ## Overview\nI conducted an analysis of the 2025 Democratic primary for New York City mayor, where leftist Zohran Mamdani earned an overwhelming victory over multiple foes, the main of which being former Governor Andrew Cuomo.\n\n\n\nPulled and cleaned precinct-level election results\n\nMapped each precinct’s results to visualize where Zohran overperformed\n\nAnalyzed trends in districts by age, race, and voter demographics\n\nUsed regression analysis to understand voting patterns across different groups\n\nLooked at turnout increases, candidate strategies, and demographic shifts\n\n\n\n\n\nMamdani’s campaign focused on registering new voters, contributing to over 37,000 new voters in the 90 days before the election compared with 3,000 in the same period in 2021.\nMamdani had strong support in predominantly Hispanic, Latino, and AAPI-heavy districts.\nHis grassroots, Instagram-based campaign resonated with young voters, especially in Gen-Z and Millennial-heavy areas.\nStruggled with older voters and in predominantly Black districts, where Cuomo held a noticeable advantage.\nAmong Gen-X, there was a notable gender split in Mamdani’s support — stronger among men than women.\n\n\n\n\n\nAmerican Community Survey (2023)\nNYC Board of Elections results\nNew York Times voter registration reporting\nR (tidyverse, glmnet, ggplot2)\nTableau for data visualizations\n\n\n\n\n    \n\n\n\nRead the full analysis on Medium"
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html#project-scope",
+    "href": "projects/how-zohran-won/index.html#project-scope",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "Pulled and cleaned precinct-level election results\n\nMapped each precinct’s results to visualize where Zohran overperformed\n\nAnalyzed trends in districts by age, race, and voter demographics\n\nUsed regression analysis to understand voting patterns across different groups\n\nLooked at turnout increases, candidate strategies, and demographic shifts"
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html#key-findings",
+    "href": "projects/how-zohran-won/index.html#key-findings",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "Mamdani’s campaign focused on registering new voters, contributing to over 37,000 new voters in the 90 days before the election compared with 3,000 in the same period in 2021.\nMamdani had strong support in predominantly Hispanic, Latino, and AAPI-heavy districts.\nHis grassroots, Instagram-based campaign resonated with young voters, especially in Gen-Z and Millennial-heavy areas.\nStruggled with older voters and in predominantly Black districts, where Cuomo held a noticeable advantage.\nAmong Gen-X, there was a notable gender split in Mamdani’s support — stronger among men than women."
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html#data-and-tools-used",
+    "href": "projects/how-zohran-won/index.html#data-and-tools-used",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "American Community Survey (2023)\nNYC Board of Elections results\nNew York Times voter registration reporting\nR (tidyverse, glmnet, ggplot2)\nTableau for data visualizations"
+  },
+  {
+    "objectID": "projects/how-zohran-won/index.html#full-article",
+    "href": "projects/how-zohran-won/index.html#full-article",
+    "title": "How Zohran Won",
+    "section": "",
+    "text": "Read the full analysis on Medium"
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html",
+    "href": "projects/murrays-chicken-digital-marketing/index.html",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "By Adam Koplik\n\n\nAs the Digital Marketing Executive at Murray’s Chicken, I led a full overhaul of the company’s online presence, redesigning and optimizing the website to improve usability, SEO performance, and e-commerce operations. In addition to technical site management, I ran marketing campaigns and managed online sales fulfillment and customer service.\n\n\n\n\nCompletely overhauled and redesigned the Murray’s Chicken website using WordPress, Shopify, and WooCommerce.\nWrote and implemented custom HTML and CSS to enhance the site’s layout, product pages, navigation, and checkout process.\nConducted a comprehensive SEO audit and optimized on-page elements (metadata, URL structures, internal linking, and page speed) to improve organic search rankings.\nLaunched and managed influencer outreach campaigns targeting food creators and bloggers to increase brand awareness and product engagement.\nManaged the e-commerce backend operations, including:\n\nProcessing and tracking online orders\nOverseeing order fulfillment workflows\nHandling customer service inquiries and issues\n\n\nSet up and maintained product listings, pricing, shipping policies, and promotional campaigns.\n\n\n\n\n\nWordPress\n\nShopify\n\nWooCommerce\n\nCustom HTML and CSS\n\nGoogle Search Console and basic SEO tools\n\nInstagram, Facebook, and email marketing platforms\n\nExcel for sales tracking and operational reporting\n\n\n\n\n\nDelivered a full website redesign and optimization, significantly improving site speed, mobile responsiveness, and user experience.\nIncreased organic traffic through targeted SEO improvements.\nStreamlined the online ordering process, reducing abandoned cart rates and improving order accuracy.\nExpanded the brand’s digital reach through targeted influencer collaborations and social media campaigns.\n\n\n\n\nThis role gave me hands-on experience combining digital marketing strategy with technical web development and e-commerce operations management. It sharpened my skills in site optimization, SEO strategy, influencer outreach, and end-to-end online order fulfillment, while providing exposure to the operational realities of managing a consumer-facing product brand online.\n\n\n\nVisit Murray’s Chicken Website"
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#overview",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#overview",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "As the Digital Marketing Executive at Murray’s Chicken, I led a full overhaul of the company’s online presence, redesigning and optimizing the website to improve usability, SEO performance, and e-commerce operations. In addition to technical site management, I ran marketing campaigns and managed online sales fulfillment and customer service."
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#project-scope",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#project-scope",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "Completely overhauled and redesigned the Murray’s Chicken website using WordPress, Shopify, and WooCommerce.\nWrote and implemented custom HTML and CSS to enhance the site’s layout, product pages, navigation, and checkout process.\nConducted a comprehensive SEO audit and optimized on-page elements (metadata, URL structures, internal linking, and page speed) to improve organic search rankings.\nLaunched and managed influencer outreach campaigns targeting food creators and bloggers to increase brand awareness and product engagement.\nManaged the e-commerce backend operations, including:\n\nProcessing and tracking online orders\nOverseeing order fulfillment workflows\nHandling customer service inquiries and issues\n\n\nSet up and maintained product listings, pricing, shipping policies, and promotional campaigns."
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#tools-and-technologies",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#tools-and-technologies",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "WordPress\n\nShopify\n\nWooCommerce\n\nCustom HTML and CSS\n\nGoogle Search Console and basic SEO tools\n\nInstagram, Facebook, and email marketing platforms\n\nExcel for sales tracking and operational reporting"
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#results",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#results",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "Delivered a full website redesign and optimization, significantly improving site speed, mobile responsiveness, and user experience.\nIncreased organic traffic through targeted SEO improvements.\nStreamlined the online ordering process, reducing abandoned cart rates and improving order accuracy.\nExpanded the brand’s digital reach through targeted influencer collaborations and social media campaigns."
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#takeaways",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#takeaways",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "This role gave me hands-on experience combining digital marketing strategy with technical web development and e-commerce operations management. It sharpened my skills in site optimization, SEO strategy, influencer outreach, and end-to-end online order fulfillment, while providing exposure to the operational realities of managing a consumer-facing product brand online."
+  },
+  {
+    "objectID": "projects/murrays-chicken-digital-marketing/index.html#company-site",
+    "href": "projects/murrays-chicken-digital-marketing/index.html#company-site",
+    "title": "Murrays Chicken Digital Marketing",
+    "section": "",
+    "text": "Visit Murray’s Chicken Website"
   },
   {
     "objectID": "projects/nba-prospect-boosting/index.html",
@@ -739,14 +774,14 @@
     "href": "projects.html#work-projects",
     "title": "Projects",
     "section": "Work Projects",
-    "text": "Work Projects\n\n\n \n\nMurray’s Chicken Digital Marketing\n\n\n\n\n \n\nCommodity Cost Impacts Model\n\n\n\n\n \n\nUlster County Climate Dashboards"
+    "text": "Work Projects\n\n\n \n\nMurray’s Chicken Digital Marketing\n\n\n\n\n \n\nCommodity Cost Impacts Model\n\n\n\n\n \n\nUlster County Climate Dashboards\n\n\n\n\n\n \n\nThe Case for Proportional Representation in America\n\n\n\n\n \n\nIndieScore Calculator\n\n\n\n\n \n\nMatthew Koplik Photography Site\n\n\n\n\n \n\nHow Zohran Won\n\n\n\n\n \n\nNFL Zone Coverage Study"
   },
   {
     "objectID": "projects.html#independent-projects",
     "href": "projects.html#independent-projects",
     "title": "Projects",
     "section": "Independent Projects",
-    "text": "Independent Projects\n\n\n \n\nIndieScore Calculator\n\n\n\n\n \n\nMatthew Koplik Photography Site\n\n\n\n\n \n\nHow Zohran Won\n\n\n\n\n \n\nNFL Zone Coverage Study"
+    "text": "Independent Projects\n\n\n \n\nThe Case for Proportional Representation in America\n\n\n\n\n \n\nIndieScore Calculator\n\n\n\n\n \n\nMatthew Koplik Photography Site\n\n\n\n\n \n\nHow Zohran Won\n\n\n\n\n \n\nNFL Zone Coverage Study"
   },
   {
     "objectID": "about.html",
@@ -768,5 +803,19 @@
     "title": "About Me",
     "section": "",
     "text": "If you’re interested in working together, collaborating on a project, or just connecting — reach out anytime.\nUse the form below to get in touch — I’ll get back to you soon.\n\nName: \nEmail: \nMessage:\n\n\n\nSend Message"
+  },
+  {
+    "objectID": "projects/prop-rep/index.html#tools-used",
+    "href": "projects/prop-rep/index.html#tools-used",
+    "title": "The Case for Proportional Representation in America",
+    "section": "",
+    "text": "R, RStudio\n\nTableau\n\nLaTeX (for academic writeup)\n\n\nData from Michael Minn (sourced from state secretary of state electoral results websites) and US Census."
+  },
+  {
+    "objectID": "projects.html#academic-projects",
+    "href": "projects.html#academic-projects",
+    "title": "Projects",
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\n\n \n\nBe the QB\n\n\n\n\n \n\nSevere Weather & Voting Behavior\n\n\n\n\n \n\n2024 Election Prediction Model\n\n\n\n\n \n\nWork From Home & Unemployment\n\n\n\n\n \n\nNBA Prospect Peak Prediction\n\n\n\n\n \n\nLand Cover Change in the Kolyma Region"
   }
 ]

@@ -61,5 +61,8 @@
   },
   "projects/spotify/index.qmd": {
     "index.html": "f45c74d5"
+  },
+  "projects/prop-rep/index.qmd": {
+    "index.html": "ff3606c3"
   }
 }

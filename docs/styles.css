@@ -2008,6 +2008,26 @@ html[data-bs-theme="dark"] #badge-seo {
   color: ivory;
 }
 
+html[data-bs-theme="dark"] #badge-git {
+  background: ivory;
+  color: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-git {
+  color: ivory;
+  background: #1a1b2f;
+}
+
+html[data-bs-theme="light"] #badge-vscode {
+  background: #003366;
+  color: ivory;
+}
+
+html[data-bs-theme="dark"] #badge-vscode {
+  background: #003366;
+  color: ivory;
+}
+
 .icon {
   width: 18px;
   height: 18px;

@@ -16,8 +16,7 @@ format:
   <img src="LinkedIN.jpg" alt="Photo of Adam Koplik" class = "profile-image" style="max-width: 300px; border-radius: 12px; margin-left: 20px; order: 0; width: 100%; border: 1px solid ivory; box-shadow: #9c55f1 0px 3px 8px;;">
   <div style="flex: 1;">
 <p>
-  My name is Adam Koplik. I graduated from Hamilton College with a degree in data science after growing up in New Paltz, New York. I have a lifelong love of lists, from making my family rank movies when I was five to ranking movies on Letterboxd 
-  <a href="https://letterboxd.com/adamkoplik/" target="_blank" rel="noopener noreferrer">(follow me)</a> today. I love working with data and tackling real-world problems with real consequences. My favorite thing is being presented with an issue by someone, and being able to actually help them fix it in a way that betters their life.
+  My name is Adam Koplik. I'm a data analyst with a background in economics, environmental research, and marketing analytics, bringing recent hands-on experience across domains. I offer strong skills in data analysis and visualization through Tableau, Excel, Python/R, for clear, persuasive communication. My recent internship involved building a financial simulation model and dynamic dashboards to forecast how commodity price changes would impact gross profit margins. I'm seeking a role to apply data expertise to solve complex problems as both an analyst and communicator.
 </p>
 
 <p>
@@ -80,45 +79,53 @@ format:
 <h3>Work Experience</h3>
 
 <div class="experience-card">
-  <h4>Digital Marketing Executive <small>May 2025 — Present</small></h4>
-  <p><strong>Murray’s Chicken — Remote</strong></p>
+  <h4>Murray’s Chicken / MB Food Processing Inc.</h4>
+  <p><strong>Data Analyst (Marketing & Operations) </strong><small> May 2025 — Present </small></p>
   <ul>
-    <li>Overhauled and optimized company website using WordPress, Shopify, WooCommerce, and custom HTML/CSS, significantly improving SEO and user experience.</li>
-    <li>Launched influencer outreach campaigns targeting food creators to drive brand awareness and product engagement.</li>
-    <li>Managed e-commerce operations, including processing online orders and ensuring smooth fulfillment and customer service.</li>
+    <li>Developed SEO and marketing strategies, testing copy and site structure changes to improve search visibility and customer engagement.</li>
+    <li>Built internal dashboards in Excel and R to forecast sales and track performance against operational targets.</li>
+    <li>Analyzed customer and web traffic data to inform targeted outreach and marketing content.</li>
   </ul>
-  <p><strong><a href="projects/murrays-chicken-digital-marketing/index.html">View Project →</a></strong></p>
+  <p><small><a href="projects/murrays-chicken-digital-marketing/index.html">View Project →</a></small></p>
+
+  <p><strong>Quantitative Financial Analyst </strong><small> May 2024 — Aug 2024</small></p>
+  <ul>
+    <li>Created a financial simulation model in R to forecast how changes in feed prices would impact gross profit margins.</li>
+	  <li>Built interactive dashboards in R Shiny to visualize scenarios for hedging and pricing decisions, used by executives and an external hedging partner.</li>
+    <li>Modeled commodity price trends using time-series forecasts to guide procurement timing and maintain cost stability.</li>
+  </ul>
+  <p><small><a href="projects/commodity-cost-impacts/index.html">View Project →</a></small></p>
 </div>
 
 <div class="experience-card">
-  <h4>Financial Data Analyst (Intern) <small>May 2024 — Aug 2024</small></h4>
-  <p><strong>Murray’s Chicken — South Fallsburg, NY</strong></p>
+  <h4>Hamilton College </h4>
+  <p><strong>Environmental Data Science Research Assistant </strong><small> June 2023 — May 2024 </small></p>
   <ul>
-    <li>Advised C-suite at mid-sized poultry company with no analytics team.</li>
-    <li>Built R dashboard to model grain cost scenarios and optimize margins.</li>
-    <li>Applied machine learning in R to forecast commodity prices and guide pricing decisions.</li>
+    <li>Co-authored a peer-reviewed publication on Arctic land cover change using satellite data and deep learning.</li>
+    <li>Built and trained convolutional neural networks (CNNs) for geospatial classification tasks in R and Python.</li>
+    <li>Conducted statistical modeling and image analysis to evaluate environmental risk over time.</li>
   </ul>
-  <p><strong><a href="projects/commodity-cost-impacts/index.html">View Project →</a></strong></p>
+  <p><small><a href="projects/land-cover/index.html">View Project →</a></small></p>
 </div>
 
 <div class="experience-card">
-  <h4>Environmental Research Assistant <small>Jun 2023 — May 2024</small></h4>
-  <p><strong>Hamilton College — Clinton, NY (Hybrid)</strong></p>
+  <h4>Ulster County Government</h4>
+  <p><strong> Climate Data Analyst </strong><small>Jun 2023 — Aug 2023</small></p>
   <ul>
-    <li>Researched Arctic vegetation change using satellite imagery with Prof. Heather Kropp, co-authoring a paper accepted in Environmental Research: Ecology.</li>
-    <li>Trained a CNN to classify land cover in the Kolyma region, improving environmental monitoring.</li>
+    <li>Co-led a team of 18 interns, overseeing eight environmental projects from concept to presentation for the county’s state senator.</li>
+    <li>Designed ArcGIS dashboards to consolidate data on recycling, renewable energy, and public transportation initiatives.</li>
+    <li>Incorporated demographic and health metrics to highlight community benefits and inform policy recommendations.</li>
   </ul>
-  <p><strong><a href="projects/land-cover/index.html">View Project →</a></strong></p>
+  <p><small><a href="projects/ulster-county-climate-dashboards/index.html">View Project →</a></small></p>
 </div>
 
 <div class="experience-card">
-  <h4>Climate Data Analyst (Intern) <small>Jun 2023 — Aug 2023</small></h4>
-  <p><strong>Ulster County Government — Kingston, NY (Hybrid)</strong></p>
+  <h4>Diamond Digest </h4>
+  <p><strong>Staff Writer, Analyst </strong> <small> Oct 2018 — Present </small></p>
   <ul>
-    <li>Led intern team, publishing their work to a website for project visibility.</li>
-    <li>Built ArcGIS dashboards analyzing climate issues in Ulster County, including analyses of disadvantaged communities and healthcare deserts.</li>
+    <li>Produce analytically driven baseball content, including advanced metrics analysis for MLB teams.</li>
+    <li>Co-manage social media account with 6,000+ followers; contribute to podcasts and live broadcasts.</li>
   </ul>
-  <p><strong><a href="projects/ulster-county-climate-dashboards/index.html">View Project →</a></strong></p>
 </div>
 <hr style="width:25%;text-align:center;margin-left:37.5%">
 
@@ -129,16 +136,14 @@ format:
   <span class="badge" id="badge-python"><i class="fa-brands fa-python"></i> Python</span>
   <span class="badge" id="badge-r"><i class="fa-brands fa-r-project"></i> R</span>
   <span class="badge" id="badge-sql"><i class="fa-solid fa-database"></i> SQL</span>
-  <span class="badge" id="badge-excel"><i class="fa-solid fa-file-excel"></i> Excel</span>
   <span class="badge" id="badge-html"><i class="fa-solid fa-code"></i> HTML</span>
   <span class="badge" id="badge-css"><i class="fa-brands fa-css3-alt"></i> CSS</span>
-  <span class="badge" id="badge-arcgis"><i class="fa-solid fa-earth-americas"></i> ArcGIS</span>
 </div>
 </div>
 
 <div class="experience-card">
 <div class="skill-section">
-  <h3>Data Analysis</h3>
+  <h3>Modeling & Analysis</h3>
   <span class="badge" id="badge-machine-learning"><i class="fa-solid fa-robot"></i> Machine Learning</span>
   <span class="badge" id="badge-predictive"><i class="fa-solid fa-chart-line"></i> Predictive/Time-Series Modeling</span>
   <span class="badge" id="badge-linear-algebra"><i class="fa-solid fa-square-root-variable"></i> Linear Algebra</span>
@@ -148,60 +153,59 @@ format:
 
 <div class="experience-card">
 <div class="skill-section">
-  <h3>Visualization</h3>
-  <span class="badge" id="badge-rstudio"><i class="fa-brands fa-r-project"></i> RStudio</span>
+  <h3>Visualization & Mapping</h3>
+  <span class="badge" id="badge-rstudio"><i class="fa-brands fa-r-project"></i> R Shiny</span>
   <span class="badge" id="badge-tableau"><img src="/assets/icons/tableau.svg" alt="Tableau" class="icon"> Tableau</span>
-  <span class="badge" id="badge-canva"><img src="/assets/icons/canva.svg" alt="Canva" class="icon"> Canva</span>
-  <span class="badge" id="badge-dashboarding"><i class="fa-solid fa-table-columns"></i> Dashboarding</span>
+  <span class="badge" id="badge-python"><i class="fa-brands fa-python"></i> Matplotlib</span>
+  <span class="badge" id="badge-arcgis"><i class="fa-solid fa-earth-americas"></i> ArcGIS</span>
 </div>
 </div>
 
 <div class="experience-card">
 <div class="skill-section">
-  <h3>Other</h3>
-  <span class="badge" id="badge" id="badge-office"><i class="fa-brands fa-microsoft"></i> Microsoft Office</span>
-  <span class="badge" id="badge-ecommerce"><img src="/assets/icons/ecommerce.svg" alt="eCommerce" class="icon"> eCommerce</span>
+  <h3>Tools & Platforms</h3>
+  <span class="badge" id="badge-excel"><i class="fa-solid fa-file-excel"></i> Excel</span>
+  <span class="badge" id="badge-git"><i class="fa-brands fa-github"></i> Git</span>
+  <span class="badge" id="badge-vscode"><img src="/assets/icons/vscode.svg" alt="VS Code" class="icon"> VS Code</span>
   <span class="badge" id="badge-wordpress"><i class="fa-brands fa-wordpress"></i> WordPress</span>
-  <span class="badge" id="badge-shopify"><img src="/assets/icons/shopify.svg" alt="Shopify" class="icon"> Shopify</span>
-  <span class="badge" id="badge-seo"><img src="/assets/icons/seo.svg" alt="SEO Marketing" class="icon"> SEO Marketing</span>
 </div>
 </div>
 </div>
 <hr style="width:25%;text-align:center;margin-left:37.5%">
-<h3>Featured Projects</h3>
+<h3>Recent Projects</h3>
 
 <div class="grid">
-<div class="card">
-  <a href="projects/be-the-qb/index.html">
-    <img src="projects/be-the-qb/be-the-qb.jpg" alt="Be the QB">
-    <h3>Be the QB</h3>
+<div class="project-card">
+  <a href="projects/prop-rep/index.html"  class="project-card-link">
+    <img src="projects/prop-rep/prop-rep.jpg" alt="Prop Rep">
+    <h3>The Case for Proportional Representation in America</h3>
   </a>
 </div>
 
-<div class="card">
-  <a href="projects/election-prediction/index.html">
-    <img src="projects/election-prediction/election-prediction.jpg" alt="Election Prediction">
-    <h3>2024 Election Model</h3>
+<div class="project-card">
+  <a href="projects/how-zohran-won/index.html" class="project-card-link">
+    <img src="projects/how-zohran-won/how-zohran-won.jpg" alt="How Zohran Won">
+    <h3>How Zohran Won</h3>
   </a>
 </div>
 
-<div class="card">
-  <a href="projects/severe-weather/index.html">
-    <img src="projects/severe-weather/severe-weather.jpg" alt="Severe Weather">
-    <h3>Severe Weather & Voting</h3>
+<div class="project-card">
+  <a href="projects/murrays-chicken-digital-marketing/index.html" class="project-card-link">
+    <img src="projects/murrays-chicken-digital-marketing/murrays-chicken-digital-marketing.jpg" alt="Murray's Chicken Digital Marketing">
+    <h3>Murray's Chicken Digital Marketing</h3>
   </a>
 </div>
 
-<div class="card">
-  <a href="projects.html">
+<div class="project-card">
+  <a href="projects.html" class="project-card-link">
     <img src="projects/all-projects.jpg" alt="All Projects">
-    <h3>See All Projects</h3>
+    <h3>View All Projects</h3>
   </a>
 </div>
 
 </div>
 
-</div>
+<hr style="width:25%;text-align:center;margin-left:37.5%">
 
 <h3>Education</h3>
 <div class="education-card">
@@ -210,7 +214,6 @@ format:
   <p><strong>Bachelor of Arts — Data Science</strong></p></a>
   <img src="hamlogo.png" alt="Hamilton College Logo">
 </div>
-
 
 ## Get in Touch
 

@@ -62,4 +62,4 @@ Remote work's impact on unemployment isn't straightforward. Fully remote policie
 
 ---
 
-*Built for my Labor Economics seminar at Hamilton College (Spring 2024).*
+*Built for a Labor Economics seminar at Hamilton College (Spring 2024).*
